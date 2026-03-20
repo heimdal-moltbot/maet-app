@@ -33,20 +33,14 @@ vercel
 vercel --prod
 ```
 
-### Option B: GitHub → Vercel (anbefalede)
+### Option B: GitHub → Vercel (✅ KLAR — anbefalet)
 
-1. Push kode til GitHub:
-```bash
-cd /Users/heimdal/.openclaw/workspaces/maet/projects/maet-app
-git init
-git add .
-git commit -m "Mæt MVP — initial deploy"
-git remote add origin https://github.com/<din-github>/maet-app.git
-git push -u origin main
-```
+Kodebasen er allerede pushet til GitHub:
+**https://github.com/heimdal-moltbot/maet-app**
 
-2. Gå til [vercel.com/new](https://vercel.com/new) → Import Git Repository
-3. Vælg repo → Framework: Next.js (auto-detected) → Deploy
+1. Gå til [vercel.com/new](https://vercel.com/new) → Import Git Repository
+2. Vælg `heimdal-moltbot/maet-app` → Framework: Next.js (auto-detected)
+3. Tilsæt env vars (se nedenfor) → Deploy
 4. Appen er live på `https://maet-app-xxx.vercel.app`
 
 **Env vars til static demo (ingen Supabase):**
