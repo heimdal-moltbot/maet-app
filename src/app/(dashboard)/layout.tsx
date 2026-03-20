@@ -1,4 +1,4 @@
-import { Sidebar } from '@/components/navigation/Sidebar'
+import { BottomNav } from '@/components/navigation/BottomNav'
 
 export default function DashboardLayout({
   children,
@@ -6,9 +6,9 @@ export default function DashboardLayout({
   children: React.ReactNode
 }) {
   return (
-    <div className="flex min-h-[calc(100vh-4rem)]">
-      <Sidebar />
-      <main className="flex-1 overflow-y-auto p-6 lg:p-8">{children}</main>
+    <div className="min-h-screen bg-bg">
+      <main className="max-w-md mx-auto pb-16">{children}</main>
+      <BottomNav />
     </div>
   )
 }

@@ -33,21 +33,22 @@ export async function updateSession(request: NextRequest) {
     data: { user },
   } = await supabase.auth.getUser()
 
-  // Redirect unauthenticated users away from dashboard routes
-  if (
-    !user &&
-    request.nextUrl.pathname.startsWith('/dashboard') ||
-    !user &&
-    request.nextUrl.pathname.startsWith('/madplan') ||
-    !user &&
-    request.nextUrl.pathname.startsWith('/opskrifter') ||
-    !user &&
-    request.nextUrl.pathname.startsWith('/indkoebsliste') ||
-    !user &&
-    request.nextUrl.pathname.startsWith('/profil')
-  ) {
+  const protectedPaths = ['/dashboard', '/madplan', '/opskrifter', '/indkoebsliste', '/profil', '/onboarding']
+  const isProtected = protectedPaths.some(p => request.nextUrl.pathname.startsWith(p))
+
+  // Redirect unauthenticated users away from protected routes
+  if (!user && isProtected) {
     const url = request.nextUrl.clone()
     url.pathname = '/login'
+    return NextResponse.redirect(url)
+  }
+
+  // Redirect authenticated users away from auth pages
+  const authPaths = ['/login', '/signup']
+  const isAuthPage = authPaths.some(p => request.nextUrl.pathname === p)
+  if (user && isAuthPage) {
+    const url = request.nextUrl.clone()
+    url.pathname = '/dashboard'
     return NextResponse.redirect(url)
   }
 

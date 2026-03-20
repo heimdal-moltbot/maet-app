@@ -1,0 +1,6978 @@
+[
+  {
+    "id": "1fcdeecd-7f0f-413b-bb09-c689c3f668b7",
+    "title": "Pasta Bolognese",
+    "slug": "pasta-bolognese",
+    "description": "Klassisk kødsauce med hakket oksekød og tomater — en af de mest elskede hverdagsretter.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "500g hakket oksekød",
+        "name": "hakket oksekød",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "raw": "400g spaghetti",
+        "name": "spaghetti",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "400g flåede tomater",
+        "name": "flåede tomater",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "2 spsk tomatpuré",
+        "name": "tomatpuré",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "2",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 stk gulerod",
+        "name": "gulerod",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 dl rødvin",
+        "name": "rødvin",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "1 tsk oregano",
+        "name": "oregano",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk timian",
+        "name": "timian",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "dansk",
+      "klassisk dansk",
+      "mellem",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "a849d321-0589-43e2-bd7d-a4f9f2ee9390",
+    "title": "Frikadeller med kartofler og brun sovs",
+    "slug": "frikadeller-med-kartofler-og-brun-sovs",
+    "description": "Den ultimative danske klassiker. Bløde frikadeller, kogte kartofler og hjemmelavet brun sovs.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "500g hakket svinekød/kalv",
+        "name": "hakket svinekød/kalv",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk æg",
+        "name": "æg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 spsk mel",
+        "name": "mel",
+        "quantity": "3",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 dl mælk",
+        "name": "mælk",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "50g smør",
+        "name": "smør",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "raw": "800g kartofler",
+        "name": "kartofler",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "4 dl oksebouillon",
+        "name": "oksebouillon",
+        "quantity": "4",
+        "unit": "dl"
+      },
+      {
+        "raw": "0,5 dl fløde",
+        "name": "fløde",
+        "quantity": "0,5",
+        "unit": "dl"
+      },
+      {
+        "raw": "0,5 tsk allehånde",
+        "name": "allehånde",
+        "quantity": "0,5",
+        "unit": "tsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "dansk",
+      "mellem",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "b748d31b-5244-4bc7-bfab-c436227e8bc2",
+    "title": "Kyllingewok med grøntsager og ris",
+    "slug": "kyllingewok-med-groentsager-og-ris",
+    "description": "Hurtig og sund hverdagsret med sprøde grøntsager og saftig kylling.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g kyllingebryst",
+        "name": "kyllingebryst",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "300g ris",
+        "name": "ris",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk rød peberfrugt",
+        "name": "rød peberfrugt",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "200g champignon",
+        "name": "champignon",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "2 stk gulerødder",
+        "name": "gulerødder",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "2",
+        "unit": "fed"
+      },
+      {
+        "raw": "3 spsk sojasovs",
+        "name": "sojasovs",
+        "quantity": "3",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 spsk sesamolie",
+        "name": "sesamolie",
+        "quantity": "1",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 tsk ingefær",
+        "name": "ingefær",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 spsk olie",
+        "name": "olie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "hurtig",
+      "asiatisk",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "1d5d9e47-2a39-41d3-bc86-6e872c7d8dd3",
+    "title": "Fiskefilet med remoulade og ærter",
+    "slug": "fiskefilet-med-remoulade-og-aerter",
+    "description": "Let og hurtigt aftensmåltid med paneret fisk og klassisk dansk remoulade.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g paneret fiskefilet",
+        "name": "paneret fiskefilet",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "400g frosne ærter",
+        "name": "frosne ærter",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "800g kartofler",
+        "name": "kartofler",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "4 spsk remoulade",
+        "name": "remoulade",
+        "quantity": "4",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 stk citron",
+        "name": "citron",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 spsk olie",
+        "name": "olie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "aa900f69-72c8-446d-8fcb-a413ec85ae76",
+    "title": "Grøntsagssuppe med brød",
+    "slug": "groentsagssuppe-med-broed",
+    "description": "Mættende vegetarsuppe fyldt med sæsongrøntsager — billig, sund og enkel.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "3 stk gulerødder",
+        "name": "gulerødder",
+        "quantity": "3",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 stk pastinakker",
+        "name": "pastinakker",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 stk kartofler",
+        "name": "kartofler",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 stk persillerod",
+        "name": "persillerod",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "400g kikærter",
+        "name": "kikærter",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "1000 ml grøntsagsbouillon",
+        "name": "grøntsagsbouillon",
+        "quantity": "1000",
+        "unit": "ml"
+      },
+      {
+        "raw": "1 tsk timian",
+        "name": "timian",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "suppe",
+      "vegetar",
+      "vegansk",
+      "glutenfri",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "8d34a92a-175c-440c-a2ab-ef7666263436",
+    "title": "Lasagne",
+    "slug": "lasagne",
+    "description": "Familievenlig klassiker der laves i stor portion — perfekt til restemad næste dag.",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 60,
+    "servings": 4,
+    "difficulty": "mellem",
+    "ingredients": [
+      {
+        "raw": "400g hakket oksekød",
+        "name": "hakket oksekød",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "12 stk lasagneplader",
+        "name": "lasagneplader",
+        "quantity": "12",
+        "unit": "stk"
+      },
+      {
+        "raw": "400g flåede tomater",
+        "name": "flåede tomater",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "2",
+        "unit": "fed"
+      },
+      {
+        "raw": "50g smør",
+        "name": "smør",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "raw": "50g mel",
+        "name": "mel",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "raw": "500 ml mælk",
+        "name": "mælk",
+        "quantity": "500",
+        "unit": "ml"
+      },
+      {
+        "raw": "100g revet ost",
+        "name": "revet ost",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "raw": "0,5 tsk muskatnød",
+        "name": "muskatnød",
+        "quantity": "0,5",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "dansk",
+      "klassisk dansk",
+      "mellem",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "90359759-8628-4c3a-81f5-ed8c9563a804",
+    "title": "Ovnkylling med rodfrugter",
+    "slug": "ovnkylling-med-rodfrugter",
+    "description": "Nem søndagsret der passer sig selv i ovnen. Saftig kylling med karameliserede rodfrugter.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 75,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "1500g hel kylling",
+        "name": "hel kylling",
+        "quantity": "1500",
+        "unit": "g"
+      },
+      {
+        "raw": "4 stk gulerødder",
+        "name": "gulerødder",
+        "quantity": "4",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 stk pastinakker",
+        "name": "pastinakker",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 stk kartofler",
+        "name": "kartofler",
+        "quantity": "3",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 hoved hvidløg",
+        "name": "hvidløg",
+        "quantity": "1",
+        "unit": "hoved"
+      },
+      {
+        "raw": "1 stk citron",
+        "name": "citron",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "2 tsk timian",
+        "name": "timian",
+        "quantity": "2",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk rosmarin",
+        "name": "rosmarin",
+        "quantity": "1",
+        "unit": "tsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "glutenfri",
+      "lang",
+      "weekend",
+      "dyr"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "37a38b41-b5a2-47d3-87e5-7eaee62830be",
+    "title": "Linsegryde med kokosmælk og spinat",
+    "slug": "linsegryde-med-kokosmaelk-og-spinat",
+    "description": "Cremet vegetarisk gryde med indisk inspiration — mætter godt og koster meget lidt.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "300g røde linser",
+        "name": "røde linser",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "raw": "400 ml kokosmælk",
+        "name": "kokosmælk",
+        "quantity": "400",
+        "unit": "ml"
+      },
+      {
+        "raw": "400g flåede tomater",
+        "name": "flåede tomater",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "200g frossen spinat",
+        "name": "frossen spinat",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "3",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 spsk karry",
+        "name": "karry",
+        "quantity": "1",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 tsk spidskommen",
+        "name": "spidskommen",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk ingefær",
+        "name": "ingefær",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 spsk olie",
+        "name": "olie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "suppe",
+      "vegetar",
+      "vegansk",
+      "glutenfri",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "7c0aa615-d7d5-4fca-bcb3-d33ecf87e6f7",
+    "title": "Hakkebøffer med løgsvamp og pommes frites",
+    "slug": "hakkeboeffer-med-loegsvamp-og-pommes-frites",
+    "description": "Klassisk dansker-favorit — let at lave og elsket af hele familien.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g hakket oksekød",
+        "name": "hakket oksekød",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "2 stk løg",
+        "name": "løg",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "200g champignon",
+        "name": "champignon",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "800g frosne pommes frites",
+        "name": "frosne pommes frites",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "30g smør",
+        "name": "smør",
+        "quantity": "30",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "084fa6b9-faef-4585-9721-9b1ffb87e421",
+    "title": "Tomatsuppe med croutoner",
+    "slug": "tomatsuppe-med-croutoner",
+    "description": "Varm og trøstende suppe — god til kolde aftener og nem at lave med dåsetomater.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "800g flåede tomater",
+        "name": "flåede tomater",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "3",
+        "unit": "fed"
+      },
+      {
+        "raw": "500 ml grøntsagsbouillon",
+        "name": "grøntsagsbouillon",
+        "quantity": "500",
+        "unit": "ml"
+      },
+      {
+        "raw": "1 dl fløde",
+        "name": "fløde",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "1 tsk sukker",
+        "name": "sukker",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk basilikum",
+        "name": "basilikum",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "4 skiver daggammelt brød",
+        "name": "daggammelt brød",
+        "quantity": "4",
+        "unit": "skiver"
+      },
+      {
+        "raw": "3 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "3",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "suppe",
+      "vegetar",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "0b6c678f-5c17-4203-bec3-254b38e45d76",
+    "title": "Kyllingesuppe med nudler",
+    "slug": "kyllingesuppe-med-nudler",
+    "description": "Den ultimative comfort food — varm, mættende og nem at lave.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "4 stk kyllingelår",
+        "name": "kyllingelår",
+        "quantity": "4",
+        "unit": "stk"
+      },
+      {
+        "raw": "150g æggenudler",
+        "name": "æggenudler",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "raw": "3 stk gulerødder",
+        "name": "gulerødder",
+        "quantity": "3",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 stængler bladselleri",
+        "name": "stængler bladselleri",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1500 ml kyllingebouillon",
+        "name": "kyllingebouillon",
+        "quantity": "1500",
+        "unit": "ml"
+      },
+      {
+        "raw": "persille til pynt",
+        "name": "persille til pynt",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "suppe",
+      "klassisk dansk",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "a539220c-8c14-4eb3-a4c0-a8cad15cac76",
+    "title": "Æggekage med bacon og purløg",
+    "slug": "aeggekage-med-bacon-og-purloeg",
+    "description": "Den hurtigste og billigste aftensmad der findes — og en dansk klassiker.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 20,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "8 stk æg",
+        "name": "æg",
+        "quantity": "8",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 dl mælk",
+        "name": "mælk",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "150g bacon",
+        "name": "bacon",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "raw": "1 bundt purløg",
+        "name": "purløg",
+        "quantity": "1",
+        "unit": "bundt"
+      },
+      {
+        "raw": "20g smør",
+        "name": "smør",
+        "quantity": "20",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "5a2e37c8-06fa-4d0a-9d46-ccb475434de4",
+    "title": "Pasta med laks og flødesovs",
+    "slug": "pasta-med-laks-og-floedesovs",
+    "description": "Hurtig og lækker pastagryde med røget laks og fløde — klar på 20 minutter.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 20,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "400g pasta",
+        "name": "pasta",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "200g røget laks",
+        "name": "røget laks",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "2 dl fløde",
+        "name": "fløde",
+        "quantity": "2",
+        "unit": "dl"
+      },
+      {
+        "raw": "1 dl cremefraiche",
+        "name": "cremefraiche",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "2 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "2",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 stk citron",
+        "name": "citron",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "dild til pynt",
+        "name": "dild til pynt",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "raw": "20g smør",
+        "name": "smør",
+        "quantity": "20",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "hurtig",
+      "fisk",
+      "mellem"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "fd2aecdb-280f-4452-9637-e88e6c67374b",
+    "title": "Tacos med hakket oksekød",
+    "slug": "tacos-med-hakket-oksekoed",
+    "description": "Fredagens favorit for de fleste familier. Alle bygger selv — børn elsker det.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "500g hakket oksekød",
+        "name": "hakket oksekød",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "raw": "8 stk tacoskaller",
+        "name": "tacoskaller",
+        "quantity": "8",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 pakke tacokrydderi",
+        "name": "tacokrydderi",
+        "quantity": "1",
+        "unit": "pakke"
+      },
+      {
+        "raw": "400g kidneybønner",
+        "name": "kidneybønner",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk tomat",
+        "name": "tomat",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 stk avocado",
+        "name": "avocado",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "0,5 hoved salat",
+        "name": "salat",
+        "quantity": "0,5",
+        "unit": "hoved"
+      },
+      {
+        "raw": "1 dl cremefraiche",
+        "name": "cremefraiche",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "100g revet ost",
+        "name": "revet ost",
+        "quantity": "100",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "hurtig",
+      "mexicansk",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "c71db823-c399-468d-ae10-16974b24b098",
+    "title": "Chili con carne",
+    "slug": "chili-con-carne",
+    "description": "Mættende og krydret gryde der smager endnu bedre næste dag. God til fryseren.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 45,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "500g hakket oksekød",
+        "name": "hakket oksekød",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "raw": "400g kidneybønner",
+        "name": "kidneybønner",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "400g flåede tomater",
+        "name": "flåede tomater",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "200g majs",
+        "name": "majs",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "3",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 tsk spidskommen",
+        "name": "spidskommen",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk paprika",
+        "name": "paprika",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "chili efter smag",
+        "name": "chili efter smag",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "raw": "300g ris",
+        "name": "ris",
+        "quantity": "300",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "glutenfri",
+      "billig",
+      "mellem"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "9cf00852-4bfe-4b0d-a386-e2cc67502915",
+    "title": "Bagt laks med citron og timian",
+    "slug": "bagt-laks-med-citron-og-timian",
+    "description": "Enkel, sund og hurtig ret. Laksen passer sig selv i ovnen mens du laver tilbehøret.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g laksestykker",
+        "name": "laksestykker",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk citron",
+        "name": "citron",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 tsk timian",
+        "name": "timian",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk dild",
+        "name": "dild",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "800g kartofler",
+        "name": "kartofler",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "300g grønne bønner",
+        "name": "grønne bønner",
+        "quantity": "300",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "hurtig",
+      "fisk",
+      "glutenfri",
+      "sund"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "66761e20-88b4-4aee-adc7-4828473424d6",
+    "title": "Kylling i karry med basmatiris",
+    "slug": "kylling-i-karry-med-basmatiris",
+    "description": "Mild og børnevenlig karryret med kokosmælk — let at lave og populær hos hele familien.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g kyllingebryst",
+        "name": "kyllingebryst",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "400 ml kokosmælk",
+        "name": "kokosmælk",
+        "quantity": "400",
+        "unit": "ml"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "2",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 spsk mild karrypasta",
+        "name": "mild karrypasta",
+        "quantity": "1",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 stk rød peberfrugt",
+        "name": "rød peberfrugt",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "300g basmatiris",
+        "name": "basmatiris",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "raw": "koriander til pynt",
+        "name": "koriander til pynt",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "raw": "2 spsk olie",
+        "name": "olie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "glutenfri",
+      "asiatisk",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "833d2edb-3f33-449c-895c-e609b598ff63",
+    "title": "Grøntsagscurry med blomkål og kikærter",
+    "slug": "groentsagscurry-med-blomkaal-og-kikaerter",
+    "description": "Varmende vegansk curry fyldt med blomkål og proteinholdige kikærter.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "1 hoved blomkål",
+        "name": "blomkål",
+        "quantity": "1",
+        "unit": "hoved"
+      },
+      {
+        "raw": "400g kikærter",
+        "name": "kikærter",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "400 ml kokosmælk",
+        "name": "kokosmælk",
+        "quantity": "400",
+        "unit": "ml"
+      },
+      {
+        "raw": "400g flåede tomater",
+        "name": "flåede tomater",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "3",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 tsk ingefær",
+        "name": "ingefær",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 tsk karry",
+        "name": "karry",
+        "quantity": "2",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk gurkemeje",
+        "name": "gurkemeje",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "300g ris",
+        "name": "ris",
+        "quantity": "300",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "suppe",
+      "vegetar",
+      "vegansk",
+      "glutenfri",
+      "billig",
+      "asiatisk"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "254f9d38-0a6e-4ab3-b0d4-cba97490df92",
+    "title": "Pasta med pesto og cherrytomater",
+    "slug": "pasta-med-pesto-og-cherrytomater",
+    "description": "Enklere end enkelt — men smager utroligt godt med god pesto og sprøde tomater.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 15,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "400g pasta",
+        "name": "pasta",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "4 spsk pesto",
+        "name": "pesto",
+        "quantity": "4",
+        "unit": "spsk"
+      },
+      {
+        "raw": "200g cherrytomater",
+        "name": "cherrytomater",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "100g frisk mozzarella",
+        "name": "frisk mozzarella",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "basilikum til pynt",
+        "name": "basilikum til pynt",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "vegetar",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "1dec083d-7110-4469-989b-eef463134a0e",
+    "title": "Ærtesuppe med brød",
+    "slug": "aertesuppe-med-broed",
+    "description": "Klassisk dansk ærtesuppe der varmer kroppen på kolde hverdage.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "500g frosne ærter",
+        "name": "frosne ærter",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "2",
+        "unit": "fed"
+      },
+      {
+        "raw": "1000 ml grøntsagsbouillon",
+        "name": "grøntsagsbouillon",
+        "quantity": "1000",
+        "unit": "ml"
+      },
+      {
+        "raw": "1 dl fløde",
+        "name": "fløde",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "friske krydderurter",
+        "name": "friske krydderurter",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "raw": "2 spsk smør",
+        "name": "smør",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "suppe",
+      "vegetar",
+      "hurtig",
+      "billig",
+      "klassisk dansk"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "b2b3131f-1d7d-41d8-bc08-ea149050a2ee",
+    "title": "Kikærte- og spinatsuppe",
+    "slug": "kikaerte-og-spinatsuppe",
+    "description": "Nærende vegansk suppe med masser af protein fra kikærter og jern fra spinat.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "400g kikærter",
+        "name": "kikærter",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "300g frossen spinat",
+        "name": "frossen spinat",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "raw": "800 ml grøntsagsbouillon",
+        "name": "grøntsagsbouillon",
+        "quantity": "800",
+        "unit": "ml"
+      },
+      {
+        "raw": "400g flåede tomater",
+        "name": "flåede tomater",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "3",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 tsk spidskommen",
+        "name": "spidskommen",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk paprika",
+        "name": "paprika",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "suppe",
+      "vegetar",
+      "vegansk",
+      "glutenfri",
+      "billig",
+      "hurtig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "776babad-7542-42ea-8e91-ba974f8a7528",
+    "title": "Risotto med svampe og parmesan",
+    "slug": "risotto-med-svampe-og-parmesan",
+    "description": "Cremeret klassisk risotto — kræver lidt tålmodighed men er det værd.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "servings": 4,
+    "difficulty": "mellem",
+    "ingredients": [
+      {
+        "raw": "400g risottoris",
+        "name": "risottoris",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "300g blandede svampe",
+        "name": "blandede svampe",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "raw": "1 dl hvidvin",
+        "name": "hvidvin",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "1200 ml grøntsagsbouillon",
+        "name": "grøntsagsbouillon",
+        "quantity": "1200",
+        "unit": "ml"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "2",
+        "unit": "fed"
+      },
+      {
+        "raw": "80g parmesan",
+        "name": "parmesan",
+        "quantity": "80",
+        "unit": "g"
+      },
+      {
+        "raw": "30g smør",
+        "name": "smør",
+        "quantity": "30",
+        "unit": "g"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "vegetar",
+      "italiensk",
+      "mellem"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "49346b17-6e71-43de-a247-4a9c4eb04a18",
+    "title": "Pulled pork med coleslaw og burgerboller",
+    "slug": "pulled-pork-med-coleslaw-og-burgerboller",
+    "description": "Langsomt tilberedt svinekød der falder fra hinanden — perfekt weekendprojekt.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 240,
+    "total_time_minutes": 255,
+    "servings": 4,
+    "difficulty": "mellem",
+    "ingredients": [
+      {
+        "raw": "1200g svinekam",
+        "name": "svinekam",
+        "quantity": "1200",
+        "unit": "g"
+      },
+      {
+        "raw": "3 spsk BBQ-krydderi",
+        "name": "BBQ-krydderi",
+        "quantity": "3",
+        "unit": "spsk"
+      },
+      {
+        "raw": "4 stk burgerboller",
+        "name": "burgerboller",
+        "quantity": "4",
+        "unit": "stk"
+      },
+      {
+        "raw": "200g hvidkål",
+        "name": "hvidkål",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "2 stk gulerødder",
+        "name": "gulerødder",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 spsk mayonnaise",
+        "name": "mayonnaise",
+        "quantity": "3",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 spsk æblecidereddike",
+        "name": "æblecidereddike",
+        "quantity": "1",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "svinekød",
+      "weekend",
+      "lang",
+      "mellem"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.094Z"
+  },
+  {
+    "id": "bc124cbc-2522-4894-b2e3-d07f1885289a",
+    "title": "Pandekager med syltetøj og flødeskum",
+    "slug": "pandekager-med-syltetoej-og-floedeskum",
+    "description": "De klassiske tynde danske pandekager — elsket af alle generationer.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "3 stk æg",
+        "name": "æg",
+        "quantity": "3",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 dl mælk",
+        "name": "mælk",
+        "quantity": "3",
+        "unit": "dl"
+      },
+      {
+        "raw": "150g mel",
+        "name": "mel",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "raw": "20g smør",
+        "name": "smør",
+        "quantity": "20",
+        "unit": "g"
+      },
+      {
+        "raw": "syltetøj",
+        "name": "syltetøj",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "raw": "flødeskum",
+        "name": "flødeskum",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "dessert",
+      "klassisk dansk",
+      "vegetar",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "35bf4910-b757-4840-99be-4ffd8bee5f63",
+    "title": "Hjemmelavet pizza margherita",
+    "slug": "hjemmelavet-pizza-margherita",
+    "description": "Sprød pizzabund med tomatsovs og mozzarella — nem at lave og elsket af alle.",
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 45,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "400g pizzadej",
+        "name": "pizzadej",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "200 ml tomatsovs",
+        "name": "tomatsovs",
+        "quantity": "200",
+        "unit": "ml"
+      },
+      {
+        "raw": "200g frisk mozzarella",
+        "name": "frisk mozzarella",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "basilikumblade",
+        "name": "basilikumblade",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "vegetar",
+      "italiensk",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "b73cdff0-4dfd-438e-beea-79d77413b8eb",
+    "title": "Stegt svinekam med æbleskiver og kartofler",
+    "slug": "stegt-svinekam-med-aebleskiver-og-kartofler",
+    "description": "En klassisk dansk søndagsret der minder om bedste-mad og hygge.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 90,
+    "total_time_minutes": 105,
+    "servings": 4,
+    "difficulty": "mellem",
+    "ingredients": [
+      {
+        "raw": "1200g svinekam med svær",
+        "name": "svinekam med svær",
+        "quantity": "1200",
+        "unit": "g"
+      },
+      {
+        "raw": "800g kartofler",
+        "name": "kartofler",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "4 stk æbler",
+        "name": "æbler",
+        "quantity": "4",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 spsk brun sukker",
+        "name": "brun sukker",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 tsk kanel",
+        "name": "kanel",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "30g smør",
+        "name": "smør",
+        "quantity": "30",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "svinekød",
+      "weekend",
+      "lang",
+      "dyr"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "de73f3d4-c0f5-4d41-8f23-bfc8076fe720",
+    "title": "Oksesteg med brun sovs og rødkål",
+    "slug": "oksesteg-med-brun-sovs-og-roedkaal",
+    "description": "Den traditionelle danske søndag med kraftig brun sovs og syrligt rødkål.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 90,
+    "total_time_minutes": 105,
+    "servings": 4,
+    "difficulty": "mellem",
+    "ingredients": [
+      {
+        "raw": "1200g oksesteg",
+        "name": "oksesteg",
+        "quantity": "1200",
+        "unit": "g"
+      },
+      {
+        "raw": "4 dl oksebouillon",
+        "name": "oksebouillon",
+        "quantity": "4",
+        "unit": "dl"
+      },
+      {
+        "raw": "2 spsk mel",
+        "name": "mel",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "200g rødkål på glas",
+        "name": "rødkål på glas",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "800g kartofler",
+        "name": "kartofler",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "2 stk løg",
+        "name": "løg",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 stk laurbærblad",
+        "name": "laurbærblad",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "10 stk peberkorn",
+        "name": "peberkorn",
+        "quantity": "10",
+        "unit": "stk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "oksekød",
+      "weekend",
+      "lang",
+      "dyr"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "7d13c775-e667-406d-b91b-588388e093b7",
+    "title": "Spejlæg med bacon og ristede kartofler",
+    "slug": "spejlaeg-med-bacon-og-ristede-kartofler",
+    "description": "Simpel og tilfredsstillende hverdagsmad — og en fremragende brunch-ret.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "8 stk æg",
+        "name": "æg",
+        "quantity": "8",
+        "unit": "stk"
+      },
+      {
+        "raw": "200g bacon",
+        "name": "bacon",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "800g kartofler",
+        "name": "kartofler",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "20g smør",
+        "name": "smør",
+        "quantity": "20",
+        "unit": "g"
+      },
+      {
+        "raw": "purløg til pynt",
+        "name": "purløg til pynt",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "frokost",
+      "klassisk dansk",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "8286a741-8dc0-4eb6-898a-cb491669903f",
+    "title": "Grønkålssalat med kylling og sesamdressing",
+    "slug": "groenkaalssalat-med-kylling-og-sesamdressing",
+    "description": "Nærende salat med sprød grønkål, ristet kylling og asiatisk-inspireret dressing.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "400g kyllingebryst",
+        "name": "kyllingebryst",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "200g grønkål",
+        "name": "grønkål",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "2 spsk sesamolie",
+        "name": "sesamolie",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "2 spsk sojasovs",
+        "name": "sojasovs",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 spsk honning",
+        "name": "honning",
+        "quantity": "1",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 stk citron",
+        "name": "citron",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "50g sesamfrø",
+        "name": "sesamfrø",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "raw": "2 stk gulerødder",
+        "name": "gulerødder",
+        "quantity": "2",
+        "unit": "stk"
+      }
+    ],
+    "tags": [
+      "salat",
+      "kylling",
+      "hurtig",
+      "glutenfri",
+      "sund"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "016bc375-677e-47c0-9216-f0f5d32774ea",
+    "title": "Fiskestrimler med pommes frites og remoulade",
+    "slug": "fiskestrimler-med-pommes-frites-og-remoulade",
+    "description": "Børnenes favorit — sprøde fiskestrimler med hjemmelavet remouladedip.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g torsk eller sej",
+        "name": "torsk eller sej",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "100g rasp",
+        "name": "rasp",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "raw": "2 stk æg",
+        "name": "æg",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "800g frosne pommes frites",
+        "name": "frosne pommes frites",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "4 spsk remoulade",
+        "name": "remoulade",
+        "quantity": "4",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 stk citron",
+        "name": "citron",
+        "quantity": "1",
+        "unit": "stk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "fisk",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "c1fc1673-3598-4adf-a2bd-255d8cfc25e7",
+    "title": "Medisterpølse med rødkål og kartofler",
+    "slug": "medisterpoelse-med-roedkaal-og-kartofler",
+    "description": "Den klassiske danske vinterret — god, billig og mættende.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g medisterpølse",
+        "name": "medisterpølse",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "800g kartofler",
+        "name": "kartofler",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "200g rødkål på glas",
+        "name": "rødkål på glas",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "1 spsk smør",
+        "name": "smør",
+        "quantity": "1",
+        "unit": "spsk"
+      },
+      {
+        "raw": "sennep til servering",
+        "name": "sennep til servering",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "svinekød",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "be260079-a287-4d1e-ab51-7f1bf5124dbb",
+    "title": "Stegt flæsk med persillesovs",
+    "slug": "stegt-flaesk-med-persillesovs",
+    "description": "Danmarks nationalret. Sprødt flæsk, blomme-kartofler og cremet persillesovs.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g stegt flæsk",
+        "name": "stegt flæsk",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "800g nye kartofler",
+        "name": "nye kartofler",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "1 bundt persille",
+        "name": "persille",
+        "quantity": "1",
+        "unit": "bundt"
+      },
+      {
+        "raw": "3 dl mælk",
+        "name": "mælk",
+        "quantity": "3",
+        "unit": "dl"
+      },
+      {
+        "raw": "2 spsk mel",
+        "name": "mel",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "30g smør",
+        "name": "smør",
+        "quantity": "30",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "svinekød",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "52f9d06f-ee48-4b48-9478-75ae1eda6392",
+    "title": "Biksemad med spejlæg",
+    "slug": "biksemad-med-spejlaeg",
+    "description": "En klassisk restedag-ret der bruger gårsdagens kartofler og kød på en lækker måde.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 20,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g kogte kartofler",
+        "name": "kogte kartofler",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "300g kogt kød blandet",
+        "name": "kogt kød blandet",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "4 stk æg",
+        "name": "æg",
+        "quantity": "4",
+        "unit": "stk"
+      },
+      {
+        "raw": "30g smør",
+        "name": "smør",
+        "quantity": "30",
+        "unit": "g"
+      },
+      {
+        "raw": "Worcestershire sauce",
+        "name": "Worcestershire sauce",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "b4181eae-b44e-4644-b5e2-16c07101afa3",
+    "title": "Rugbrødssandwich med leverpostej",
+    "slug": "rugbroedssandwich-med-leverpostej",
+    "description": "Den ultimative danske frokostklassiker — leverpostej på mørkt rugbrød.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 5,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "8 skiver rugbrød",
+        "name": "rugbrød",
+        "quantity": "8",
+        "unit": "skiver"
+      },
+      {
+        "raw": "200g leverpostej",
+        "name": "leverpostej",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "4 skiver rødbede",
+        "name": "rødbede",
+        "quantity": "4",
+        "unit": "skiver"
+      },
+      {
+        "raw": "4 skiver syltede agurker",
+        "name": "syltede agurker",
+        "quantity": "4",
+        "unit": "skiver"
+      }
+    ],
+    "tags": [
+      "frokost",
+      "klassisk dansk",
+      "madpakke",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "db3bab40-2d02-40b1-b03b-b520c357a8cc",
+    "title": "Vegansk chili sin carne",
+    "slug": "vegansk-chili-sin-carne",
+    "description": "Fyldig chili uden kød — bønnerne giver al den mæthed man behøver.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "400g sorte bønner",
+        "name": "sorte bønner",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "400g kidneybønner",
+        "name": "kidneybønner",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "400g flåede tomater",
+        "name": "flåede tomater",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk rød peberfrugt",
+        "name": "rød peberfrugt",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "3",
+        "unit": "fed"
+      },
+      {
+        "raw": "2 tsk paprika",
+        "name": "paprika",
+        "quantity": "2",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk spidskommen",
+        "name": "spidskommen",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "chili efter smag",
+        "name": "chili efter smag",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "raw": "300g ris",
+        "name": "ris",
+        "quantity": "300",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "vegetar",
+      "vegansk",
+      "glutenfri",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "81ad3fcd-8199-4679-aac4-dfb44d14f25c",
+    "title": "Ovnbagt blomkål med tahini og granatæble",
+    "slug": "ovnbagt-blomkaal-med-tahini-og-granataeble",
+    "description": "En imponerende vegetarret der ser festlig ud men er nem at lave.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 50,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "1 hoved blomkål",
+        "name": "blomkål",
+        "quantity": "1",
+        "unit": "hoved"
+      },
+      {
+        "raw": "3 spsk tahini",
+        "name": "tahini",
+        "quantity": "3",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 stk citron",
+        "name": "citron",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 stk granatæble",
+        "name": "granatæble",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 tsk spidskommen",
+        "name": "spidskommen",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "persille til pynt",
+        "name": "persille til pynt",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "vegetar",
+      "vegansk",
+      "glutenfri",
+      "sund",
+      "mellem"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "cc0903a2-fe2a-4850-82b6-bb4d4bec5adf",
+    "title": "Squashfritters med cremefraiche og dild",
+    "slug": "squashfritters-med-cremefraiche-og-dild",
+    "description": "Lette og sprøde squashkager — perfekte som let frokost eller tilbehør.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g squash",
+        "name": "squash",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "2 stk æg",
+        "name": "æg",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "80g mel",
+        "name": "mel",
+        "quantity": "80",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 dl cremefraiche",
+        "name": "cremefraiche",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "frisk dild",
+        "name": "frisk dild",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "raw": "2 spsk olie",
+        "name": "olie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "frokost",
+      "vegetar",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "b04f203f-08d1-470e-a5e0-65a142097a7c",
+    "title": "Bønnegryde med tomater og paprika",
+    "slug": "boennegryde-med-tomater-og-paprika",
+    "description": "Simpel og smagfuld vegansk gryde der passer sig selv på komfuret.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "400g hvide bønner",
+        "name": "hvide bønner",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "400g flåede tomater",
+        "name": "flåede tomater",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk rød peberfrugt",
+        "name": "rød peberfrugt",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "3",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 tsk røget paprika",
+        "name": "røget paprika",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk oregano",
+        "name": "oregano",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "vegetar",
+      "vegansk",
+      "glutenfri",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "2d4838d7-ca77-4780-b974-6fc36a245340",
+    "title": "Pasta med tun og kapers",
+    "slug": "pasta-med-tun-og-kapers",
+    "description": "Klar på 15 minutter og bruger ingredienser du altid har i skabet.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 15,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "400g pasta",
+        "name": "pasta",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "2 dåser tun",
+        "name": "tun",
+        "quantity": "2",
+        "unit": "dåser"
+      },
+      {
+        "raw": "2 spsk kapers",
+        "name": "kapers",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "2 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "2",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 dl olivenolie",
+        "name": "olivenolie",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "1 stk citron",
+        "name": "citron",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "persille",
+        "name": "persille",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "hurtig",
+      "fisk",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "e339a323-da2e-4eca-a813-9c3a3e064ee8",
+    "title": "Kogt torsk med sennepssovs og kartofler",
+    "slug": "kogt-torsk-med-sennepssovs-og-kartofler",
+    "description": "En klassisk dansk ret fra en tid hvor fisk var hverdag. Mild og mættende.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g torskefilet",
+        "name": "torskefilet",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "800g kartofler",
+        "name": "kartofler",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "3 dl mælk",
+        "name": "mælk",
+        "quantity": "3",
+        "unit": "dl"
+      },
+      {
+        "raw": "2 spsk sennep",
+        "name": "sennep",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "2 spsk mel",
+        "name": "mel",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "30g smør",
+        "name": "smør",
+        "quantity": "30",
+        "unit": "g"
+      },
+      {
+        "raw": "persille til pynt",
+        "name": "persille til pynt",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "fisk",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "28236997-cb3e-4698-bed1-d5ab19d8ba9c",
+    "title": "Linsesuppe med kokos og lime",
+    "slug": "linsesuppe-med-kokos-og-lime",
+    "description": "Fyldig og varm suppe med gule linser og frisk lime — perfekt til kolde hverdage.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "300g gule linser",
+        "name": "gule linser",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "raw": "400 ml kokosmælk",
+        "name": "kokosmælk",
+        "quantity": "400",
+        "unit": "ml"
+      },
+      {
+        "raw": "800 ml grøntsagsbouillon",
+        "name": "grøntsagsbouillon",
+        "quantity": "800",
+        "unit": "ml"
+      },
+      {
+        "raw": "1 stk lime",
+        "name": "lime",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "3",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 spsk ingefær",
+        "name": "ingefær",
+        "quantity": "1",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 tsk gurkemeje",
+        "name": "gurkemeje",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk spidskommen",
+        "name": "spidskommen",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 spsk olie",
+        "name": "olie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "suppe",
+      "vegetar",
+      "vegansk",
+      "glutenfri",
+      "billig",
+      "hurtig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "736115ab-f818-4588-b4e5-aa47b870dec1",
+    "title": "Grillet kylling med quinoasalat",
+    "slug": "grillet-kylling-med-quinoasalat",
+    "description": "Proteinrig og sund middag med krydret grillet kylling og farverig quinoasalat.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g kyllingebryst",
+        "name": "kyllingebryst",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "300g quinoa",
+        "name": "quinoa",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk agurk",
+        "name": "agurk",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "200g cherrytomater",
+        "name": "cherrytomater",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk rød peberfrugt",
+        "name": "rød peberfrugt",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 stk citron",
+        "name": "citron",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "frisk persille",
+        "name": "frisk persille",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "glutenfri",
+      "sund",
+      "hurtig",
+      "mellem"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "8bbdbbbe-6902-456e-957c-ac124b27a064",
+    "title": "Æbleflæsk med rugbrød",
+    "slug": "aebleflaesk-med-rugbroed",
+    "description": "Sød og salt kombination af karamelliserede æbler og stegt flæsk — en unik dansk klassiker.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "400g stegt flæsk",
+        "name": "stegt flæsk",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "3 stk æbler",
+        "name": "æbler",
+        "quantity": "3",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 spsk brun sukker",
+        "name": "brun sukker",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 spsk smør",
+        "name": "smør",
+        "quantity": "1",
+        "unit": "spsk"
+      },
+      {
+        "raw": "rugbrød til servering",
+        "name": "rugbrød til servering",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "svinekød",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "493673ee-a0b8-481d-b84d-a0b0585c30a0",
+    "title": "Rødgrød med fløde",
+    "slug": "roedgroed-med-floede",
+    "description": "Danmarks sødeste klassiker — rubinrød skovbærgrød serveret med frisk fløde.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 20,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "400g blandede røde bær frosne",
+        "name": "blandede røde bær frosne",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "200 ml vand",
+        "name": "vand",
+        "quantity": "200",
+        "unit": "ml"
+      },
+      {
+        "raw": "3 spsk sukker",
+        "name": "sukker",
+        "quantity": "3",
+        "unit": "spsk"
+      },
+      {
+        "raw": "2 spsk kartoffelmel",
+        "name": "kartoffelmel",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "fløde til servering",
+        "name": "fløde til servering",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "dessert",
+      "klassisk dansk",
+      "vegetar",
+      "vegansk",
+      "glutenfri",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "dcc8e958-e0ad-4223-86ea-0076f28c1e55",
+    "title": "Rugbrødstoast med avocado og æg",
+    "slug": "rugbroedstoast-med-avocado-og-aeg",
+    "description": "Hurtig og nærende morgenmad eller frokost med gode fedtstoffer og protein.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 15,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "8 skiver rugbrød",
+        "name": "rugbrød",
+        "quantity": "8",
+        "unit": "skiver"
+      },
+      {
+        "raw": "2 stk avocado",
+        "name": "avocado",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "4 stk æg",
+        "name": "æg",
+        "quantity": "4",
+        "unit": "stk"
+      },
+      {
+        "raw": "salt og peber",
+        "name": "salt og peber",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "raw": "rødpeberfnug til pynt",
+        "name": "rødpeberfnug til pynt",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "frokost",
+      "madpakke",
+      "vegetar",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "f8eb0491-6082-45be-962e-3ac0c5d64fb3",
+    "title": "Ovnstegte grøntsager med couscous",
+    "slug": "ovnstegte-groentsager-med-couscous",
+    "description": "Nem og farverig vegetarret — ovnen gør resten mens du sætter bordet.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "1 stk squash",
+        "name": "squash",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 stk peberfrugter",
+        "name": "peberfrugter",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 stk gulerødder",
+        "name": "gulerødder",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 stk rødløg",
+        "name": "rødløg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "300g couscous",
+        "name": "couscous",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 tsk spidskommen",
+        "name": "spidskommen",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk paprika",
+        "name": "paprika",
+        "quantity": "1",
+        "unit": "tsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "vegetar",
+      "vegansk",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "a228ca8f-3f9f-44b8-8adf-52b21a254e7c",
+    "title": "Kyllingefilet med citron og hvidløg",
+    "slug": "kyllingefilet-med-citron-og-hvidloeg",
+    "description": "Saftigt kyllingebryst marineret i citron og hvidløg — simpelt og utroligt smagfuldt.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g kyllingebryst",
+        "name": "kyllingebryst",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "3 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "3",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 stk citron",
+        "name": "citron",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 tsk timian",
+        "name": "timian",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "800g kartofler",
+        "name": "kartofler",
+        "quantity": "800",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "glutenfri",
+      "hurtig",
+      "sund",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "e7cda111-17c2-4b30-86f2-a8513e98476f",
+    "title": "Torskefrikadeller med kartoffelmos",
+    "slug": "torskefrikadeller-med-kartoffelmos",
+    "description": "Lette fiskefrikadeller af frisk torsk med cremet kartoffelmos.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 35,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "500g torskefilet",
+        "name": "torskefilet",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk æg",
+        "name": "æg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 spsk mel",
+        "name": "mel",
+        "quantity": "3",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "800g kartofler",
+        "name": "kartofler",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "50 ml mælk",
+        "name": "mælk",
+        "quantity": "50",
+        "unit": "ml"
+      },
+      {
+        "raw": "30g smør",
+        "name": "smør",
+        "quantity": "30",
+        "unit": "g"
+      },
+      {
+        "raw": "dild",
+        "name": "dild",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "fisk",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "72a2a438-45a5-45d6-8aa4-4f3534a2d8e3",
+    "title": "Løgsuppe med gruyère-toast",
+    "slug": "loegsuppe-med-gruy-re-toast",
+    "description": "Klassisk fransk løgsuppe — enkel at lave men fyldt med dybde og smag.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 50,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "6 stk løg",
+        "name": "løg",
+        "quantity": "6",
+        "unit": "stk"
+      },
+      {
+        "raw": "1500 ml oksebouillon",
+        "name": "oksebouillon",
+        "quantity": "1500",
+        "unit": "ml"
+      },
+      {
+        "raw": "1 dl hvidvin",
+        "name": "hvidvin",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "4 skiver franskbrød",
+        "name": "franskbrød",
+        "quantity": "4",
+        "unit": "skiver"
+      },
+      {
+        "raw": "80g revet gruyère",
+        "name": "revet gruyère",
+        "quantity": "80",
+        "unit": "g"
+      },
+      {
+        "raw": "2 spsk smør",
+        "name": "smør",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 tsk timian",
+        "name": "timian",
+        "quantity": "1",
+        "unit": "tsk"
+      }
+    ],
+    "tags": [
+      "suppe",
+      "vegetar",
+      "mellem",
+      "dyr"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "0e3cc7e4-b3ea-4bb2-8cb6-d1c0b9c8aab4",
+    "title": "Kødboller i tomatsovs med spaghetti",
+    "slug": "koedboller-i-tomatsovs-med-spaghetti",
+    "description": "Maftige kødboller i aromatisk tomatsovs — en familieretfavorit der samler alle.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 45,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "500g hakket svinekød/oksekød blandet",
+        "name": "hakket svinekød/oksekød blandet",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "raw": "400g flåede tomater",
+        "name": "flåede tomater",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "400g spaghetti",
+        "name": "spaghetti",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "2",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 tsk oregano",
+        "name": "oregano",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk basilikum",
+        "name": "basilikum",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "50g rasp",
+        "name": "rasp",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk æg",
+        "name": "æg",
+        "quantity": "1",
+        "unit": "stk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T18:17:41.095Z"
+  },
+  {
+    "id": "caf405d2-b06a-4753-8f7f-3260553aa8bc",
+    "title": "Pasta Bolognese",
+    "slug": "pasta-bolognese",
+    "description": "Klassisk kødsauce med hakket oksekød og tomater — en af de mest elskede hverdagsretter.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "500g hakket oksekød",
+        "name": "hakket oksekød",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "raw": "400g spaghetti",
+        "name": "spaghetti",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "400g flåede tomater",
+        "name": "flåede tomater",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "2 spsk tomatpuré",
+        "name": "tomatpuré",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "2",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 stk gulerod",
+        "name": "gulerod",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 dl rødvin",
+        "name": "rødvin",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "1 tsk oregano",
+        "name": "oregano",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk timian",
+        "name": "timian",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "dansk",
+      "klassisk dansk",
+      "mellem",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.100Z"
+  },
+  {
+    "id": "ad6dcb17-68e7-4f74-b4c8-ecdbaee43047",
+    "title": "Frikadeller med kartofler og brun sovs",
+    "slug": "frikadeller-med-kartofler-og-brun-sovs",
+    "description": "Den ultimative danske klassiker. Bløde frikadeller, kogte kartofler og hjemmelavet brun sovs.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "500g hakket svinekød/kalv",
+        "name": "hakket svinekød/kalv",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk æg",
+        "name": "æg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 spsk mel",
+        "name": "mel",
+        "quantity": "3",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 dl mælk",
+        "name": "mælk",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "50g smør",
+        "name": "smør",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "raw": "800g kartofler",
+        "name": "kartofler",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "4 dl oksebouillon",
+        "name": "oksebouillon",
+        "quantity": "4",
+        "unit": "dl"
+      },
+      {
+        "raw": "0,5 dl fløde",
+        "name": "fløde",
+        "quantity": "0,5",
+        "unit": "dl"
+      },
+      {
+        "raw": "0,5 tsk allehånde",
+        "name": "allehånde",
+        "quantity": "0,5",
+        "unit": "tsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "dansk",
+      "mellem",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.100Z"
+  },
+  {
+    "id": "c790bc4c-4aae-4782-ab7f-d0b87d089ebd",
+    "title": "Kyllingewok med grøntsager og ris",
+    "slug": "kyllingewok-med-groentsager-og-ris",
+    "description": "Hurtig og sund hverdagsret med sprøde grøntsager og saftig kylling.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g kyllingebryst",
+        "name": "kyllingebryst",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "300g ris",
+        "name": "ris",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk rød peberfrugt",
+        "name": "rød peberfrugt",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "200g champignon",
+        "name": "champignon",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "2 stk gulerødder",
+        "name": "gulerødder",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "2",
+        "unit": "fed"
+      },
+      {
+        "raw": "3 spsk sojasovs",
+        "name": "sojasovs",
+        "quantity": "3",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 spsk sesamolie",
+        "name": "sesamolie",
+        "quantity": "1",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 tsk ingefær",
+        "name": "ingefær",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 spsk olie",
+        "name": "olie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "hurtig",
+      "asiatisk",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.100Z"
+  },
+  {
+    "id": "33636de6-11f8-492b-be4c-e956422fe7b9",
+    "title": "Fiskefilet med remoulade og ærter",
+    "slug": "fiskefilet-med-remoulade-og-aerter",
+    "description": "Let og hurtigt aftensmåltid med paneret fisk og klassisk dansk remoulade.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g paneret fiskefilet",
+        "name": "paneret fiskefilet",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "400g frosne ærter",
+        "name": "frosne ærter",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "800g kartofler",
+        "name": "kartofler",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "4 spsk remoulade",
+        "name": "remoulade",
+        "quantity": "4",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 stk citron",
+        "name": "citron",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 spsk olie",
+        "name": "olie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.100Z"
+  },
+  {
+    "id": "92f8f7fb-ff54-410e-a8b9-99b9eaa66a21",
+    "title": "Grøntsagssuppe med brød",
+    "slug": "groentsagssuppe-med-broed",
+    "description": "Mættende vegetarsuppe fyldt med sæsongrøntsager — billig, sund og enkel.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "3 stk gulerødder",
+        "name": "gulerødder",
+        "quantity": "3",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 stk pastinakker",
+        "name": "pastinakker",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 stk kartofler",
+        "name": "kartofler",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 stk persillerod",
+        "name": "persillerod",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "400g kikærter",
+        "name": "kikærter",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "1000 ml grøntsagsbouillon",
+        "name": "grøntsagsbouillon",
+        "quantity": "1000",
+        "unit": "ml"
+      },
+      {
+        "raw": "1 tsk timian",
+        "name": "timian",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "suppe",
+      "vegetar",
+      "vegansk",
+      "glutenfri",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.100Z"
+  },
+  {
+    "id": "63f33f85-1625-4ced-996b-7080b89f6d00",
+    "title": "Lasagne",
+    "slug": "lasagne",
+    "description": "Familievenlig klassiker der laves i stor portion — perfekt til restemad næste dag.",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 60,
+    "servings": 4,
+    "difficulty": "mellem",
+    "ingredients": [
+      {
+        "raw": "400g hakket oksekød",
+        "name": "hakket oksekød",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "12 stk lasagneplader",
+        "name": "lasagneplader",
+        "quantity": "12",
+        "unit": "stk"
+      },
+      {
+        "raw": "400g flåede tomater",
+        "name": "flåede tomater",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "2",
+        "unit": "fed"
+      },
+      {
+        "raw": "50g smør",
+        "name": "smør",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "raw": "50g mel",
+        "name": "mel",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "raw": "500 ml mælk",
+        "name": "mælk",
+        "quantity": "500",
+        "unit": "ml"
+      },
+      {
+        "raw": "100g revet ost",
+        "name": "revet ost",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "raw": "0,5 tsk muskatnød",
+        "name": "muskatnød",
+        "quantity": "0,5",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "dansk",
+      "klassisk dansk",
+      "mellem",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.100Z"
+  },
+  {
+    "id": "38f471ca-9eb7-46f9-a549-10e1d1bf2f8e",
+    "title": "Ovnkylling med rodfrugter",
+    "slug": "ovnkylling-med-rodfrugter",
+    "description": "Nem søndagsret der passer sig selv i ovnen. Saftig kylling med karameliserede rodfrugter.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 75,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "1500g hel kylling",
+        "name": "hel kylling",
+        "quantity": "1500",
+        "unit": "g"
+      },
+      {
+        "raw": "4 stk gulerødder",
+        "name": "gulerødder",
+        "quantity": "4",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 stk pastinakker",
+        "name": "pastinakker",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 stk kartofler",
+        "name": "kartofler",
+        "quantity": "3",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 hoved hvidløg",
+        "name": "hvidløg",
+        "quantity": "1",
+        "unit": "hoved"
+      },
+      {
+        "raw": "1 stk citron",
+        "name": "citron",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "2 tsk timian",
+        "name": "timian",
+        "quantity": "2",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk rosmarin",
+        "name": "rosmarin",
+        "quantity": "1",
+        "unit": "tsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "glutenfri",
+      "lang",
+      "weekend",
+      "dyr"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.100Z"
+  },
+  {
+    "id": "d75064c9-2f5c-4332-887a-432485a57d48",
+    "title": "Linsegryde med kokosmælk og spinat",
+    "slug": "linsegryde-med-kokosmaelk-og-spinat",
+    "description": "Cremet vegetarisk gryde med indisk inspiration — mætter godt og koster meget lidt.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "300g røde linser",
+        "name": "røde linser",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "raw": "400 ml kokosmælk",
+        "name": "kokosmælk",
+        "quantity": "400",
+        "unit": "ml"
+      },
+      {
+        "raw": "400g flåede tomater",
+        "name": "flåede tomater",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "200g frossen spinat",
+        "name": "frossen spinat",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "3",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 spsk karry",
+        "name": "karry",
+        "quantity": "1",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 tsk spidskommen",
+        "name": "spidskommen",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk ingefær",
+        "name": "ingefær",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 spsk olie",
+        "name": "olie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "suppe",
+      "vegetar",
+      "vegansk",
+      "glutenfri",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.100Z"
+  },
+  {
+    "id": "ac5c0d0a-095e-478d-9723-977bf0645594",
+    "title": "Hakkebøffer med løgsvamp og pommes frites",
+    "slug": "hakkeboeffer-med-loegsvamp-og-pommes-frites",
+    "description": "Klassisk dansker-favorit — let at lave og elsket af hele familien.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g hakket oksekød",
+        "name": "hakket oksekød",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "2 stk løg",
+        "name": "løg",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "200g champignon",
+        "name": "champignon",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "800g frosne pommes frites",
+        "name": "frosne pommes frites",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "30g smør",
+        "name": "smør",
+        "quantity": "30",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.100Z"
+  },
+  {
+    "id": "ed77aee6-d99b-4130-878a-6a312ecde2e0",
+    "title": "Tomatsuppe med croutoner",
+    "slug": "tomatsuppe-med-croutoner",
+    "description": "Varm og trøstende suppe — god til kolde aftener og nem at lave med dåsetomater.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "800g flåede tomater",
+        "name": "flåede tomater",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "3",
+        "unit": "fed"
+      },
+      {
+        "raw": "500 ml grøntsagsbouillon",
+        "name": "grøntsagsbouillon",
+        "quantity": "500",
+        "unit": "ml"
+      },
+      {
+        "raw": "1 dl fløde",
+        "name": "fløde",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "1 tsk sukker",
+        "name": "sukker",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk basilikum",
+        "name": "basilikum",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "4 skiver daggammelt brød",
+        "name": "daggammelt brød",
+        "quantity": "4",
+        "unit": "skiver"
+      },
+      {
+        "raw": "3 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "3",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "suppe",
+      "vegetar",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.100Z"
+  },
+  {
+    "id": "35db9acd-e0f1-436e-a2aa-8f3fdb0daee3",
+    "title": "Kyllingesuppe med nudler",
+    "slug": "kyllingesuppe-med-nudler",
+    "description": "Den ultimative comfort food — varm, mættende og nem at lave.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "4 stk kyllingelår",
+        "name": "kyllingelår",
+        "quantity": "4",
+        "unit": "stk"
+      },
+      {
+        "raw": "150g æggenudler",
+        "name": "æggenudler",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "raw": "3 stk gulerødder",
+        "name": "gulerødder",
+        "quantity": "3",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 stængler bladselleri",
+        "name": "stængler bladselleri",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1500 ml kyllingebouillon",
+        "name": "kyllingebouillon",
+        "quantity": "1500",
+        "unit": "ml"
+      },
+      {
+        "raw": "persille til pynt",
+        "name": "persille til pynt",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "suppe",
+      "klassisk dansk",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.100Z"
+  },
+  {
+    "id": "bc7a4753-e70c-494b-bc9f-0cb1e6b5a648",
+    "title": "Æggekage med bacon og purløg",
+    "slug": "aeggekage-med-bacon-og-purloeg",
+    "description": "Den hurtigste og billigste aftensmad der findes — og en dansk klassiker.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 20,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "8 stk æg",
+        "name": "æg",
+        "quantity": "8",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 dl mælk",
+        "name": "mælk",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "150g bacon",
+        "name": "bacon",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "raw": "1 bundt purløg",
+        "name": "purløg",
+        "quantity": "1",
+        "unit": "bundt"
+      },
+      {
+        "raw": "20g smør",
+        "name": "smør",
+        "quantity": "20",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.100Z"
+  },
+  {
+    "id": "49dcc8c9-acd3-4064-9392-4efc6fde9430",
+    "title": "Pasta med laks og flødesovs",
+    "slug": "pasta-med-laks-og-floedesovs",
+    "description": "Hurtig og lækker pastagryde med røget laks og fløde — klar på 20 minutter.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 20,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "400g pasta",
+        "name": "pasta",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "200g røget laks",
+        "name": "røget laks",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "2 dl fløde",
+        "name": "fløde",
+        "quantity": "2",
+        "unit": "dl"
+      },
+      {
+        "raw": "1 dl cremefraiche",
+        "name": "cremefraiche",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "2 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "2",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 stk citron",
+        "name": "citron",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "dild til pynt",
+        "name": "dild til pynt",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "raw": "20g smør",
+        "name": "smør",
+        "quantity": "20",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "hurtig",
+      "fisk",
+      "mellem"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.100Z"
+  },
+  {
+    "id": "e17329f3-9ab3-4faf-825b-8a9822844d04",
+    "title": "Tacos med hakket oksekød",
+    "slug": "tacos-med-hakket-oksekoed",
+    "description": "Fredagens favorit for de fleste familier. Alle bygger selv — børn elsker det.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "500g hakket oksekød",
+        "name": "hakket oksekød",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "raw": "8 stk tacoskaller",
+        "name": "tacoskaller",
+        "quantity": "8",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 pakke tacokrydderi",
+        "name": "tacokrydderi",
+        "quantity": "1",
+        "unit": "pakke"
+      },
+      {
+        "raw": "400g kidneybønner",
+        "name": "kidneybønner",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk tomat",
+        "name": "tomat",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 stk avocado",
+        "name": "avocado",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "0,5 hoved salat",
+        "name": "salat",
+        "quantity": "0,5",
+        "unit": "hoved"
+      },
+      {
+        "raw": "1 dl cremefraiche",
+        "name": "cremefraiche",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "100g revet ost",
+        "name": "revet ost",
+        "quantity": "100",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "hurtig",
+      "mexicansk",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "07b91368-fdbc-43ad-9024-4553d2f7b370",
+    "title": "Chili con carne",
+    "slug": "chili-con-carne",
+    "description": "Mættende og krydret gryde der smager endnu bedre næste dag. God til fryseren.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 45,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "500g hakket oksekød",
+        "name": "hakket oksekød",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "raw": "400g kidneybønner",
+        "name": "kidneybønner",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "400g flåede tomater",
+        "name": "flåede tomater",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "200g majs",
+        "name": "majs",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "3",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 tsk spidskommen",
+        "name": "spidskommen",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk paprika",
+        "name": "paprika",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "chili efter smag",
+        "name": "chili efter smag",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "raw": "300g ris",
+        "name": "ris",
+        "quantity": "300",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "glutenfri",
+      "billig",
+      "mellem"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "efeed4da-9a91-4db6-aa6a-5f638f8f9a5d",
+    "title": "Bagt laks med citron og timian",
+    "slug": "bagt-laks-med-citron-og-timian",
+    "description": "Enkel, sund og hurtig ret. Laksen passer sig selv i ovnen mens du laver tilbehøret.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g laksestykker",
+        "name": "laksestykker",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk citron",
+        "name": "citron",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 tsk timian",
+        "name": "timian",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk dild",
+        "name": "dild",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "800g kartofler",
+        "name": "kartofler",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "300g grønne bønner",
+        "name": "grønne bønner",
+        "quantity": "300",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "hurtig",
+      "fisk",
+      "glutenfri",
+      "sund"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "cebdabde-0755-42d4-8c1b-2ce593244136",
+    "title": "Kylling i karry med basmatiris",
+    "slug": "kylling-i-karry-med-basmatiris",
+    "description": "Mild og børnevenlig karryret med kokosmælk — let at lave og populær hos hele familien.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g kyllingebryst",
+        "name": "kyllingebryst",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "400 ml kokosmælk",
+        "name": "kokosmælk",
+        "quantity": "400",
+        "unit": "ml"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "2",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 spsk mild karrypasta",
+        "name": "mild karrypasta",
+        "quantity": "1",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 stk rød peberfrugt",
+        "name": "rød peberfrugt",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "300g basmatiris",
+        "name": "basmatiris",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "raw": "koriander til pynt",
+        "name": "koriander til pynt",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "raw": "2 spsk olie",
+        "name": "olie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "glutenfri",
+      "asiatisk",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "784ce762-43bf-46fe-a650-36bcd4463a3a",
+    "title": "Grøntsagscurry med blomkål og kikærter",
+    "slug": "groentsagscurry-med-blomkaal-og-kikaerter",
+    "description": "Varmende vegansk curry fyldt med blomkål og proteinholdige kikærter.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "1 hoved blomkål",
+        "name": "blomkål",
+        "quantity": "1",
+        "unit": "hoved"
+      },
+      {
+        "raw": "400g kikærter",
+        "name": "kikærter",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "400 ml kokosmælk",
+        "name": "kokosmælk",
+        "quantity": "400",
+        "unit": "ml"
+      },
+      {
+        "raw": "400g flåede tomater",
+        "name": "flåede tomater",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "3",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 tsk ingefær",
+        "name": "ingefær",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 tsk karry",
+        "name": "karry",
+        "quantity": "2",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk gurkemeje",
+        "name": "gurkemeje",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "300g ris",
+        "name": "ris",
+        "quantity": "300",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "suppe",
+      "vegetar",
+      "vegansk",
+      "glutenfri",
+      "billig",
+      "asiatisk"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "c4a7c273-11b2-4d47-9e32-2f3538c95ece",
+    "title": "Pasta med pesto og cherrytomater",
+    "slug": "pasta-med-pesto-og-cherrytomater",
+    "description": "Enklere end enkelt — men smager utroligt godt med god pesto og sprøde tomater.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 15,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "400g pasta",
+        "name": "pasta",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "4 spsk pesto",
+        "name": "pesto",
+        "quantity": "4",
+        "unit": "spsk"
+      },
+      {
+        "raw": "200g cherrytomater",
+        "name": "cherrytomater",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "100g frisk mozzarella",
+        "name": "frisk mozzarella",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "basilikum til pynt",
+        "name": "basilikum til pynt",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "vegetar",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "60dde310-e3a0-4314-bd96-98754f9bd717",
+    "title": "Ærtesuppe med brød",
+    "slug": "aertesuppe-med-broed",
+    "description": "Klassisk dansk ærtesuppe der varmer kroppen på kolde hverdage.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "500g frosne ærter",
+        "name": "frosne ærter",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "2",
+        "unit": "fed"
+      },
+      {
+        "raw": "1000 ml grøntsagsbouillon",
+        "name": "grøntsagsbouillon",
+        "quantity": "1000",
+        "unit": "ml"
+      },
+      {
+        "raw": "1 dl fløde",
+        "name": "fløde",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "friske krydderurter",
+        "name": "friske krydderurter",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "raw": "2 spsk smør",
+        "name": "smør",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "suppe",
+      "vegetar",
+      "hurtig",
+      "billig",
+      "klassisk dansk"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "e74eb1aa-c9d8-4d09-a3e5-ef766f77049e",
+    "title": "Kikærte- og spinatsuppe",
+    "slug": "kikaerte-og-spinatsuppe",
+    "description": "Nærende vegansk suppe med masser af protein fra kikærter og jern fra spinat.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "400g kikærter",
+        "name": "kikærter",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "300g frossen spinat",
+        "name": "frossen spinat",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "raw": "800 ml grøntsagsbouillon",
+        "name": "grøntsagsbouillon",
+        "quantity": "800",
+        "unit": "ml"
+      },
+      {
+        "raw": "400g flåede tomater",
+        "name": "flåede tomater",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "3",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 tsk spidskommen",
+        "name": "spidskommen",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk paprika",
+        "name": "paprika",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "suppe",
+      "vegetar",
+      "vegansk",
+      "glutenfri",
+      "billig",
+      "hurtig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "5486915f-e967-4615-a291-e7eed3d62121",
+    "title": "Risotto med svampe og parmesan",
+    "slug": "risotto-med-svampe-og-parmesan",
+    "description": "Cremeret klassisk risotto — kræver lidt tålmodighed men er det værd.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "servings": 4,
+    "difficulty": "mellem",
+    "ingredients": [
+      {
+        "raw": "400g risottoris",
+        "name": "risottoris",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "300g blandede svampe",
+        "name": "blandede svampe",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "raw": "1 dl hvidvin",
+        "name": "hvidvin",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "1200 ml grøntsagsbouillon",
+        "name": "grøntsagsbouillon",
+        "quantity": "1200",
+        "unit": "ml"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "2",
+        "unit": "fed"
+      },
+      {
+        "raw": "80g parmesan",
+        "name": "parmesan",
+        "quantity": "80",
+        "unit": "g"
+      },
+      {
+        "raw": "30g smør",
+        "name": "smør",
+        "quantity": "30",
+        "unit": "g"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "vegetar",
+      "italiensk",
+      "mellem"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "77467d73-8ca0-46f2-b61b-39d345bc34dd",
+    "title": "Pulled pork med coleslaw og burgerboller",
+    "slug": "pulled-pork-med-coleslaw-og-burgerboller",
+    "description": "Langsomt tilberedt svinekød der falder fra hinanden — perfekt weekendprojekt.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 240,
+    "total_time_minutes": 255,
+    "servings": 4,
+    "difficulty": "mellem",
+    "ingredients": [
+      {
+        "raw": "1200g svinekam",
+        "name": "svinekam",
+        "quantity": "1200",
+        "unit": "g"
+      },
+      {
+        "raw": "3 spsk BBQ-krydderi",
+        "name": "BBQ-krydderi",
+        "quantity": "3",
+        "unit": "spsk"
+      },
+      {
+        "raw": "4 stk burgerboller",
+        "name": "burgerboller",
+        "quantity": "4",
+        "unit": "stk"
+      },
+      {
+        "raw": "200g hvidkål",
+        "name": "hvidkål",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "2 stk gulerødder",
+        "name": "gulerødder",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 spsk mayonnaise",
+        "name": "mayonnaise",
+        "quantity": "3",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 spsk æblecidereddike",
+        "name": "æblecidereddike",
+        "quantity": "1",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "svinekød",
+      "weekend",
+      "lang",
+      "mellem"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "d0d7bb9e-3c6c-4a7c-8a1a-7b33470055c6",
+    "title": "Pandekager med syltetøj og flødeskum",
+    "slug": "pandekager-med-syltetoej-og-floedeskum",
+    "description": "De klassiske tynde danske pandekager — elsket af alle generationer.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "3 stk æg",
+        "name": "æg",
+        "quantity": "3",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 dl mælk",
+        "name": "mælk",
+        "quantity": "3",
+        "unit": "dl"
+      },
+      {
+        "raw": "150g mel",
+        "name": "mel",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "raw": "20g smør",
+        "name": "smør",
+        "quantity": "20",
+        "unit": "g"
+      },
+      {
+        "raw": "syltetøj",
+        "name": "syltetøj",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "raw": "flødeskum",
+        "name": "flødeskum",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "dessert",
+      "klassisk dansk",
+      "vegetar",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "d230a4b9-7508-4692-8af3-5be61fd56503",
+    "title": "Hjemmelavet pizza margherita",
+    "slug": "hjemmelavet-pizza-margherita",
+    "description": "Sprød pizzabund med tomatsovs og mozzarella — nem at lave og elsket af alle.",
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 45,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "400g pizzadej",
+        "name": "pizzadej",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "200 ml tomatsovs",
+        "name": "tomatsovs",
+        "quantity": "200",
+        "unit": "ml"
+      },
+      {
+        "raw": "200g frisk mozzarella",
+        "name": "frisk mozzarella",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "basilikumblade",
+        "name": "basilikumblade",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "vegetar",
+      "italiensk",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "b2238e6e-6e1c-458d-b652-2652799705bf",
+    "title": "Stegt svinekam med æbleskiver og kartofler",
+    "slug": "stegt-svinekam-med-aebleskiver-og-kartofler",
+    "description": "En klassisk dansk søndagsret der minder om bedste-mad og hygge.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 90,
+    "total_time_minutes": 105,
+    "servings": 4,
+    "difficulty": "mellem",
+    "ingredients": [
+      {
+        "raw": "1200g svinekam med svær",
+        "name": "svinekam med svær",
+        "quantity": "1200",
+        "unit": "g"
+      },
+      {
+        "raw": "800g kartofler",
+        "name": "kartofler",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "4 stk æbler",
+        "name": "æbler",
+        "quantity": "4",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 spsk brun sukker",
+        "name": "brun sukker",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 tsk kanel",
+        "name": "kanel",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "30g smør",
+        "name": "smør",
+        "quantity": "30",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "svinekød",
+      "weekend",
+      "lang",
+      "dyr"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "c8c93375-801d-4613-bda8-40974d37ae6b",
+    "title": "Oksesteg med brun sovs og rødkål",
+    "slug": "oksesteg-med-brun-sovs-og-roedkaal",
+    "description": "Den traditionelle danske søndag med kraftig brun sovs og syrligt rødkål.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 90,
+    "total_time_minutes": 105,
+    "servings": 4,
+    "difficulty": "mellem",
+    "ingredients": [
+      {
+        "raw": "1200g oksesteg",
+        "name": "oksesteg",
+        "quantity": "1200",
+        "unit": "g"
+      },
+      {
+        "raw": "4 dl oksebouillon",
+        "name": "oksebouillon",
+        "quantity": "4",
+        "unit": "dl"
+      },
+      {
+        "raw": "2 spsk mel",
+        "name": "mel",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "200g rødkål på glas",
+        "name": "rødkål på glas",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "800g kartofler",
+        "name": "kartofler",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "2 stk løg",
+        "name": "løg",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 stk laurbærblad",
+        "name": "laurbærblad",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "10 stk peberkorn",
+        "name": "peberkorn",
+        "quantity": "10",
+        "unit": "stk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "oksekød",
+      "weekend",
+      "lang",
+      "dyr"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "14619a90-4228-490b-bfc8-ab1822c91da5",
+    "title": "Spejlæg med bacon og ristede kartofler",
+    "slug": "spejlaeg-med-bacon-og-ristede-kartofler",
+    "description": "Simpel og tilfredsstillende hverdagsmad — og en fremragende brunch-ret.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "8 stk æg",
+        "name": "æg",
+        "quantity": "8",
+        "unit": "stk"
+      },
+      {
+        "raw": "200g bacon",
+        "name": "bacon",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "800g kartofler",
+        "name": "kartofler",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "20g smør",
+        "name": "smør",
+        "quantity": "20",
+        "unit": "g"
+      },
+      {
+        "raw": "purløg til pynt",
+        "name": "purløg til pynt",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "frokost",
+      "klassisk dansk",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "21cf24b6-1afe-40f8-b3cb-1cffaab14871",
+    "title": "Grønkålssalat med kylling og sesamdressing",
+    "slug": "groenkaalssalat-med-kylling-og-sesamdressing",
+    "description": "Nærende salat med sprød grønkål, ristet kylling og asiatisk-inspireret dressing.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "400g kyllingebryst",
+        "name": "kyllingebryst",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "200g grønkål",
+        "name": "grønkål",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "2 spsk sesamolie",
+        "name": "sesamolie",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "2 spsk sojasovs",
+        "name": "sojasovs",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 spsk honning",
+        "name": "honning",
+        "quantity": "1",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 stk citron",
+        "name": "citron",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "50g sesamfrø",
+        "name": "sesamfrø",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "raw": "2 stk gulerødder",
+        "name": "gulerødder",
+        "quantity": "2",
+        "unit": "stk"
+      }
+    ],
+    "tags": [
+      "salat",
+      "kylling",
+      "hurtig",
+      "glutenfri",
+      "sund"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "508e5ac3-7135-485d-99fe-bf69ea182a1a",
+    "title": "Fiskestrimler med pommes frites og remoulade",
+    "slug": "fiskestrimler-med-pommes-frites-og-remoulade",
+    "description": "Børnenes favorit — sprøde fiskestrimler med hjemmelavet remouladedip.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g torsk eller sej",
+        "name": "torsk eller sej",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "100g rasp",
+        "name": "rasp",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "raw": "2 stk æg",
+        "name": "æg",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "800g frosne pommes frites",
+        "name": "frosne pommes frites",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "4 spsk remoulade",
+        "name": "remoulade",
+        "quantity": "4",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 stk citron",
+        "name": "citron",
+        "quantity": "1",
+        "unit": "stk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "fisk",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "90ea2440-bba5-4b39-a3f1-54ae9752bc34",
+    "title": "Medisterpølse med rødkål og kartofler",
+    "slug": "medisterpoelse-med-roedkaal-og-kartofler",
+    "description": "Den klassiske danske vinterret — god, billig og mættende.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g medisterpølse",
+        "name": "medisterpølse",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "800g kartofler",
+        "name": "kartofler",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "200g rødkål på glas",
+        "name": "rødkål på glas",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "1 spsk smør",
+        "name": "smør",
+        "quantity": "1",
+        "unit": "spsk"
+      },
+      {
+        "raw": "sennep til servering",
+        "name": "sennep til servering",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "svinekød",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "f88f72c6-d6a6-4af7-82d9-18979f484b24",
+    "title": "Stegt flæsk med persillesovs",
+    "slug": "stegt-flaesk-med-persillesovs",
+    "description": "Danmarks nationalret. Sprødt flæsk, blomme-kartofler og cremet persillesovs.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g stegt flæsk",
+        "name": "stegt flæsk",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "800g nye kartofler",
+        "name": "nye kartofler",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "1 bundt persille",
+        "name": "persille",
+        "quantity": "1",
+        "unit": "bundt"
+      },
+      {
+        "raw": "3 dl mælk",
+        "name": "mælk",
+        "quantity": "3",
+        "unit": "dl"
+      },
+      {
+        "raw": "2 spsk mel",
+        "name": "mel",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "30g smør",
+        "name": "smør",
+        "quantity": "30",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "svinekød",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "3c48f827-1d5e-4bfe-a039-72b1b31197f6",
+    "title": "Biksemad med spejlæg",
+    "slug": "biksemad-med-spejlaeg",
+    "description": "En klassisk restedag-ret der bruger gårsdagens kartofler og kød på en lækker måde.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 20,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g kogte kartofler",
+        "name": "kogte kartofler",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "300g kogt kød blandet",
+        "name": "kogt kød blandet",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "4 stk æg",
+        "name": "æg",
+        "quantity": "4",
+        "unit": "stk"
+      },
+      {
+        "raw": "30g smør",
+        "name": "smør",
+        "quantity": "30",
+        "unit": "g"
+      },
+      {
+        "raw": "Worcestershire sauce",
+        "name": "Worcestershire sauce",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "9b28c37d-705e-4f8f-9e0a-8f13dc665d07",
+    "title": "Rugbrødssandwich med leverpostej",
+    "slug": "rugbroedssandwich-med-leverpostej",
+    "description": "Den ultimative danske frokostklassiker — leverpostej på mørkt rugbrød.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 5,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "8 skiver rugbrød",
+        "name": "rugbrød",
+        "quantity": "8",
+        "unit": "skiver"
+      },
+      {
+        "raw": "200g leverpostej",
+        "name": "leverpostej",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "4 skiver rødbede",
+        "name": "rødbede",
+        "quantity": "4",
+        "unit": "skiver"
+      },
+      {
+        "raw": "4 skiver syltede agurker",
+        "name": "syltede agurker",
+        "quantity": "4",
+        "unit": "skiver"
+      }
+    ],
+    "tags": [
+      "frokost",
+      "klassisk dansk",
+      "madpakke",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "f64081ba-7064-4b2d-949d-d40586f657a1",
+    "title": "Vegansk chili sin carne",
+    "slug": "vegansk-chili-sin-carne",
+    "description": "Fyldig chili uden kød — bønnerne giver al den mæthed man behøver.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "400g sorte bønner",
+        "name": "sorte bønner",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "400g kidneybønner",
+        "name": "kidneybønner",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "400g flåede tomater",
+        "name": "flåede tomater",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk rød peberfrugt",
+        "name": "rød peberfrugt",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "3",
+        "unit": "fed"
+      },
+      {
+        "raw": "2 tsk paprika",
+        "name": "paprika",
+        "quantity": "2",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk spidskommen",
+        "name": "spidskommen",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "chili efter smag",
+        "name": "chili efter smag",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "raw": "300g ris",
+        "name": "ris",
+        "quantity": "300",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "vegetar",
+      "vegansk",
+      "glutenfri",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "ddadbed1-ead3-40b9-93a4-711af134e99e",
+    "title": "Ovnbagt blomkål med tahini og granatæble",
+    "slug": "ovnbagt-blomkaal-med-tahini-og-granataeble",
+    "description": "En imponerende vegetarret der ser festlig ud men er nem at lave.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 50,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "1 hoved blomkål",
+        "name": "blomkål",
+        "quantity": "1",
+        "unit": "hoved"
+      },
+      {
+        "raw": "3 spsk tahini",
+        "name": "tahini",
+        "quantity": "3",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 stk citron",
+        "name": "citron",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 stk granatæble",
+        "name": "granatæble",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 tsk spidskommen",
+        "name": "spidskommen",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "persille til pynt",
+        "name": "persille til pynt",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "vegetar",
+      "vegansk",
+      "glutenfri",
+      "sund",
+      "mellem"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "c92e2dfb-9925-43db-91d8-6aeb18472037",
+    "title": "Squashfritters med cremefraiche og dild",
+    "slug": "squashfritters-med-cremefraiche-og-dild",
+    "description": "Lette og sprøde squashkager — perfekte som let frokost eller tilbehør.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g squash",
+        "name": "squash",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "2 stk æg",
+        "name": "æg",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "80g mel",
+        "name": "mel",
+        "quantity": "80",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 dl cremefraiche",
+        "name": "cremefraiche",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "frisk dild",
+        "name": "frisk dild",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "raw": "2 spsk olie",
+        "name": "olie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "frokost",
+      "vegetar",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "282724ac-10c9-4b37-ac71-d1fd3dcb0cfb",
+    "title": "Bønnegryde med tomater og paprika",
+    "slug": "boennegryde-med-tomater-og-paprika",
+    "description": "Simpel og smagfuld vegansk gryde der passer sig selv på komfuret.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "400g hvide bønner",
+        "name": "hvide bønner",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "400g flåede tomater",
+        "name": "flåede tomater",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk rød peberfrugt",
+        "name": "rød peberfrugt",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "3",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 tsk røget paprika",
+        "name": "røget paprika",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk oregano",
+        "name": "oregano",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "vegetar",
+      "vegansk",
+      "glutenfri",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "4b6188f6-edbe-48d1-86b8-ca429edf662d",
+    "title": "Pasta med tun og kapers",
+    "slug": "pasta-med-tun-og-kapers",
+    "description": "Klar på 15 minutter og bruger ingredienser du altid har i skabet.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 15,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "400g pasta",
+        "name": "pasta",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "2 dåser tun",
+        "name": "tun",
+        "quantity": "2",
+        "unit": "dåser"
+      },
+      {
+        "raw": "2 spsk kapers",
+        "name": "kapers",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "2 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "2",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 dl olivenolie",
+        "name": "olivenolie",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "1 stk citron",
+        "name": "citron",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "persille",
+        "name": "persille",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "hurtig",
+      "fisk",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "8df76399-1648-494d-a718-4acaad4dffe5",
+    "title": "Kogt torsk med sennepssovs og kartofler",
+    "slug": "kogt-torsk-med-sennepssovs-og-kartofler",
+    "description": "En klassisk dansk ret fra en tid hvor fisk var hverdag. Mild og mættende.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g torskefilet",
+        "name": "torskefilet",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "800g kartofler",
+        "name": "kartofler",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "3 dl mælk",
+        "name": "mælk",
+        "quantity": "3",
+        "unit": "dl"
+      },
+      {
+        "raw": "2 spsk sennep",
+        "name": "sennep",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "2 spsk mel",
+        "name": "mel",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "30g smør",
+        "name": "smør",
+        "quantity": "30",
+        "unit": "g"
+      },
+      {
+        "raw": "persille til pynt",
+        "name": "persille til pynt",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "fisk",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "206bc3ed-b439-4c3a-8787-b88b033bef4b",
+    "title": "Linsesuppe med kokos og lime",
+    "slug": "linsesuppe-med-kokos-og-lime",
+    "description": "Fyldig og varm suppe med gule linser og frisk lime — perfekt til kolde hverdage.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "300g gule linser",
+        "name": "gule linser",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "raw": "400 ml kokosmælk",
+        "name": "kokosmælk",
+        "quantity": "400",
+        "unit": "ml"
+      },
+      {
+        "raw": "800 ml grøntsagsbouillon",
+        "name": "grøntsagsbouillon",
+        "quantity": "800",
+        "unit": "ml"
+      },
+      {
+        "raw": "1 stk lime",
+        "name": "lime",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "3",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 spsk ingefær",
+        "name": "ingefær",
+        "quantity": "1",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 tsk gurkemeje",
+        "name": "gurkemeje",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk spidskommen",
+        "name": "spidskommen",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 spsk olie",
+        "name": "olie",
+        "quantity": "2",
+        "unit": "spsk"
+      }
+    ],
+    "tags": [
+      "suppe",
+      "vegetar",
+      "vegansk",
+      "glutenfri",
+      "billig",
+      "hurtig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "e36b766b-c720-4088-8d97-0e644de543fa",
+    "title": "Grillet kylling med quinoasalat",
+    "slug": "grillet-kylling-med-quinoasalat",
+    "description": "Proteinrig og sund middag med krydret grillet kylling og farverig quinoasalat.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g kyllingebryst",
+        "name": "kyllingebryst",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "300g quinoa",
+        "name": "quinoa",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk agurk",
+        "name": "agurk",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "200g cherrytomater",
+        "name": "cherrytomater",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk rød peberfrugt",
+        "name": "rød peberfrugt",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 stk citron",
+        "name": "citron",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "frisk persille",
+        "name": "frisk persille",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "glutenfri",
+      "sund",
+      "hurtig",
+      "mellem"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "91a47dc4-c1a0-445a-b219-b08a5a3e498a",
+    "title": "Æbleflæsk med rugbrød",
+    "slug": "aebleflaesk-med-rugbroed",
+    "description": "Sød og salt kombination af karamelliserede æbler og stegt flæsk — en unik dansk klassiker.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "400g stegt flæsk",
+        "name": "stegt flæsk",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "3 stk æbler",
+        "name": "æbler",
+        "quantity": "3",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 spsk brun sukker",
+        "name": "brun sukker",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 spsk smør",
+        "name": "smør",
+        "quantity": "1",
+        "unit": "spsk"
+      },
+      {
+        "raw": "rugbrød til servering",
+        "name": "rugbrød til servering",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "svinekød",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "1ed8b87c-e579-47a3-ab97-713cd9146b44",
+    "title": "Rødgrød med fløde",
+    "slug": "roedgroed-med-floede",
+    "description": "Danmarks sødeste klassiker — rubinrød skovbærgrød serveret med frisk fløde.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 20,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "400g blandede røde bær frosne",
+        "name": "blandede røde bær frosne",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "200 ml vand",
+        "name": "vand",
+        "quantity": "200",
+        "unit": "ml"
+      },
+      {
+        "raw": "3 spsk sukker",
+        "name": "sukker",
+        "quantity": "3",
+        "unit": "spsk"
+      },
+      {
+        "raw": "2 spsk kartoffelmel",
+        "name": "kartoffelmel",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "fløde til servering",
+        "name": "fløde til servering",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "dessert",
+      "klassisk dansk",
+      "vegetar",
+      "vegansk",
+      "glutenfri",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "102d773e-ac38-43ba-b676-7fb94689c301",
+    "title": "Rugbrødstoast med avocado og æg",
+    "slug": "rugbroedstoast-med-avocado-og-aeg",
+    "description": "Hurtig og nærende morgenmad eller frokost med gode fedtstoffer og protein.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 15,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "8 skiver rugbrød",
+        "name": "rugbrød",
+        "quantity": "8",
+        "unit": "skiver"
+      },
+      {
+        "raw": "2 stk avocado",
+        "name": "avocado",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "4 stk æg",
+        "name": "æg",
+        "quantity": "4",
+        "unit": "stk"
+      },
+      {
+        "raw": "salt og peber",
+        "name": "salt og peber",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "raw": "rødpeberfnug til pynt",
+        "name": "rødpeberfnug til pynt",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "frokost",
+      "madpakke",
+      "vegetar",
+      "hurtig",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "683954ca-9287-40bf-9f56-2f46ea5b927b",
+    "title": "Ovnstegte grøntsager med couscous",
+    "slug": "ovnstegte-groentsager-med-couscous",
+    "description": "Nem og farverig vegetarret — ovnen gør resten mens du sætter bordet.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "1 stk squash",
+        "name": "squash",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 stk peberfrugter",
+        "name": "peberfrugter",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 stk gulerødder",
+        "name": "gulerødder",
+        "quantity": "2",
+        "unit": "stk"
+      },
+      {
+        "raw": "1 stk rødløg",
+        "name": "rødløg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "300g couscous",
+        "name": "couscous",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 tsk spidskommen",
+        "name": "spidskommen",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk paprika",
+        "name": "paprika",
+        "quantity": "1",
+        "unit": "tsk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "vegetar",
+      "vegansk",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "a1cdb975-a899-4130-8d57-0117bdc37174",
+    "title": "Kyllingefilet med citron og hvidløg",
+    "slug": "kyllingefilet-med-citron-og-hvidloeg",
+    "description": "Saftigt kyllingebryst marineret i citron og hvidløg — simpelt og utroligt smagfuldt.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "600g kyllingebryst",
+        "name": "kyllingebryst",
+        "quantity": "600",
+        "unit": "g"
+      },
+      {
+        "raw": "3 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "3",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 stk citron",
+        "name": "citron",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 tsk timian",
+        "name": "timian",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "800g kartofler",
+        "name": "kartofler",
+        "quantity": "800",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "glutenfri",
+      "hurtig",
+      "sund",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "1d495114-1ce7-4faf-960f-3612bfcda994",
+    "title": "Torskefrikadeller med kartoffelmos",
+    "slug": "torskefrikadeller-med-kartoffelmos",
+    "description": "Lette fiskefrikadeller af frisk torsk med cremet kartoffelmos.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 35,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "500g torskefilet",
+        "name": "torskefilet",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk æg",
+        "name": "æg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "3 spsk mel",
+        "name": "mel",
+        "quantity": "3",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "800g kartofler",
+        "name": "kartofler",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "raw": "50 ml mælk",
+        "name": "mælk",
+        "quantity": "50",
+        "unit": "ml"
+      },
+      {
+        "raw": "30g smør",
+        "name": "smør",
+        "quantity": "30",
+        "unit": "g"
+      },
+      {
+        "raw": "dild",
+        "name": "dild",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "fisk",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "1de9dcb0-5ff5-452d-a42c-ba90aeeb1453",
+    "title": "Løgsuppe med gruyère-toast",
+    "slug": "loegsuppe-med-gruy-re-toast",
+    "description": "Klassisk fransk løgsuppe — enkel at lave men fyldt med dybde og smag.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 50,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "6 stk løg",
+        "name": "løg",
+        "quantity": "6",
+        "unit": "stk"
+      },
+      {
+        "raw": "1500 ml oksebouillon",
+        "name": "oksebouillon",
+        "quantity": "1500",
+        "unit": "ml"
+      },
+      {
+        "raw": "1 dl hvidvin",
+        "name": "hvidvin",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "raw": "4 skiver franskbrød",
+        "name": "franskbrød",
+        "quantity": "4",
+        "unit": "skiver"
+      },
+      {
+        "raw": "80g revet gruyère",
+        "name": "revet gruyère",
+        "quantity": "80",
+        "unit": "g"
+      },
+      {
+        "raw": "2 spsk smør",
+        "name": "smør",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "1 tsk timian",
+        "name": "timian",
+        "quantity": "1",
+        "unit": "tsk"
+      }
+    ],
+    "tags": [
+      "suppe",
+      "vegetar",
+      "mellem",
+      "dyr"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "4ed80e35-58e9-42cb-845d-712a2a7f5389",
+    "title": "Kødboller i tomatsovs med spaghetti",
+    "slug": "koedboller-i-tomatsovs-med-spaghetti",
+    "description": "Maftige kødboller i aromatisk tomatsovs — en familieretfavorit der samler alle.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 45,
+    "servings": 4,
+    "difficulty": "nem",
+    "ingredients": [
+      {
+        "raw": "500g hakket svinekød/oksekød blandet",
+        "name": "hakket svinekød/oksekød blandet",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "raw": "400g flåede tomater",
+        "name": "flåede tomater",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "400g spaghetti",
+        "name": "spaghetti",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk løg",
+        "name": "løg",
+        "quantity": "1",
+        "unit": "stk"
+      },
+      {
+        "raw": "2 fed hvidløg",
+        "name": "hvidløg",
+        "quantity": "2",
+        "unit": "fed"
+      },
+      {
+        "raw": "1 tsk oregano",
+        "name": "oregano",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "1 tsk basilikum",
+        "name": "basilikum",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "raw": "2 spsk olivenolie",
+        "name": "olivenolie",
+        "quantity": "2",
+        "unit": "spsk"
+      },
+      {
+        "raw": "50g rasp",
+        "name": "rasp",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "raw": "1 stk æg",
+        "name": "æg",
+        "quantity": "1",
+        "unit": "stk"
+      }
+    ],
+    "tags": [
+      "aftensmad",
+      "klassisk dansk",
+      "billig"
+    ],
+    "image_url": null,
+    "source": "cpo-import",
+    "source_url": "maet://redaktionel",
+    "created_by": null,
+    "created_at": "2026-03-20T08:27:37.101Z"
+  }
+]
