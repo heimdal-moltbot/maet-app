@@ -4,18 +4,27 @@ import { useState } from 'react'
 import { useRouter } from 'next/navigation'
 import { createClient } from '@/lib/supabase/client'
 
-// UX spec SCR-01: 3-trins onboarding wizard
+// UX spec SCR-01 v1.3: 3-trins onboarding wizard
 // Step 1: Husstandsstørrelse
-// Step 2: Kostpræferencer
-// Step 3: Bekræftelse
+// Step 2: Kostpræferencer (kostrestriktioner + madpræferencer)
+// Step 3: Navn & Kontooverblik
 
-const DIETARY_OPTIONS = [
-  { tag: 'vegetarisk', emoji: '🥦', label: 'Vi spiser vegetarisk' },
-  { tag: 'vegansk', emoji: '🌿', label: 'Vi spiser vegansk' },
-  { tag: 'glutenfri', emoji: '🌾', label: 'Vi undgår gluten' },
-  { tag: 'laktosefri', emoji: '🥛', label: 'Vi undgår laktose' },
+const DIETARY_RESTRICTIONS = [
+  { tag: 'vegetarisk', emoji: '🥦', label: 'Vegetarisk' },
+  { tag: 'vegansk', emoji: '🌿', label: 'Vegansk' },
+  { tag: 'glutenfri', emoji: '🌾', label: 'Glutenfri' },
+  { tag: 'laktosefri', emoji: '🥛', label: 'Laktosefri' },
   { tag: 'ingen_svinekod', emoji: '🐷', label: 'Ingen svinekød' },
   { tag: 'ingen_skaldyr', emoji: '🦞', label: 'Ingen skaldyr' },
+]
+
+const FOOD_PREFERENCES = [
+  { tag: 'varieret', emoji: '🎨', label: 'Varieret' },
+  { tag: 'italiensk', emoji: '🍝', label: 'Italiensk' },
+  { tag: 'mexikansk', emoji: '🌮', label: 'Mexikansk' },
+  { tag: 'asiatisk', emoji: '🍜', label: 'Asiatisk' },
+  { tag: 'husmandsmat', emoji: '🥘', label: 'Husmandsmat' },
+  { tag: 'let_sundt', emoji: '🥗', label: 'Let & sundt' },
 ]
 
 const HOUSEHOLD_EMOJI: Record<number, string> = {
@@ -30,6 +39,7 @@ export default function OnboardingPage() {
   const [householdSize, setHouseholdSize] = useState<number>(4)
   const [selectedTags, setSelectedTags] = useState<string[]>([])
   const [noPreferences, setNoPreferences] = useState(false)
+  const [familyName, setFamilyName] = useState('')
   const [saving, setSaving] = useState(false)
   const [error, setError] = useState<string | null>(null)
 
@@ -59,7 +69,7 @@ export default function OnboardingPage() {
     const db = supabase as any
     const { data: profile, error: profileErr } = await db
       .from('family_members')
-      .insert({ profile_id: user.id, name: 'Familie' })
+      .insert({ profile_id: user.id, name: familyName || 'Familie' })
       .select()
       .single()
 
@@ -69,6 +79,7 @@ export default function OnboardingPage() {
         data: {
           household_size: householdSize,
           dietary_tags: selectedTags,
+          family_name: familyName || null,
         }
       })
     } else if (profile && selectedTags.length > 0) {
@@ -160,47 +171,69 @@ export default function OnboardingPage() {
         {/* STEP 2: Kostpræferencer */}
         {step === 2 && (
           <div className="bg-bg-surface rounded-xl border border-border shadow-sm p-6">
-            <h2 className="text-h2 text-txt-primary mb-1">Har I særlige ønsker?</h2>
+            <h2 className="text-h2 text-txt-primary mb-1">Kostrestriktioner & præferencer</h2>
             <p className="text-body text-txt-secondary mb-4">
-              Sæt kryds — vi tilpasser forslagene
+              Vi tilpasser forslagene — kan ændres under Profil
             </p>
 
-            <div className="space-y-2 mb-4">
-              {DIETARY_OPTIONS.map(({ tag, emoji, label }) => {
+            {/* Kostrestriktioner */}
+            <p className="text-overline text-txt-muted font-bold uppercase tracking-wider mb-2">Kostrestriktioner</p>
+            <div className="grid grid-cols-2 gap-2 mb-4">
+              {DIETARY_RESTRICTIONS.map(({ tag, emoji, label }) => {
                 const selected = selectedTags.includes(tag)
                 return (
                   <button
                     key={tag}
                     onClick={() => toggleTag(tag)}
-                    className={`w-full flex items-center gap-3 px-4 py-3 rounded-md border transition-all text-left ${
+                    className={`flex items-center gap-2 px-3 py-2.5 rounded-md border transition-all text-left ${
                       selected
                         ? 'border-primary bg-primary/8 text-primary'
                         : 'border-border bg-bg-surface text-txt-primary hover:border-primary/30'
                     }`}
                   >
-                    <span className="text-xl">{emoji}</span>
-                    <span className="flex-1 text-body">{label}</span>
-                    {selected && <span className="text-primary font-bold">✓</span>}
+                    <span className="text-base">{emoji}</span>
+                    <span className="text-label flex-1">{label}</span>
+                    {selected && <span className="text-primary text-xs font-bold">✓</span>}
                   </button>
                 )
               })}
-              <button
-                onClick={handleNoPreferences}
-                className={`w-full flex items-center gap-3 px-4 py-3 rounded-md border transition-all text-left ${
-                  noPreferences
-                    ? 'border-accent bg-accent/8 text-accent'
-                    : 'border-border bg-bg-surface text-txt-secondary hover:border-accent/30'
-                }`}
-              >
-                <span className="text-xl">✅</span>
-                <span className="flex-1 text-body">Ingen særlige ønsker</span>
-                {noPreferences && <span className="text-accent font-bold">✓</span>}
-              </button>
             </div>
 
-            <p className="text-micro text-txt-muted mb-5">
-              Du kan altid ændre dette under Profil
-            </p>
+            {/* Madpræferencer */}
+            <p className="text-overline text-txt-muted font-bold uppercase tracking-wider mb-2">Madpræferencer</p>
+            <div className="grid grid-cols-2 gap-2 mb-4">
+              {FOOD_PREFERENCES.map(({ tag, emoji, label }) => {
+                const selected = selectedTags.includes(tag)
+                return (
+                  <button
+                    key={tag}
+                    onClick={() => toggleTag(tag)}
+                    className={`flex items-center gap-2 px-3 py-2.5 rounded-md border transition-all text-left ${
+                      selected
+                        ? 'border-accent bg-accent/10 text-accent'
+                        : 'border-border bg-bg-surface text-txt-primary hover:border-accent/30'
+                    }`}
+                  >
+                    <span className="text-base">{emoji}</span>
+                    <span className="text-label flex-1">{label}</span>
+                    {selected && <span className="text-accent text-xs font-bold">✓</span>}
+                  </button>
+                )
+              })}
+            </div>
+
+            <button
+              onClick={handleNoPreferences}
+              className={`w-full flex items-center gap-2 px-3 py-2.5 rounded-md border transition-all mb-4 ${
+                noPreferences
+                  ? 'border-txt-muted bg-bg-alt text-txt-secondary'
+                  : 'border-border bg-bg-surface text-txt-muted hover:border-txt-muted'
+              }`}
+            >
+              <span className="text-base">✅</span>
+              <span className="text-label">Ingen særlige ønsker</span>
+              {noPreferences && <span className="text-txt-secondary text-xs font-bold ml-auto">✓</span>}
+            </button>
 
             <div className="flex gap-3">
               <button
@@ -227,13 +260,26 @@ export default function OnboardingPage() {
 
         {/* STEP 3: Bekræftelse */}
         {step === 3 && (
-          <div className="bg-bg-surface rounded-xl border border-border shadow-sm p-6 text-center">
-            <span className="text-5xl block mb-3">🎉</span>
-            <h2 className="text-h2 text-txt-primary mb-1">Klar til at komme i gang!</h2>
-            <p className="text-body text-txt-secondary mb-6">Her er din profil:</p>
+          <div className="bg-bg-surface rounded-xl border border-border shadow-sm p-6">
+            <h2 className="text-h2 text-txt-primary mb-1">Hvad hedder I?</h2>
+            <p className="text-body text-txt-secondary mb-5">Giv jeres profil et navn — det er valgfrit</p>
+
+            {/* Navne-felt */}
+            <div className="mb-5">
+              <label className="block text-label text-txt-secondary mb-1.5">
+                Familienavn <span className="text-txt-muted">(valgfrit)</span>
+              </label>
+              <input
+                type="text"
+                value={familyName}
+                onChange={e => setFamilyName(e.target.value)}
+                placeholder="f.eks. Familie Hansen"
+                className="w-full px-4 py-3 rounded-md border border-border bg-bg-surface text-body text-txt-primary placeholder:text-txt-muted focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-colors"
+              />
+            </div>
 
             {/* Sammenfatning */}
-            <div className="bg-bg-alt rounded-md p-4 text-left space-y-3 mb-6">
+            <div className="bg-bg-alt rounded-md p-4 space-y-3 mb-5">
               <div className="flex items-center justify-between">
                 <span className="text-caption text-txt-muted">Husstand</span>
                 <span className="text-body-md text-txt-primary font-medium">
@@ -242,12 +288,12 @@ export default function OnboardingPage() {
               </div>
               <div className="h-px bg-border" />
               <div>
-                <span className="text-caption text-txt-muted block mb-1">Kostpræferencer</span>
+                <span className="text-caption text-txt-muted block mb-1">Præferencer</span>
                 {selectedTags.length > 0 ? (
                   <div className="flex flex-wrap gap-1">
                     {selectedTags.map(tag => (
                       <span key={tag} className="text-micro bg-primary/10 text-primary px-2 py-0.5 rounded-full font-medium">
-                        {tag.replace('_', ' ')}
+                        {tag.replace(/_/g, ' ')}
                       </span>
                     ))}
                   </div>
@@ -264,9 +310,9 @@ export default function OnboardingPage() {
             <button
               onClick={handleComplete}
               disabled={saving}
-              className="w-full bg-accent text-white py-3.5 rounded-md text-label-lg font-semibold hover:bg-accent-dark transition-colors shadow-sm disabled:opacity-60"
+              className="w-full bg-primary text-white py-3.5 rounded-md text-label-lg font-semibold hover:bg-primary-dark transition-colors shadow-sm disabled:opacity-60"
             >
-              {saving ? 'Gemmer...' : 'Se min madplan →'}
+              {saving ? 'Gemmer...' : 'Kom i gang! 🚀'}
             </button>
 
             <button

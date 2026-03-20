@@ -111,8 +111,16 @@ export default function IndkoebslistePage() {
       </div>
 
       {/* Vareliste */}
+      {/* Vareliste */}
       <div className="px-4 space-y-4">
-        {SHOPPING_CATEGORIES.map(category => {
+        {SHOPPING_CATEGORIES.filter(cat =>
+          activeCategory === 'Alle' ||
+          cat.label.toLowerCase().includes(activeCategory.toLowerCase()) ||
+          (activeCategory === 'Grønt' && cat.key === 'grøntsager') ||
+          (activeCategory === 'Mejeri' && cat.key === 'mejeri') ||
+          (activeCategory === 'Kød' && cat.key === 'kød') ||
+          (activeCategory === 'Tørvarer' && cat.key === 'tørvarer')
+        ).map(category => {
           const unchecked = category.items.filter(i => !checked.has(i.id))
           const done = category.items.filter(i => checked.has(i.id))
           const allItems = [...unchecked, ...done]

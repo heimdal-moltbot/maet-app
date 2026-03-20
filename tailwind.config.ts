@@ -19,9 +19,9 @@ const config: Config = {
           light: "rgba(232,115,74,0.10)", // chip-baggrunde
         },
         accent: {
-          DEFAULT: "#606C38",    // sekundære knapper, bekræftelse
-          dark: "#4A5229",       // hover accent
-          light: "#EBF0DB",      // success badges, planlagte
+          DEFAULT: "#2D6A4F",    // Forest Green — sekundære knapper, bekræftelse (CEO-godkendt)
+          dark: "#1B4332",       // hover accent
+          light: "#D8EFDF",      // success badges, planlagte
         },
         // Baggrunde
         bg: {
