@@ -159,7 +159,7 @@ export default function IndkoebslistePage() {
 
       {/* Fejl */}
       {error && !loading && (
-        <div className="mx-4 px-4 py-3 bg-red-50 border border-red-100 rounded-md text-caption text-error">
+        <div className="mx-4 px-4 py-3 bg-error/10 border border-error/20 rounded-md text-caption text-error">
           {error} — <button onClick={loadList} className="underline">Prøv igen</button>
         </div>
       )}

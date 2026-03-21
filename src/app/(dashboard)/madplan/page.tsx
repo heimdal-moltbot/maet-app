@@ -108,7 +108,7 @@ export default function MadplanPage() {
       </div>
 
       {error && (
-        <div className="mx-4 mb-3 px-4 py-2 bg-red-50 border border-red-100 rounded-md text-caption text-error">
+        <div className="mx-4 mb-3 px-4 py-2 bg-error/10 border border-error/20 rounded-md text-caption text-error">
           {error}
         </div>
       )}
