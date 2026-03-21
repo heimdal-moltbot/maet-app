@@ -23,11 +23,13 @@ const RECIPES = recipesData as Recipe[]
 
 const FILTERS = [
   { key: 'alle', label: 'Alle' },
-  { key: 'vegetar', label: 'Vegetar' },
-  { key: 'vegansk', label: 'Vegansk' },
-  { key: 'glutenfri', label: 'Glutenfri' },
-  { key: 'hurtig', label: '≤30 min' },
-  { key: 'billig', label: 'Budget' },
+  { key: 'hurtig', label: '⚡ ≤30 min' },
+  { key: 'vegetar', label: '🥦 Vegetar' },
+  { key: 'vegansk', label: '🌿 Vegansk' },
+  { key: 'glutenfri', label: '🌾 Glutenfri' },
+  { key: 'billig', label: '💰 Budget' },
+  { key: 'klassisk', label: '🇩🇰 Dansk' },
+  { key: 'suppe', label: '🍲 Suppe' },
 ]
 
 const DIFFICULTY_LABELS: Record<string, { label: string; color: string }> = {
@@ -59,16 +61,24 @@ export default function OpskrifterPage() {
 
   const filtered = useMemo(() => {
     return RECIPES.filter(r => {
-      const matchSearch = !search || r.title.toLowerCase().includes(search.toLowerCase())
-      if (!matchSearch) return false
+      // Udvidet søgning: titel + beskrivelse + ingredienser
+      if (search) {
+        const q = search.toLowerCase()
+        const inTitle = r.title.toLowerCase().includes(q)
+        const inDesc = r.description?.toLowerCase().includes(q)
+        const inIngredients = r.ingredients?.some(i => i.name.toLowerCase().includes(q))
+        if (!inTitle && !inDesc && !inIngredients) return false
+      }
 
       switch (activeFilter) {
         case 'alle': return true
         case 'vegetar': return r.tags.some(t => t.includes('vegetar'))
         case 'vegansk': return r.tags.some(t => t.includes('vegansk'))
         case 'glutenfri': return r.tags.includes('glutenfri')
-        case 'hurtig': return r.total_time_minutes <= 30
+        case 'hurtig': return (r.total_time_minutes ?? r.prep_time_minutes + r.cook_time_minutes) <= 30
         case 'billig': return r.tags.includes('billig')
+        case 'klassisk': return r.tags.some(t => t.includes('dansk'))
+        case 'suppe': return r.tags.includes('suppe') || r.title.toLowerCase().includes('suppe')
         default: return true
       }
     })
