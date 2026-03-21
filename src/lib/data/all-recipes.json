@@ -6974,5 +6974,3567 @@
     "source_url": "maet://redaktionel",
     "created_by": null,
     "created_at": "2026-03-20T08:27:37.101Z"
+  },
+  {
+    "id": "cpo50-1",
+    "slug": "frikadeller-med-kartoffelmos",
+    "title": "Frikadeller med kartoffelmos",
+    "description": "Klassiske danske frikadeller af hakket svinekød, serveret med cremet kartoffelmos og brun sovs.",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 45,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "dansk",
+      "klassiker",
+      "svin",
+      "aftensmad"
+    ],
+    "ingredients": [
+      {
+        "name": "hakket svinekød",
+        "quantity": "600g",
+        "unit": ""
+      },
+      {
+        "name": "æg",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "løg",
+        "quantity": "1 stor",
+        "unit": ""
+      },
+      {
+        "name": "mel",
+        "quantity": "3 spsk",
+        "unit": ""
+      },
+      {
+        "name": "mælk",
+        "quantity": "1 dl",
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "quantity": "1 tsk",
+        "unit": ""
+      },
+      {
+        "name": "peber",
+        "quantity": "½ tsk",
+        "unit": ""
+      },
+      {
+        "name": "kartofler",
+        "quantity": "800g",
+        "unit": ""
+      },
+      {
+        "name": "smør",
+        "quantity": "50g",
+        "unit": ""
+      },
+      {
+        "name": "fløde",
+        "quantity": "1 dl",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Bland hakket kød med æg, revet løg, mel, mælk, salt og peber til en jævn fars.",
+      "Form frikadeller med en ske og steg dem på panden ved middel varme ca. 5 min pr. side.",
+      "Kog kartoflerne møre, hæld vandet fra og mos med smør og fløde.",
+      "Servér frikadeller med kartoffelmos og brun sovs."
+    ],
+    "cuisine": "dansk",
+    "image_url": "https://placehold.co/800x600?text=Frikadeller",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-3",
+    "slug": "flaeskesteg-med-roedkaal",
+    "title": "Flæskesteg med rødkål",
+    "description": "Saftig flæskesteg med sprød sværd, brunede kartofler og hjemmelavet rødkål — perfekt til jul eller søndagsmiddag.",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 120,
+    "total_time_minutes": 140,
+    "servings": 6,
+    "difficulty": "mellem",
+    "tags": [
+      "dansk",
+      "jul",
+      "klassiker",
+      "steg",
+      "svin"
+    ],
+    "ingredients": [
+      {
+        "name": "flæskesteg med sværd",
+        "quantity": "2 kg",
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "laurbærblade",
+        "quantity": "3 stk",
+        "unit": ""
+      },
+      {
+        "name": "hele peberkorn",
+        "quantity": "1 tsk",
+        "unit": ""
+      },
+      {
+        "name": "rødkål",
+        "quantity": "1 lille hoved",
+        "unit": ""
+      },
+      {
+        "name": "æblecidereddike",
+        "quantity": "3 spsk",
+        "unit": ""
+      },
+      {
+        "name": "sukker",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "smør",
+        "quantity": "30g",
+        "unit": ""
+      },
+      {
+        "name": "kartofler",
+        "quantity": "800g",
+        "unit": ""
+      },
+      {
+        "name": "rørsukker til brunede kartofler",
+        "quantity": "4 spsk",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Rids sværden og gnid salt ned i ridserne. Anbring stegen i bradepanden.",
+      "Steg ved 200°C i 30 min, sænk til 175°C og steg videre ca. 90 min.",
+      "Snit rødkål fint og sauter i smør med sukker og eddike i 30 min.",
+      "Brun sukker i en gryde, tilsæt kogte kartofler og vend til de er glaserede.",
+      "Lad stegen hvile 15 min inden udskæring."
+    ],
+    "cuisine": "dansk",
+    "image_url": "https://placehold.co/800x600?text=Flaeskesteg",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-4",
+    "slug": "hakkeboef-med-loeg-og-brun-sovs",
+    "title": "Hakkebøf med løg og brun sovs",
+    "description": "Saftigt hakkebøf af oksekød toppet med glaserede løgringe og rig brun sovs.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "dansk",
+      "klassiker",
+      "oksekød",
+      "aftensmad"
+    ],
+    "ingredients": [
+      {
+        "name": "hakket oksekød (8%)",
+        "quantity": "600g",
+        "unit": ""
+      },
+      {
+        "name": "løg",
+        "quantity": "3 store",
+        "unit": ""
+      },
+      {
+        "name": "smør",
+        "quantity": "50g",
+        "unit": ""
+      },
+      {
+        "name": "kartofler",
+        "quantity": "800g",
+        "unit": ""
+      },
+      {
+        "name": "brun sovs (færdiglavet eller hjemmelavet)",
+        "quantity": "3 dl",
+        "unit": ""
+      },
+      {
+        "name": "salt og peber",
+        "quantity": "efter smag",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Form hakket kød til 4 bøffer og krydr med salt og peber.",
+      "Steg bøfferne på panden 3-4 min per side ved høj varme.",
+      "Skær løg i ringe og steg langsomt i smør til gyldne og bløde.",
+      "Servér bøfferne toppet med løg og brun sovs, og kogte kartofler ved siden af."
+    ],
+    "cuisine": "dansk",
+    "image_url": "https://placehold.co/800x600?text=Hakkebaef",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-5",
+    "slug": "rugbroedsmad-med-leverpostej",
+    "title": "Rugbrødsmad med leverpostej",
+    "description": "Klassisk dansk smørrebrød med hjemmelavet leverpostej, sprøde bacontern og syltede agurker på mørkt rugbrød.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 5,
+    "total_time_minutes": 10,
+    "servings": 2,
+    "difficulty": "nem",
+    "tags": [
+      "dansk",
+      "smørrebrød",
+      "frokost",
+      "klassiker",
+      "hurtig"
+    ],
+    "ingredients": [
+      {
+        "name": "rugbrød",
+        "quantity": "4 skiver",
+        "unit": ""
+      },
+      {
+        "name": "leverpostej",
+        "quantity": "150g",
+        "unit": ""
+      },
+      {
+        "name": "bacontern",
+        "quantity": "50g",
+        "unit": ""
+      },
+      {
+        "name": "syltede agurker",
+        "quantity": "4 stk",
+        "unit": ""
+      },
+      {
+        "name": "rødbeder (syltede)",
+        "quantity": "4 skiver",
+        "unit": ""
+      },
+      {
+        "name": "smør",
+        "quantity": "20g",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Smør rugbrødsskiverne med smør.",
+      "Fordel et lag leverpostej på hver skive.",
+      "Top med sprøde bacontern, syltede agurker og rødbeder.",
+      "Servér straks."
+    ],
+    "cuisine": "dansk",
+    "image_url": "https://placehold.co/800x600?text=Leverpostej+smoerrbroed",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-6",
+    "slug": "aebleskiver",
+    "title": "Æbleskiver",
+    "description": "Luftige, runde æbleskiver — en dansk juletradition serveret med flormelis og hindbærmarmelade.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 45,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "dansk",
+      "jul",
+      "dessert",
+      "sødt",
+      "tradition"
+    ],
+    "ingredients": [
+      {
+        "name": "hvedemel",
+        "quantity": "300g",
+        "unit": ""
+      },
+      {
+        "name": "sukker",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "bagepulver",
+        "quantity": "1 tsk",
+        "unit": ""
+      },
+      {
+        "name": "æg",
+        "quantity": "3 stk",
+        "unit": ""
+      },
+      {
+        "name": "kærnemælk",
+        "quantity": "5 dl",
+        "unit": ""
+      },
+      {
+        "name": "smør (til stegning)",
+        "quantity": "50g",
+        "unit": ""
+      },
+      {
+        "name": "flormelis (til servering)",
+        "quantity": "efter smag",
+        "unit": ""
+      },
+      {
+        "name": "hindbærmarmelade",
+        "quantity": "4 spsk",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Adskil æggehvider og blommer. Pisk æggehviderne stive.",
+      "Bland mel, sukker og bagepulver. Rør blommer og kærnemælk i.",
+      "Vend forsigtigt de stive æggehvider i dejen.",
+      "Smelt smør i æbleskivepanden. Fyld hullerne ¾ op.",
+      "Vend æbleskiverne med en pind når de er halvt stivnede.",
+      "Steg gyldne og servér med flormelis og marmelade."
+    ],
+    "cuisine": "dansk",
+    "image_url": "https://placehold.co/800x600?text=Aebleskiver",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-7",
+    "slug": "medisterpoelse-med-sennepsmos",
+    "title": "Medisterpølse med sennepsmos",
+    "description": "Saftig dansk medisterpølse stegt gyldenbrun, serveret med sennepsmos og surt.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "dansk",
+      "klassiker",
+      "pølse",
+      "aftensmad"
+    ],
+    "ingredients": [
+      {
+        "name": "medisterpølse",
+        "quantity": "700g",
+        "unit": ""
+      },
+      {
+        "name": "kartofler",
+        "quantity": "800g",
+        "unit": ""
+      },
+      {
+        "name": "smør",
+        "quantity": "30g",
+        "unit": ""
+      },
+      {
+        "name": "grov sennep",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "fløde",
+        "quantity": "1 dl",
+        "unit": ""
+      },
+      {
+        "name": "syltede rødbeder",
+        "quantity": "200g",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Skær pølsen i portionsstykker og steg gyldenbrun på alle sider ca. 15 min.",
+      "Kog kartofler møre, hæld vand fra og mos med smør, fløde og sennep.",
+      "Servér pølse med sennepsmos og syltede rødbeder ved siden af."
+    ],
+    "cuisine": "dansk",
+    "image_url": "https://placehold.co/800x600?text=Medisterpølse",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-8",
+    "slug": "biksemad",
+    "title": "Biksemad",
+    "description": "Restemad på topniveau — stegte kartofler, kød og løg blandet sammen og serveret med spejlæg og ketchup.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "dansk",
+      "restemad",
+      "hurtig",
+      "hverdagsret",
+      "klassiker"
+    ],
+    "ingredients": [
+      {
+        "name": "kartofler (kogte, kolde)",
+        "quantity": "600g",
+        "unit": ""
+      },
+      {
+        "name": "hakket oksekød eller pølse (rester)",
+        "quantity": "300g",
+        "unit": ""
+      },
+      {
+        "name": "løg",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "smør",
+        "quantity": "40g",
+        "unit": ""
+      },
+      {
+        "name": "æg",
+        "quantity": "4 stk",
+        "unit": ""
+      },
+      {
+        "name": "salt og peber",
+        "quantity": "efter smag",
+        "unit": ""
+      },
+      {
+        "name": "ketchup",
+        "quantity": "4 spsk",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Skær kartofler i tern og løg i strimler.",
+      "Steg kartofler gyldne i smør på stor pande.",
+      "Tilsæt løg og kødresterne og steg videre 5-8 min.",
+      "Steg spejlæg separat og servér oven på biksemaden med ketchup."
+    ],
+    "cuisine": "dansk",
+    "image_url": "https://placehold.co/800x600?text=Biksemad",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-9",
+    "slug": "gule-aerter",
+    "title": "Gule ærter",
+    "description": "Fyldig dansk ærtesuppe med saltede svineknogler, serveret med røget flæsk og sennep.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 90,
+    "total_time_minutes": 105,
+    "servings": 6,
+    "difficulty": "nem",
+    "tags": [
+      "dansk",
+      "suppe",
+      "klassiker",
+      "vinter",
+      "svin"
+    ],
+    "ingredients": [
+      {
+        "name": "gule ærter (tørrede, udblødte natten over)",
+        "quantity": "500g",
+        "unit": ""
+      },
+      {
+        "name": "saltet svineskank",
+        "quantity": "600g",
+        "unit": ""
+      },
+      {
+        "name": "gulerødder",
+        "quantity": "3 stk",
+        "unit": ""
+      },
+      {
+        "name": "selleri",
+        "quantity": "½ stk",
+        "unit": ""
+      },
+      {
+        "name": "løg",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "laurbærblade",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "røget flæsk (til servering)",
+        "quantity": "200g",
+        "unit": ""
+      },
+      {
+        "name": "grov sennep",
+        "quantity": "2 spsk",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Læg ærterne i blød natten over. Skyl og dræn.",
+      "Kog svineskank i vand med laurbærblade i 30 min. Skum af.",
+      "Tilsæt ærter, hakkede grøntsager og kog videre 45-60 min til ærterne er møre.",
+      "Tag skinken op, skær kødet fra og retur til suppen.",
+      "Servér med røget flæsk og sennep."
+    ],
+    "cuisine": "dansk",
+    "image_url": "https://placehold.co/800x600?text=Gule+aerter",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-12",
+    "slug": "kyllingewok-med-groentsager",
+    "title": "Kyllingewok med grøntsager",
+    "description": "Farverig og hurtig wok med saftig kylling, sprøde grøntsager og sød chilisovs.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "kylling",
+      "wok",
+      "hurtig",
+      "hverdagsret",
+      "asiatisk"
+    ],
+    "ingredients": [
+      {
+        "name": "kyllingebryst",
+        "quantity": "500g",
+        "unit": ""
+      },
+      {
+        "name": "broccoli",
+        "quantity": "300g",
+        "unit": ""
+      },
+      {
+        "name": "peberfrugt (rød og gul)",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "gulerødder",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "sød chilisovs",
+        "quantity": "3 spsk",
+        "unit": ""
+      },
+      {
+        "name": "soja",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "sesamolie",
+        "quantity": "1 spsk",
+        "unit": ""
+      },
+      {
+        "name": "ingefær (revet)",
+        "quantity": "1 tsk",
+        "unit": ""
+      },
+      {
+        "name": "hvidløg",
+        "quantity": "2 fed",
+        "unit": ""
+      },
+      {
+        "name": "jasminris",
+        "quantity": "300g",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Skær kyllingen i strimler og grøntsagerne i mundrette stykker.",
+      "Kog ris efter anvisning på pakken.",
+      "Varm wok eller stor pande til høj varme. Svits kyllingen 3-4 min.",
+      "Tilsæt grøntsager og rør konstant i 3-4 min.",
+      "Tilsæt hvidløg, ingefær, soja og chilisovs. Vend godt.",
+      "Dryp sesamolie over og servér med ris."
+    ],
+    "cuisine": "asiatisk",
+    "image_url": "https://placehold.co/800x600?text=Kyllingewok",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-13",
+    "slug": "tomatsovs-pasta-med-chorizo",
+    "title": "Tomatsovs pasta med chorizo",
+    "description": "Krydret pasta med krydret chorizo, cherrytomater og rucola — på bordet på 20 minutter.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "pasta",
+      "chorizo",
+      "hurtig",
+      "hverdagsret",
+      "spansk"
+    ],
+    "ingredients": [
+      {
+        "name": "penne pasta",
+        "quantity": "400g",
+        "unit": ""
+      },
+      {
+        "name": "chorizo (i skiver)",
+        "quantity": "150g",
+        "unit": ""
+      },
+      {
+        "name": "cherrytomater",
+        "quantity": "300g",
+        "unit": ""
+      },
+      {
+        "name": "hvidløg",
+        "quantity": "3 fed",
+        "unit": ""
+      },
+      {
+        "name": "olivenolie",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "rucola",
+        "quantity": "50g",
+        "unit": ""
+      },
+      {
+        "name": "parmesan",
+        "quantity": "40g",
+        "unit": ""
+      },
+      {
+        "name": "chilipulver",
+        "quantity": "½ tsk",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Kog pasta al dente i saltet vand.",
+      "Steg chorizo i olivenolie 2-3 min. Tilsæt hvidløg og chilipulver.",
+      "Tilsæt halverede cherrytomater og kog 5-7 min til de er mørke og saftige.",
+      "Bland pasta i sovsen med lidt kogevand.",
+      "Anret med rucola og parmesan."
+    ],
+    "cuisine": "spansk",
+    "image_url": "https://placehold.co/800x600?text=Chorizo+pasta",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-14",
+    "slug": "hurtig-fiskesuppe",
+    "title": "Hurtig fiskesuppe",
+    "description": "Cremet og fyldig fiskesuppe med torsk, rejer og grøntsager — klar på 30 minutter.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "fisk",
+      "suppe",
+      "hurtig",
+      "hverdagsret",
+      "dansk"
+    ],
+    "ingredients": [
+      {
+        "name": "torskefilet",
+        "quantity": "400g",
+        "unit": ""
+      },
+      {
+        "name": "pillede rejer",
+        "quantity": "200g",
+        "unit": ""
+      },
+      {
+        "name": "fløde",
+        "quantity": "2 dl",
+        "unit": ""
+      },
+      {
+        "name": "fiskebouillon",
+        "quantity": "6 dl",
+        "unit": ""
+      },
+      {
+        "name": "gulerødder",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "kartofler",
+        "quantity": "300g",
+        "unit": ""
+      },
+      {
+        "name": "porrer",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "smør",
+        "quantity": "30g",
+        "unit": ""
+      },
+      {
+        "name": "dild (frisk)",
+        "quantity": "1 bundt",
+        "unit": ""
+      },
+      {
+        "name": "salt og peber",
+        "quantity": "efter smag",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Skær kartofler i tern og gulerødder i skiver. Snit porre.",
+      "Svits porrer i smør. Tilsæt bouillon og kartofler, kog 10 min.",
+      "Tilsæt gulerødder og kog 5 min mere.",
+      "Hæld fløde i og tilsæt fisk i stykker. Kog forsigtigt 5 min.",
+      "Tilsæt rejer og dild. Smag til og servér."
+    ],
+    "cuisine": "dansk",
+    "image_url": "https://placehold.co/800x600?text=Fiskesuppe",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-15",
+    "slug": "kyllingesalat-med-avocado",
+    "title": "Kyllingesalat med avocado",
+    "description": "Frisk og mættende salat med grillet kylling, cremet avocado, cherrytomater og citrondressing.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "kylling",
+      "salat",
+      "hurtig",
+      "sund",
+      "frokost",
+      "aftensmad"
+    ],
+    "ingredients": [
+      {
+        "name": "kyllingebryst",
+        "quantity": "400g",
+        "unit": ""
+      },
+      {
+        "name": "avocado",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "cherrytomater",
+        "quantity": "200g",
+        "unit": ""
+      },
+      {
+        "name": "romain salat",
+        "quantity": "1 hoved",
+        "unit": ""
+      },
+      {
+        "name": "agurk",
+        "quantity": "½ stk",
+        "unit": ""
+      },
+      {
+        "name": "citronsaft",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "olivenolie",
+        "quantity": "3 spsk",
+        "unit": ""
+      },
+      {
+        "name": "honning",
+        "quantity": "1 tsk",
+        "unit": ""
+      },
+      {
+        "name": "salt og peber",
+        "quantity": "efter smag",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Krydr kylling med salt og peber. Grill eller steg på panden 6-7 min per side.",
+      "Lad kyllingen hvile og skær i skiver.",
+      "Bland citronsaft, olivenolie og honning til dressing.",
+      "Anret salat, avocado, tomater og agurk i en skål.",
+      "Top med kyllingeskiver og dryp dressing over."
+    ],
+    "cuisine": "international",
+    "image_url": "https://placehold.co/800x600?text=Kyllingesalat",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-16",
+    "slug": "oksekoedstacos",
+    "title": "Oksekødstacos",
+    "description": "Sprøde tacos med krydret oksekød, frisk salsa, guacamole og creme fraiche.",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 40,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "tacos",
+      "oksekød",
+      "mexikansk",
+      "hurtig",
+      "festmad"
+    ],
+    "ingredients": [
+      {
+        "name": "hakket oksekød",
+        "quantity": "500g",
+        "unit": ""
+      },
+      {
+        "name": "tacosvøber (hårde eller bløde)",
+        "quantity": "12 stk",
+        "unit": ""
+      },
+      {
+        "name": "tacokrydderi",
+        "quantity": "1 pose",
+        "unit": ""
+      },
+      {
+        "name": "tomater",
+        "quantity": "3 stk",
+        "unit": ""
+      },
+      {
+        "name": "avocado",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "rødløg",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "lime",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "creme fraiche",
+        "quantity": "1 dl",
+        "unit": ""
+      },
+      {
+        "name": "ost (revet)",
+        "quantity": "100g",
+        "unit": ""
+      },
+      {
+        "name": "chilisauce",
+        "quantity": "efter smag",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Brun oksekød og tilsæt tacokrydderi og lidt vand. Simre 5 min.",
+      "Lav guacamole: mos avocado med limesaft, salt og hakket rødløg.",
+      "Hak tomater fint til salsa. Krydr med salt og lime.",
+      "Varm tacoskaller i ovnen 3 min.",
+      "Fyld tacos med kød, guacamole, salsa, ost og creme fraiche."
+    ],
+    "cuisine": "mexicansk",
+    "image_url": "https://placehold.co/800x600?text=Tacos",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-17",
+    "slug": "lyngryde-med-kylling-og-kikaerter",
+    "title": "Lyngryde med kylling og kikærter",
+    "description": "Cremet og krydret éngrydesret med kylling, kikærter og kokosmælk — klar på 35 minutter.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "kylling",
+      "kikærter",
+      "curry",
+      "hurtig",
+      "hverdagsret",
+      "asiatisk"
+    ],
+    "ingredients": [
+      {
+        "name": "kyllingelår (udbenet)",
+        "quantity": "600g",
+        "unit": ""
+      },
+      {
+        "name": "kikærter (dåse)",
+        "quantity": "2 dåser",
+        "unit": ""
+      },
+      {
+        "name": "kokosmælk",
+        "quantity": "400ml",
+        "unit": ""
+      },
+      {
+        "name": "dåsetomater",
+        "quantity": "1 dåse",
+        "unit": ""
+      },
+      {
+        "name": "spidskommen",
+        "quantity": "2 tsk",
+        "unit": ""
+      },
+      {
+        "name": "gurkemeje",
+        "quantity": "1 tsk",
+        "unit": ""
+      },
+      {
+        "name": "koriander (malet)",
+        "quantity": "1 tsk",
+        "unit": ""
+      },
+      {
+        "name": "hvidløg",
+        "quantity": "4 fed",
+        "unit": ""
+      },
+      {
+        "name": "ingefær (frisk)",
+        "quantity": "2 cm",
+        "unit": ""
+      },
+      {
+        "name": "løg",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "jasminris",
+        "quantity": "300g",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Skær kylling i tern. Svits løg, hvidløg og ingefær i olie.",
+      "Tilsæt krydderier og steg 1 min. Tilsæt kyllingen og brun 5 min.",
+      "Tilsæt dåsetomater, kikærter og kokosmælk.",
+      "Simre under låg 20 min. Smag til med salt.",
+      "Servér med jasminris og evt. frisk koriander."
+    ],
+    "cuisine": "asiatisk",
+    "image_url": "https://placehold.co/800x600?text=Kylling+kikaerter",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-18",
+    "slug": "pandestegt-laks-med-citronsmoer",
+    "title": "Pandestegt laks med citronsmør",
+    "description": "Saftig laks pandestegt til perfektion med smeltet citronsmør, serveret med asparges og nye kartofler.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "laks",
+      "fisk",
+      "hurtig",
+      "sund",
+      "aftensmad",
+      "dansk"
+    ],
+    "ingredients": [
+      {
+        "name": "laksefilet",
+        "quantity": "600g (4 stykker)",
+        "unit": ""
+      },
+      {
+        "name": "smør",
+        "quantity": "50g",
+        "unit": ""
+      },
+      {
+        "name": "citron",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "grønne asparges",
+        "quantity": "400g",
+        "unit": ""
+      },
+      {
+        "name": "nye kartofler",
+        "quantity": "600g",
+        "unit": ""
+      },
+      {
+        "name": "frisk dild",
+        "quantity": "½ bundt",
+        "unit": ""
+      },
+      {
+        "name": "salt og peber",
+        "quantity": "efter smag",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Kog kartofler i saltet vand ca. 15 min.",
+      "Krydr laks med salt og peber. Steg på panden med smør 3-4 min per side.",
+      "Bøj aspargesstagerne — knæk der hvor de brækker naturligt. Steg i smør 3-4 min.",
+      "Smelt smør i en lille gryde med citronsaft og dild.",
+      "Anret laks, asparges og kartofler. Hæld citronsmør over."
+    ],
+    "cuisine": "dansk",
+    "image_url": "https://placehold.co/800x600?text=Laks",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-19",
+    "slug": "aeggemad-med-bacon-og-avocado",
+    "title": "Æggemad med bacon og avocado",
+    "description": "Hurtig og mættende morgenmad eller frokostret med bløde scrambled eggs, sprød bacon og avocado på ristet brød.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 15,
+    "servings": 2,
+    "difficulty": "nem",
+    "tags": [
+      "morgenmad",
+      "frokost",
+      "hurtig",
+      "æg",
+      "bacon"
+    ],
+    "ingredients": [
+      {
+        "name": "æg",
+        "quantity": "4 stk",
+        "unit": ""
+      },
+      {
+        "name": "bacon",
+        "quantity": "6 skiver",
+        "unit": ""
+      },
+      {
+        "name": "avocado",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "surdejsbrød",
+        "quantity": "4 skiver",
+        "unit": ""
+      },
+      {
+        "name": "smør",
+        "quantity": "20g",
+        "unit": ""
+      },
+      {
+        "name": "salt og peber",
+        "quantity": "efter smag",
+        "unit": ""
+      },
+      {
+        "name": "chilipulver",
+        "quantity": "½ tsk",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Steg bacon sprødt og lad det dræne på køkkenrulle.",
+      "Ryst brødskiverne i brødristeren.",
+      "Pisk æg med salt og peber. Rør konstant i smør på lav varme til cremet.",
+      "Mos avocado med salt, peber og chilipulver.",
+      "Anret brød med avocado, scrambled eggs og bacon."
+    ],
+    "cuisine": "international",
+    "image_url": "https://placehold.co/800x600?text=Aeggmad",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-20",
+    "slug": "hurtig-kyllingesuppe",
+    "title": "Hurtig kyllingesuppe",
+    "description": "Varmende kyllingesuppe med nudler og grøntsager — perfekt til kolde dage og syge dage.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "suppe",
+      "kylling",
+      "hurtig",
+      "hverdagsret",
+      "sund"
+    ],
+    "ingredients": [
+      {
+        "name": "kyllingebryst",
+        "quantity": "400g",
+        "unit": ""
+      },
+      {
+        "name": "kyllingebouillon",
+        "quantity": "1,5 liter",
+        "unit": ""
+      },
+      {
+        "name": "gulerødder",
+        "quantity": "3 stk",
+        "unit": ""
+      },
+      {
+        "name": "selleri",
+        "quantity": "2 stængler",
+        "unit": ""
+      },
+      {
+        "name": "porrer",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "suppevermicelli eller nudler",
+        "quantity": "150g",
+        "unit": ""
+      },
+      {
+        "name": "frisk persille",
+        "quantity": "½ bundt",
+        "unit": ""
+      },
+      {
+        "name": "salt og peber",
+        "quantity": "efter smag",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Kog kyllingebryst i bouillonen 15 min. Tag op og pil i stykker.",
+      "Tilsæt hakkede grøntsager og kog 10 min.",
+      "Tilsæt nudler og kog efter anvisning.",
+      "Retur kyllingestykkerne til gryden.",
+      "Drys persille over og servér dampende varm."
+    ],
+    "cuisine": "international",
+    "image_url": "https://placehold.co/800x600?text=Kyllingesuppe",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-21",
+    "slug": "dal-med-linser-og-naan",
+    "title": "Dal med linser og naan",
+    "description": "Cremet og krydret indisk linsesuppe med ingefær, spidskommen og gurkemeje — serveret med varmt naan.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "vegetar",
+      "linser",
+      "indisk",
+      "hurtig",
+      "vegansk"
+    ],
+    "ingredients": [
+      {
+        "name": "røde linser",
+        "quantity": "300g",
+        "unit": ""
+      },
+      {
+        "name": "kokosmælk",
+        "quantity": "400ml",
+        "unit": ""
+      },
+      {
+        "name": "dåsetomater",
+        "quantity": "1 dåse",
+        "unit": ""
+      },
+      {
+        "name": "løg",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "hvidløg",
+        "quantity": "4 fed",
+        "unit": ""
+      },
+      {
+        "name": "ingefær (frisk)",
+        "quantity": "2 cm",
+        "unit": ""
+      },
+      {
+        "name": "gurkemeje",
+        "quantity": "1 tsk",
+        "unit": ""
+      },
+      {
+        "name": "garam masala",
+        "quantity": "2 tsk",
+        "unit": ""
+      },
+      {
+        "name": "spidskommen",
+        "quantity": "1 tsk",
+        "unit": ""
+      },
+      {
+        "name": "naan brød",
+        "quantity": "4 stk",
+        "unit": ""
+      },
+      {
+        "name": "frisk koriander",
+        "quantity": "½ bundt",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Svits hakket løg, hvidløg og ingefær i olie 3-4 min.",
+      "Tilsæt krydderier og steg 1 min under omrøring.",
+      "Tilsæt skyllede linser, dåsetomater og kokosmælk.",
+      "Kog op og simre 20-25 min til linser er møre.",
+      "Smag til med salt. Varm naan og servér med koriander."
+    ],
+    "cuisine": "indisk",
+    "image_url": "https://placehold.co/800x600?text=Dal",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-22",
+    "slug": "vegetarisk-lasagne",
+    "title": "Vegetarisk lasagne",
+    "description": "Fyldig lasagne med aubergine, zucchini, spinat og cremet béchamel — alle vil elske den!",
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 50,
+    "total_time_minutes": 80,
+    "servings": 6,
+    "difficulty": "mellem",
+    "tags": [
+      "vegetar",
+      "pasta",
+      "lasagne",
+      "familie",
+      "ovnret"
+    ],
+    "ingredients": [
+      {
+        "name": "lasagneplader",
+        "quantity": "12 stk",
+        "unit": ""
+      },
+      {
+        "name": "aubergine",
+        "quantity": "1 stor",
+        "unit": ""
+      },
+      {
+        "name": "zucchini",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "spinat (frisk)",
+        "quantity": "200g",
+        "unit": ""
+      },
+      {
+        "name": "dåsetomater",
+        "quantity": "2 dåser",
+        "unit": ""
+      },
+      {
+        "name": "løg",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "hvidløg",
+        "quantity": "3 fed",
+        "unit": ""
+      },
+      {
+        "name": "mælk",
+        "quantity": "6 dl",
+        "unit": ""
+      },
+      {
+        "name": "smør",
+        "quantity": "50g",
+        "unit": ""
+      },
+      {
+        "name": "mel",
+        "quantity": "4 spsk",
+        "unit": ""
+      },
+      {
+        "name": "revet ost",
+        "quantity": "200g",
+        "unit": ""
+      },
+      {
+        "name": "oregano",
+        "quantity": "2 tsk",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Skær aubergine og zucchini i tern. Svits med løg og hvidløg i olie.",
+      "Tilsæt dåsetomater og oregano. Simre 15 min. Tilsæt spinat.",
+      "Lav béchamel: smelt smør, rør mel i, tilsæt mælk lidt ad gangen og kog til cremet.",
+      "Lag i bradepanden: pastaplader, grøntsagssovs, béchamel. Gentag.",
+      "Afslut med béchamel og ost. Bag ved 190°C i 40-45 min."
+    ],
+    "cuisine": "italiensk",
+    "image_url": "https://placehold.co/800x600?text=Vegetar+lasagne",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-23",
+    "slug": "kikaertekarry",
+    "title": "Kikærtekarry",
+    "description": "Hurtig og smagfuld vegansk karry med kikærter, spinat og kokosmælk.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "vegetar",
+      "vegansk",
+      "kikærter",
+      "curry",
+      "hurtig"
+    ],
+    "ingredients": [
+      {
+        "name": "kikærter (dåse)",
+        "quantity": "2 dåser",
+        "unit": ""
+      },
+      {
+        "name": "spinat (frisk eller frossen)",
+        "quantity": "200g",
+        "unit": ""
+      },
+      {
+        "name": "kokosmælk",
+        "quantity": "400ml",
+        "unit": ""
+      },
+      {
+        "name": "dåsetomater",
+        "quantity": "1 dåse",
+        "unit": ""
+      },
+      {
+        "name": "karrypasta (rød eller gul)",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "løg",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "hvidløg",
+        "quantity": "3 fed",
+        "unit": ""
+      },
+      {
+        "name": "ingefær",
+        "quantity": "1 tsk",
+        "unit": ""
+      },
+      {
+        "name": "basmatiris",
+        "quantity": "300g",
+        "unit": ""
+      },
+      {
+        "name": "limesaft",
+        "quantity": "1 spsk",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Svits løg, hvidløg og ingefær i olie. Tilsæt karrypasta og steg 1 min.",
+      "Tilsæt kikærter, dåsetomater og kokosmælk. Kog 15 min.",
+      "Rør spinat i og kog til visnet.",
+      "Smag til med limesaft og salt.",
+      "Servér med basmatiris."
+    ],
+    "cuisine": "indisk",
+    "image_url": "https://placehold.co/800x600?text=Kikaertekarry",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-24",
+    "slug": "blomkaalssuppe",
+    "title": "Blomkålssuppe",
+    "description": "Silkeblød og cremet blomkålssuppe med ristede mandler og et drys paprika.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "vegetar",
+      "suppe",
+      "blomkål",
+      "cremet",
+      "sund"
+    ],
+    "ingredients": [
+      {
+        "name": "blomkål",
+        "quantity": "1 stort hoved",
+        "unit": ""
+      },
+      {
+        "name": "løg",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "hvidløg",
+        "quantity": "2 fed",
+        "unit": ""
+      },
+      {
+        "name": "grøntsagsbouillon",
+        "quantity": "8 dl",
+        "unit": ""
+      },
+      {
+        "name": "fløde",
+        "quantity": "1 dl",
+        "unit": ""
+      },
+      {
+        "name": "smør",
+        "quantity": "30g",
+        "unit": ""
+      },
+      {
+        "name": "mandler (skivede)",
+        "quantity": "50g",
+        "unit": ""
+      },
+      {
+        "name": "paprika",
+        "quantity": "1 tsk",
+        "unit": ""
+      },
+      {
+        "name": "salt og peber",
+        "quantity": "efter smag",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Skær blomkål i buketter. Svits løg og hvidløg i smør.",
+      "Tilsæt blomkål og bouillon. Kog 20 min til blomkålen er meget mør.",
+      "Blend suppen silkeglat med stavblender. Tilsæt fløde.",
+      "Rist mandler tørt på en pande.",
+      "Servér suppen med ristede mandler og paprika."
+    ],
+    "cuisine": "international",
+    "image_url": "https://placehold.co/800x600?text=Blomkålssuppe",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-25",
+    "slug": "groentsagsfad-med-hummus",
+    "title": "Grøntsagsfad med hummus",
+    "description": "Farverigt og frisk grøntsagsfad med hjemmelavet hummus, oliven og pitabrød — perfekt til frokost eller forret.",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 20,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "vegetar",
+      "vegansk",
+      "hummus",
+      "frokost",
+      "sund"
+    ],
+    "ingredients": [
+      {
+        "name": "kikærter (dåse)",
+        "quantity": "1 dåse",
+        "unit": ""
+      },
+      {
+        "name": "tahin",
+        "quantity": "3 spsk",
+        "unit": ""
+      },
+      {
+        "name": "citron",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "hvidløg",
+        "quantity": "2 fed",
+        "unit": ""
+      },
+      {
+        "name": "olivenolie",
+        "quantity": "3 spsk",
+        "unit": ""
+      },
+      {
+        "name": "gulerødder",
+        "quantity": "4 stk",
+        "unit": ""
+      },
+      {
+        "name": "agurk",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "peberfrugt",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "oliven",
+        "quantity": "100g",
+        "unit": ""
+      },
+      {
+        "name": "pitabrød",
+        "quantity": "4 stk",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Blend kikærter med tahin, citronsaft, hvidløg, olivenolie og lidt vand til glat hummus.",
+      "Smag til med salt og peber.",
+      "Skær grøntsager i stave.",
+      "Anret hummus på et fat og drys med paprika og olivenolie.",
+      "Servér med grøntsagsstave, oliven og varmt pitabrød."
+    ],
+    "cuisine": "mellemøstlig",
+    "image_url": "https://placehold.co/800x600?text=Hummus+fad",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-26",
+    "slug": "pasta-primavera",
+    "title": "Pasta primavera",
+    "description": "Lys og frisk pastaret med sæsonens grøntsager, citron og parmesan.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "vegetar",
+      "pasta",
+      "frisk",
+      "hurtig",
+      "italiensk"
+    ],
+    "ingredients": [
+      {
+        "name": "linguine eller spaghetti",
+        "quantity": "400g",
+        "unit": ""
+      },
+      {
+        "name": "grønne asparges",
+        "quantity": "200g",
+        "unit": ""
+      },
+      {
+        "name": "ærter (frosne)",
+        "quantity": "150g",
+        "unit": ""
+      },
+      {
+        "name": "cherrytomater",
+        "quantity": "200g",
+        "unit": ""
+      },
+      {
+        "name": "zucchini",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "citron",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "parmesan (revet)",
+        "quantity": "60g",
+        "unit": ""
+      },
+      {
+        "name": "olivenolie",
+        "quantity": "4 spsk",
+        "unit": ""
+      },
+      {
+        "name": "hvidløg",
+        "quantity": "3 fed",
+        "unit": ""
+      },
+      {
+        "name": "frisk basilikum",
+        "quantity": "1 bundt",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Kog pasta al dente. Gem 1 dl kogevand.",
+      "Svits hvidløg i olivenolie. Tilsæt zucchini og asparges, steg 4 min.",
+      "Tilsæt tomater og ærter. Steg 2 min.",
+      "Bland pasta med grøntsager og kogevand. Tilsæt citronskal og -saft.",
+      "Drys parmesan og basilikum over."
+    ],
+    "cuisine": "italiensk",
+    "image_url": "https://placehold.co/800x600?text=Pasta+primavera",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-27",
+    "slug": "aubergine-parmigiana",
+    "title": "Aubergine parmigiana",
+    "description": "Lagdelt italiensk ovnret med aubergine, tomatsovs og smeltet mozzarella.",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 65,
+    "servings": 4,
+    "difficulty": "mellem",
+    "tags": [
+      "vegetar",
+      "italiensk",
+      "ovnret",
+      "aubergine",
+      "sommer"
+    ],
+    "ingredients": [
+      {
+        "name": "aubergine",
+        "quantity": "2 store",
+        "unit": ""
+      },
+      {
+        "name": "dåsetomater",
+        "quantity": "2 dåser",
+        "unit": ""
+      },
+      {
+        "name": "mozzarella",
+        "quantity": "250g",
+        "unit": ""
+      },
+      {
+        "name": "parmesan (revet)",
+        "quantity": "80g",
+        "unit": ""
+      },
+      {
+        "name": "hvidløg",
+        "quantity": "3 fed",
+        "unit": ""
+      },
+      {
+        "name": "frisk basilikum",
+        "quantity": "1 bundt",
+        "unit": ""
+      },
+      {
+        "name": "olivenolie",
+        "quantity": "4 spsk",
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "quantity": "efter smag",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Skær aubergine i skiver, drys med salt og lad trykke 20 min. Tør af.",
+      "Steg aubergineskiver i olivenolie til gyldne. Lad dem ligge på køkkenrulle.",
+      "Kog tomatsovs med dåsetomater, hvidløg og basilikum 10 min.",
+      "Lag i bradepanden: tomatsovs, aubergine, mozzarella. Gentag.",
+      "Drys parmesan over og bag ved 190°C i 30 min til gylden og boblende."
+    ],
+    "cuisine": "italiensk",
+    "image_url": "https://placehold.co/800x600?text=Aubergine+parmigiana",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-28",
+    "slug": "groenkaalssalat-med-appelsin",
+    "title": "Grønkålssalat med appelsin",
+    "description": "Sund og kraftig grønkålssalat med appelsiner, ristede valnødder og honning-sennepsdressing.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 15,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "vegetar",
+      "salat",
+      "grønkål",
+      "sund",
+      "vinter"
+    ],
+    "ingredients": [
+      {
+        "name": "grønkål",
+        "quantity": "300g",
+        "unit": ""
+      },
+      {
+        "name": "appelsiner",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "valnødder",
+        "quantity": "80g",
+        "unit": ""
+      },
+      {
+        "name": "tørrede tranebær",
+        "quantity": "50g",
+        "unit": ""
+      },
+      {
+        "name": "feta",
+        "quantity": "100g",
+        "unit": ""
+      },
+      {
+        "name": "honning",
+        "quantity": "1 spsk",
+        "unit": ""
+      },
+      {
+        "name": "dijonsennep",
+        "quantity": "1 tsk",
+        "unit": ""
+      },
+      {
+        "name": "æblecidereddike",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "olivenolie",
+        "quantity": "3 spsk",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Fjern stilke fra grønkål og riv bladene i stykker. Massér med en smule olivenolie.",
+      "Skræl og snit appelsiner i skiver.",
+      "Rist valnødder tørt på en pande.",
+      "Rør dressing af honning, sennep, eddike og olivenolie.",
+      "Bland salat, appelsin, valnødder og tranebær. Drys feta over og hæld dressing på."
+    ],
+    "cuisine": "international",
+    "image_url": "https://placehold.co/800x600?text=Grønkålssalat",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-29",
+    "slug": "svamperisotto",
+    "title": "Svamperisotto",
+    "description": "Luksuriøs og cremet risotto med blandede svampe, parmesan og frisk timian.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 45,
+    "servings": 4,
+    "difficulty": "mellem",
+    "tags": [
+      "vegetar",
+      "risotto",
+      "svampe",
+      "cremet",
+      "italiensk"
+    ],
+    "ingredients": [
+      {
+        "name": "arborio ris",
+        "quantity": "300g",
+        "unit": ""
+      },
+      {
+        "name": "blandede svampe",
+        "quantity": "400g",
+        "unit": ""
+      },
+      {
+        "name": "grøntsagsbouillon",
+        "quantity": "1,2 liter",
+        "unit": ""
+      },
+      {
+        "name": "tørhvidvin",
+        "quantity": "1 dl",
+        "unit": ""
+      },
+      {
+        "name": "løg",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "hvidløg",
+        "quantity": "3 fed",
+        "unit": ""
+      },
+      {
+        "name": "parmesan (revet)",
+        "quantity": "80g",
+        "unit": ""
+      },
+      {
+        "name": "smør",
+        "quantity": "50g",
+        "unit": ""
+      },
+      {
+        "name": "frisk timian",
+        "quantity": "4 kviste",
+        "unit": ""
+      },
+      {
+        "name": "olivenolie",
+        "quantity": "2 spsk",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Varm bouillon i en gryde. Hold varm.",
+      "Svits løg og hvidløg i olivenolie. Tilsæt ris og steg 2 min.",
+      "Tilsæt hvidvin og rør til absorberet. Tilsæt bouillon én øse ad gangen under konstant omrøring.",
+      "Steg svampe separat i smør med timian. Smag til med salt.",
+      "Når risotto er cremet (ca. 18 min), rør smør og parmesan i. Top med svampe."
+    ],
+    "cuisine": "italiensk",
+    "image_url": "https://placehold.co/800x600?text=Svamperisotto",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-30",
+    "slug": "vegansk-buddha-bowl",
+    "title": "Vegansk Buddha Bowl",
+    "description": "Farverig og nærende bowl med quinoa, ristede søde kartofler, edamame og tahindressing.",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 50,
+    "servings": 2,
+    "difficulty": "nem",
+    "tags": [
+      "vegetar",
+      "vegansk",
+      "bowl",
+      "sund",
+      "quinoa"
+    ],
+    "ingredients": [
+      {
+        "name": "quinoa",
+        "quantity": "200g",
+        "unit": ""
+      },
+      {
+        "name": "søde kartofler",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "edamame (frosne, pillede)",
+        "quantity": "150g",
+        "unit": ""
+      },
+      {
+        "name": "avocado",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "rød spidskål",
+        "quantity": "100g",
+        "unit": ""
+      },
+      {
+        "name": "tahin",
+        "quantity": "3 spsk",
+        "unit": ""
+      },
+      {
+        "name": "citron",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "sojasovs",
+        "quantity": "1 spsk",
+        "unit": ""
+      },
+      {
+        "name": "sesamfrø",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "olivenolie",
+        "quantity": "2 spsk",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Skær søde kartofler i tern, vend i olie og rist ved 200°C i 25 min.",
+      "Kog quinoa efter anvisning.",
+      "Optø edamame. Snit rød spidskål fint.",
+      "Rør tahindressing af tahin, citronsaft, sojasovs og lidt vand.",
+      "Anret quinoa i bowls med alle toppings og dryp dressing over. Drys med sesamfrø."
+    ],
+    "cuisine": "international",
+    "image_url": "https://placehold.co/800x600?text=Buddha+bowl",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-31",
+    "slug": "pandekager-med-syltetoej",
+    "title": "Pandekager med syltetøj",
+    "description": "Tynde, gyldne danske pandekager — børnenes favorit, serveret med syltetøj og flødeskum.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "børnevenlig",
+      "pandekager",
+      "dessert",
+      "dansk",
+      "sød"
+    ],
+    "ingredients": [
+      {
+        "name": "hvedemel",
+        "quantity": "200g",
+        "unit": ""
+      },
+      {
+        "name": "æg",
+        "quantity": "3 stk",
+        "unit": ""
+      },
+      {
+        "name": "mælk",
+        "quantity": "4 dl",
+        "unit": ""
+      },
+      {
+        "name": "vand",
+        "quantity": "1 dl",
+        "unit": ""
+      },
+      {
+        "name": "smør",
+        "quantity": "50g (+ til stegning)",
+        "unit": ""
+      },
+      {
+        "name": "sukker",
+        "quantity": "1 spsk",
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "quantity": "1 knivspids",
+        "unit": ""
+      },
+      {
+        "name": "syltetøj (jordbær eller hindbær)",
+        "quantity": "4 spsk",
+        "unit": ""
+      },
+      {
+        "name": "flødeskum",
+        "quantity": "2 dl",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Bland mel, æg, sukker og salt. Rør mælk og vand i lidt ad gangen til jævn dej.",
+      "Smelt smør og rør i dejen. Lad hvile 15 min.",
+      "Steg tynde pandekager på en velsmurt pande ca. 2 min per side.",
+      "Servér med syltetøj og flødeskum.",
+      "Tip: drys flormelis over for ekstra festlig udgave."
+    ],
+    "cuisine": "dansk",
+    "image_url": "https://placehold.co/800x600?text=Pandekager",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-32",
+    "slug": "hjemmelavet-pizza",
+    "title": "Hjemmelavet pizza",
+    "description": "Sprød hjemmelavet pizza med tomatovs, mozzarella og valgfrit fyld — perfekt familieaktivitet.",
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 45,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "børnevenlig",
+      "pizza",
+      "familie",
+      "italiensk",
+      "weekendmad"
+    ],
+    "ingredients": [
+      {
+        "name": "hvedemel (tipo 00 eller alm.)",
+        "quantity": "500g",
+        "unit": ""
+      },
+      {
+        "name": "tørgær",
+        "quantity": "7g",
+        "unit": ""
+      },
+      {
+        "name": "varmt vand",
+        "quantity": "3 dl",
+        "unit": ""
+      },
+      {
+        "name": "olivenolie",
+        "quantity": "3 spsk",
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "quantity": "1 tsk",
+        "unit": ""
+      },
+      {
+        "name": "tomatpuré",
+        "quantity": "4 spsk",
+        "unit": ""
+      },
+      {
+        "name": "mozzarella",
+        "quantity": "250g",
+        "unit": ""
+      },
+      {
+        "name": "skinke (eller valgt fyld)",
+        "quantity": "150g",
+        "unit": ""
+      },
+      {
+        "name": "majroer eller majs",
+        "quantity": "100g",
+        "unit": ""
+      },
+      {
+        "name": "oregano",
+        "quantity": "2 tsk",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Bland mel, gær og salt. Tilsæt olie og vand. Ælt til glat dej i 10 min. Hæv 1 time.",
+      "Del dejen i 4 og rul tynde pizzabunde.",
+      "Smør tomatpuré på og fordel ost og fyld.",
+      "Bag ved max ovnvarme (250°C) i 10-12 min til sprøde og gyldne.",
+      "Drys oregano over og servér straks."
+    ],
+    "cuisine": "italiensk",
+    "image_url": "https://placehold.co/800x600?text=Pizza",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-33",
+    "slug": "spaghetti-med-k-ttf-rssaas",
+    "title": "Spaghetti med köttfärssås",
+    "description": "Den ultimative familieret — spaghetti med simpel og lækker kødsovs der elskes af alle aldersgrupper.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "servings": 6,
+    "difficulty": "nem",
+    "tags": [
+      "børnevenlig",
+      "pasta",
+      "kødsovs",
+      "familie",
+      "hverdagsret"
+    ],
+    "ingredients": [
+      {
+        "name": "spaghetti",
+        "quantity": "500g",
+        "unit": ""
+      },
+      {
+        "name": "hakket oksekød",
+        "quantity": "600g",
+        "unit": ""
+      },
+      {
+        "name": "dåsetomater (hakkede)",
+        "quantity": "2 dåser",
+        "unit": ""
+      },
+      {
+        "name": "tomatpuré",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "løg",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "hvidløg",
+        "quantity": "4 fed",
+        "unit": ""
+      },
+      {
+        "name": "olivenolie",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "sukker",
+        "quantity": "1 tsk",
+        "unit": ""
+      },
+      {
+        "name": "oregano",
+        "quantity": "2 tsk",
+        "unit": ""
+      },
+      {
+        "name": "parmesan",
+        "quantity": "80g",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Svits løg og hvidløg i olivenolie til bløde og gyldne.",
+      "Tilsæt hakket kød og brun godt.",
+      "Tilsæt tomatpuré, dåsetomater, oregano og sukker.",
+      "Simre 20-25 min under låg. Smag til med salt og peber.",
+      "Kog spaghetti al dente. Servér med sovs og parmesan."
+    ],
+    "cuisine": "italiensk",
+    "image_url": "https://placehold.co/800x600?text=Spaghetti",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-34",
+    "slug": "mac-and-cheese-hjemmelavet",
+    "title": "Mac and cheese hjemmelavet",
+    "description": "Cremet og osteagtig mac and cheese lavet fra bunden — meget bedre end fra pose!",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "børnevenlig",
+      "pasta",
+      "ost",
+      "hurtig",
+      "familie"
+    ],
+    "ingredients": [
+      {
+        "name": "macaroni",
+        "quantity": "400g",
+        "unit": ""
+      },
+      {
+        "name": "smør",
+        "quantity": "60g",
+        "unit": ""
+      },
+      {
+        "name": "mel",
+        "quantity": "4 spsk",
+        "unit": ""
+      },
+      {
+        "name": "mælk",
+        "quantity": "6 dl",
+        "unit": ""
+      },
+      {
+        "name": "cheddar (revet)",
+        "quantity": "200g",
+        "unit": ""
+      },
+      {
+        "name": "parmesan (revet)",
+        "quantity": "60g",
+        "unit": ""
+      },
+      {
+        "name": "dijonsennep",
+        "quantity": "1 tsk",
+        "unit": ""
+      },
+      {
+        "name": "salt og peber",
+        "quantity": "efter smag",
+        "unit": ""
+      },
+      {
+        "name": "rasp (valgfrit til topping)",
+        "quantity": "50g",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Kog pasta al dente. Gem lidt kogevand.",
+      "Smelt smør i gryde, rør mel i. Tilsæt mælk lidt ad gangen og kog til tyk sovs.",
+      "Tilsæt revet cheddar, parmesan og sennep. Rør til smeltet og glat.",
+      "Bland pasta i ostesovsen. Justér konsistens med kogevand.",
+      "Servér straks — eller bag med rasp på toppen ved 200°C i 15 min for bagt udgave."
+    ],
+    "cuisine": "amerikansk",
+    "image_url": "https://placehold.co/800x600?text=Mac+and+cheese",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-35",
+    "slug": "fiskefileter-med-remoulade",
+    "title": "Fiskefileter med remoulade",
+    "description": "Sprøde, panerede fiskefileter med hjemmelavet remoulade og pommes frites — børnenes favorit fredagsret.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 35,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "børnevenlig",
+      "fisk",
+      "paneret",
+      "fredag",
+      "dansk"
+    ],
+    "ingredients": [
+      {
+        "name": "torskefilet (eller pollack)",
+        "quantity": "600g",
+        "unit": ""
+      },
+      {
+        "name": "rasp",
+        "quantity": "150g",
+        "unit": ""
+      },
+      {
+        "name": "æg",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "mel",
+        "quantity": "4 spsk",
+        "unit": ""
+      },
+      {
+        "name": "smør eller olie til stegning",
+        "quantity": "50g",
+        "unit": ""
+      },
+      {
+        "name": "mayonnaise",
+        "quantity": "4 spsk",
+        "unit": ""
+      },
+      {
+        "name": "kapers",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "syltede agurker",
+        "quantity": "3 spsk",
+        "unit": ""
+      },
+      {
+        "name": "gurkemeje",
+        "quantity": "½ tsk",
+        "unit": ""
+      },
+      {
+        "name": "frosne pommes frites",
+        "quantity": "600g",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Lav remoulade: bland mayonnaise, finthakkede kapers, agurker og gurkemeje.",
+      "Bag pommes frites i ovnen ifølge anvisning.",
+      "Vend fiskefileter i mel, æg og rasp.",
+      "Steg fiskene i smør 3-4 min per side til gyldne og sprøde.",
+      "Servér med pommes frites og remoulade."
+    ],
+    "cuisine": "dansk",
+    "image_url": "https://placehold.co/800x600?text=Fiskefileter",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-36",
+    "slug": "kyllingenuggets-hjemmelavet",
+    "title": "Kyllingenuggets hjemmelavet",
+    "description": "Saftige hjemmelavede kyllingenuggets paneret i krydret rasp — sund og populær alternativ til take-away.",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 40,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "børnevenlig",
+      "kylling",
+      "nuggets",
+      "ovnbagt",
+      "sund"
+    ],
+    "ingredients": [
+      {
+        "name": "kyllingebryst",
+        "quantity": "600g",
+        "unit": ""
+      },
+      {
+        "name": "rasp (Panko eller alm.)",
+        "quantity": "200g",
+        "unit": ""
+      },
+      {
+        "name": "æg",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "mel",
+        "quantity": "4 spsk",
+        "unit": ""
+      },
+      {
+        "name": "paprika",
+        "quantity": "1 tsk",
+        "unit": ""
+      },
+      {
+        "name": "hvidløgspulver",
+        "quantity": "1 tsk",
+        "unit": ""
+      },
+      {
+        "name": "salt og peber",
+        "quantity": "efter smag",
+        "unit": ""
+      },
+      {
+        "name": "olivenolie (spray eller til drys)",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "ketchup eller dipmix",
+        "quantity": "4 spsk",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Skær kyllingen i nugget-størrelse stykker.",
+      "Bland rasp med paprika, hvidløgspulver, salt og peber.",
+      "Vend nuggets i mel, æg og krydret rasp.",
+      "Placer på bagepapir, drys med olie og bag ved 200°C i 18-20 min.",
+      "Servér med ketchup, BBQ-sovs eller hjemmelavet dipmix."
+    ],
+    "cuisine": "amerikansk",
+    "image_url": "https://placehold.co/800x600?text=Kyllingenuggets",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-37",
+    "slug": "minipizzaer-paa-engelske-muffins",
+    "title": "Minipizzaer på engelske muffins",
+    "description": "Superhurtige mini-pizzaer lavet på engelske muffins — børnene elsker at lave dem selv!",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 20,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "børnevenlig",
+      "pizza",
+      "hurtig",
+      "sjov",
+      "frokost"
+    ],
+    "ingredients": [
+      {
+        "name": "engelske muffins",
+        "quantity": "4 stk (8 halvdele)",
+        "unit": ""
+      },
+      {
+        "name": "tomatpuré",
+        "quantity": "4 spsk",
+        "unit": ""
+      },
+      {
+        "name": "mozzarella (revet)",
+        "quantity": "200g",
+        "unit": ""
+      },
+      {
+        "name": "skinke",
+        "quantity": "100g",
+        "unit": ""
+      },
+      {
+        "name": "majs (dåse)",
+        "quantity": "100g",
+        "unit": ""
+      },
+      {
+        "name": "peberfrugt",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "oregano",
+        "quantity": "2 tsk",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Del muffins på langs og rist let i brødristeren.",
+      "Smør tomatpuré på hver halvdel.",
+      "Top med ost og valgte fyld.",
+      "Drys oregano over.",
+      "Bag ved 200°C i 8-10 min til osten er smeltet og boblende."
+    ],
+    "cuisine": "italiensk",
+    "image_url": "https://placehold.co/800x600?text=Minipizzaer",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-38",
+    "slug": "bananpandekager-2-ingrediens",
+    "title": "Bananpandekager (2-ingrediens)",
+    "description": "Utroligt simpel og sund pandekageopskrift med kun banan og æg — glutenfri og populær hos børn.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 15,
+    "servings": 2,
+    "difficulty": "nem",
+    "tags": [
+      "børnevenlig",
+      "morgenmad",
+      "hurtig",
+      "glutenfri",
+      "sund",
+      "banan"
+    ],
+    "ingredients": [
+      {
+        "name": "modne bananer",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "æg",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "smør til stegning",
+        "quantity": "20g",
+        "unit": ""
+      },
+      {
+        "name": "bær eller frugt til topping",
+        "quantity": "100g",
+        "unit": ""
+      },
+      {
+        "name": "ahornsirup (valgfrit)",
+        "quantity": "1 spsk",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Mos bananer grundigt med en gaffel.",
+      "Pisk æg i og rør til en jævn dej.",
+      "Steg små pandekager i smør ved lav-medium varme ca. 2 min per side.",
+      "Servér med friske bær og evt. ahornsirup."
+    ],
+    "cuisine": "international",
+    "image_url": "https://placehold.co/800x600?text=Bananpandekager",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-39",
+    "slug": "kyllingewrap-med-groentsager",
+    "title": "Kyllingewrap med grøntsager",
+    "description": "Lette og lækre wraps med kylling, grøntsager og mild yogurtdressing — perfekt madpakke eller let aftensmad.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "børnevenlig",
+      "wrap",
+      "kylling",
+      "hurtig",
+      "madpakke",
+      "frokost"
+    ],
+    "ingredients": [
+      {
+        "name": "kyllingebryst",
+        "quantity": "400g",
+        "unit": ""
+      },
+      {
+        "name": "tortilla wraps",
+        "quantity": "4 stk",
+        "unit": ""
+      },
+      {
+        "name": "agurk",
+        "quantity": "½ stk",
+        "unit": ""
+      },
+      {
+        "name": "peberfrugt",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "salat",
+        "quantity": "4 blade",
+        "unit": ""
+      },
+      {
+        "name": "cherrytomater",
+        "quantity": "100g",
+        "unit": ""
+      },
+      {
+        "name": "græsk yogurt",
+        "quantity": "3 spsk",
+        "unit": ""
+      },
+      {
+        "name": "citron",
+        "quantity": "½ stk",
+        "unit": ""
+      },
+      {
+        "name": "hvidløgspulver",
+        "quantity": "½ tsk",
+        "unit": ""
+      },
+      {
+        "name": "salt og peber",
+        "quantity": "efter smag",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Krydr kylling og steg på panden 6-7 min per side. Skær i strimler.",
+      "Bland yogurt med citronsaft, hvidløgspulver, salt og peber.",
+      "Skær grøntsager i strimler og halvér tomaterne.",
+      "Varm wraps kort i panden.",
+      "Fyld wraps med salat, grøntsager, kylling og dressing. Rul og servér."
+    ],
+    "cuisine": "international",
+    "image_url": "https://placehold.co/800x600?text=Kyllingewrap",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-40",
+    "slug": "boefsandwich",
+    "title": "Bøfsandwich",
+    "description": "Saftig hjemmelavet bøfsandwich med smeltet ost, karameliserede løg og friske grøntsager.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "børnevenlig",
+      "burger",
+      "oksekød",
+      "weekend",
+      "familie"
+    ],
+    "ingredients": [
+      {
+        "name": "hakket oksekød (12%)",
+        "quantity": "600g",
+        "unit": ""
+      },
+      {
+        "name": "burgerbøller",
+        "quantity": "4 stk",
+        "unit": ""
+      },
+      {
+        "name": "cheddarskiver",
+        "quantity": "4 stk",
+        "unit": ""
+      },
+      {
+        "name": "løg",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "salat",
+        "quantity": "4 blade",
+        "unit": ""
+      },
+      {
+        "name": "tomater",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "ketchup",
+        "quantity": "4 spsk",
+        "unit": ""
+      },
+      {
+        "name": "sennep",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "smør",
+        "quantity": "20g",
+        "unit": ""
+      },
+      {
+        "name": "salt og peber",
+        "quantity": "efter smag",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Form hakket kød til 4 bøffer. Krydr med salt og peber.",
+      "Karameliser løg i smør ved lav varme 15 min til gyldne og søde.",
+      "Grill eller steg bøfferne 3-4 min per side. Læg ost på de sidste 2 min.",
+      "Rist boller i panden.",
+      "Byg burgere: bund, salat, tomat, bøf med ost, løg, ketchup og sennep."
+    ],
+    "cuisine": "amerikansk",
+    "image_url": "https://placehold.co/800x600?text=Boefsandwich",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-41",
+    "slug": "asiatisk-nudelsalat",
+    "title": "Asiatisk nudelsalat",
+    "description": "Frisk og sprød nudelsalat med risnudler, edamame, grøntsager og sesamdressing.",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "vegetar",
+      "salat",
+      "nudler",
+      "asiatisk",
+      "hurtig"
+    ],
+    "ingredients": [
+      {
+        "name": "risnudler",
+        "quantity": "200g",
+        "unit": ""
+      },
+      {
+        "name": "edamame",
+        "quantity": "150g",
+        "unit": ""
+      },
+      {
+        "name": "rød peberfrugt",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "agurk",
+        "quantity": "½ stk",
+        "unit": ""
+      },
+      {
+        "name": "gulerødder",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "forårsløg",
+        "quantity": "4 stk",
+        "unit": ""
+      },
+      {
+        "name": "sojasovs",
+        "quantity": "3 spsk",
+        "unit": ""
+      },
+      {
+        "name": "sesamolie",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "riseddike",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "honning",
+        "quantity": "1 spsk",
+        "unit": ""
+      },
+      {
+        "name": "sesamfrø",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "frisk koriander",
+        "quantity": "½ bundt",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Blødgør risnudler i kogende vand 5 min. Skyl koldt og dræn.",
+      "Snit grøntsager i tynde strimler.",
+      "Rør dressing af soja, sesamolie, riseddike og honning.",
+      "Bland nudler, grøntsager og edamame.",
+      "Hæld dressing over og top med sesamfrø og koriander."
+    ],
+    "cuisine": "asiatisk",
+    "image_url": "https://placehold.co/800x600?text=Nudelsalat",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-42",
+    "slug": "tomatsuppe-med-basilikum",
+    "title": "Tomatsuppe med basilikum",
+    "description": "Silkeblød og smagfuld tomatsuppe med frisk basilikum og en skefuld fløde.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "vegetar",
+      "suppe",
+      "tomat",
+      "hurtig",
+      "klassiker"
+    ],
+    "ingredients": [
+      {
+        "name": "dåsetomater (flåede)",
+        "quantity": "2 dåser (800g)",
+        "unit": ""
+      },
+      {
+        "name": "løg",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "hvidløg",
+        "quantity": "4 fed",
+        "unit": ""
+      },
+      {
+        "name": "grøntsagsbouillon",
+        "quantity": "5 dl",
+        "unit": ""
+      },
+      {
+        "name": "fløde",
+        "quantity": "1 dl",
+        "unit": ""
+      },
+      {
+        "name": "frisk basilikum",
+        "quantity": "1 bundt",
+        "unit": ""
+      },
+      {
+        "name": "sukker",
+        "quantity": "1 tsk",
+        "unit": ""
+      },
+      {
+        "name": "olivenolie",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "salt og peber",
+        "quantity": "efter smag",
+        "unit": ""
+      },
+      {
+        "name": "brød til servering",
+        "quantity": "4 skiver",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Svits hakket løg og hvidløg i olivenolie til bløde.",
+      "Tilsæt tomater, bouillon og sukker. Kog 20 min.",
+      "Blend suppen silkeglat. Tilsæt fløde.",
+      "Smag til med salt, peber og evt. mere sukker.",
+      "Servér med hakket basilikum og godt brød."
+    ],
+    "cuisine": "italiensk",
+    "image_url": "https://placehold.co/800x600?text=Tomatsuppe",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-43",
+    "slug": "pulled-pork-med-coleslaw",
+    "title": "Pulled pork med coleslaw",
+    "description": "Mørnet pulled pork slow-cooked i ovnen med BBQ-krydderier, serveret i briocheboller med cremet coleslaw.",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 240,
+    "total_time_minutes": 260,
+    "servings": 6,
+    "difficulty": "nem",
+    "tags": [
+      "svin",
+      "BBQ",
+      "weekend",
+      "festmad",
+      "sandwich"
+    ],
+    "ingredients": [
+      {
+        "name": "svineskuldersteg (nakke)",
+        "quantity": "1,5 kg",
+        "unit": ""
+      },
+      {
+        "name": "paprika",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "spidskommen",
+        "quantity": "2 tsk",
+        "unit": ""
+      },
+      {
+        "name": "brun farin",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "hvidløgspulver",
+        "quantity": "2 tsk",
+        "unit": ""
+      },
+      {
+        "name": "BBQ-sovs",
+        "quantity": "3 dl",
+        "unit": ""
+      },
+      {
+        "name": "spidskål",
+        "quantity": "300g",
+        "unit": ""
+      },
+      {
+        "name": "gulerødder",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "mayonnaise",
+        "quantity": "3 spsk",
+        "unit": ""
+      },
+      {
+        "name": "æblecidereddike",
+        "quantity": "1 spsk",
+        "unit": ""
+      },
+      {
+        "name": "briocheboller",
+        "quantity": "6 stk",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Bland krydderier og gnid ind i kødet. Lad trække 1 time (eller natten over).",
+      "Steg ved 130°C i 4-5 timer til kødet falder fra hinanden.",
+      "Pil kødet ad med to gafler. Bland med BBQ-sovs.",
+      "Lav coleslaw: snit kål og gulerødder. Bland med mayonnaise og eddike.",
+      "Byg sandwiches med pulled pork og coleslaw i ristede boller."
+    ],
+    "cuisine": "amerikansk",
+    "image_url": "https://placehold.co/800x600?text=Pulled+pork",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-44",
+    "slug": "frisk-graesk-salat",
+    "title": "Frisk græsk salat",
+    "description": "Klassisk græsk salat med tomater, agurk, oliven, rødløg og feta — let og frisk tilbehør eller ret.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 15,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "vegetar",
+      "salat",
+      "græsk",
+      "hurtig",
+      "sommer",
+      "frokost"
+    ],
+    "ingredients": [
+      {
+        "name": "cherrytomater",
+        "quantity": "300g",
+        "unit": ""
+      },
+      {
+        "name": "agurk",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "kalamata-oliven",
+        "quantity": "100g",
+        "unit": ""
+      },
+      {
+        "name": "rødløg",
+        "quantity": "½ stk",
+        "unit": ""
+      },
+      {
+        "name": "feta",
+        "quantity": "200g",
+        "unit": ""
+      },
+      {
+        "name": "grøn peberfrugt",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "olivenolie",
+        "quantity": "4 spsk",
+        "unit": ""
+      },
+      {
+        "name": "rødvinseddike",
+        "quantity": "1 spsk",
+        "unit": ""
+      },
+      {
+        "name": "tørret oregano",
+        "quantity": "2 tsk",
+        "unit": ""
+      },
+      {
+        "name": "salt og peber",
+        "quantity": "efter smag",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Halvér tomater, skær agurk og peberfrugt i tern.",
+      "Snit rødløg meget tyndt.",
+      "Anret grøntsager i en skål med oliven.",
+      "Bræk feta i store stykker og placer oven på salaten.",
+      "Hæld olivenolie og eddike over. Drys oregano, salt og peber."
+    ],
+    "cuisine": "græsk",
+    "image_url": "https://placehold.co/800x600?text=Graesk+salat",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-45",
+    "slug": "ovnbagt-soed-kartoffel",
+    "title": "Ovnbagt sød kartoffel",
+    "description": "Hele ovnbagte søde kartofler fyld med smør, kanel og friske urter — simpelt og fantastisk.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 50,
+    "total_time_minutes": 55,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "vegetar",
+      "sød kartoffel",
+      "ovnbagt",
+      "sund",
+      "nem"
+    ],
+    "ingredients": [
+      {
+        "name": "søde kartofler (store)",
+        "quantity": "4 stk",
+        "unit": ""
+      },
+      {
+        "name": "smør",
+        "quantity": "40g",
+        "unit": ""
+      },
+      {
+        "name": "kanel",
+        "quantity": "½ tsk",
+        "unit": ""
+      },
+      {
+        "name": "sort bønner (dåse, valgfrit fyld)",
+        "quantity": "1 dåse",
+        "unit": ""
+      },
+      {
+        "name": "rødløg",
+        "quantity": "½ stk",
+        "unit": ""
+      },
+      {
+        "name": "avocado",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "creme fraiche",
+        "quantity": "4 spsk",
+        "unit": ""
+      },
+      {
+        "name": "limesaft",
+        "quantity": "1 spsk",
+        "unit": ""
+      },
+      {
+        "name": "salt og peber",
+        "quantity": "efter smag",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Vask søde kartofler og prik med gaffel. Bag ved 200°C i 45-50 min.",
+      "Skær et kryds i toppen og pres siden ind for at åbne.",
+      "Placer en klump smør indeni og drys kanel.",
+      "Top med bønner, avocado, rødløg og creme fraiche.",
+      "Dryp limesaft over og krydr med salt og peber."
+    ],
+    "cuisine": "international",
+    "image_url": "https://placehold.co/800x600?text=Soed+kartoffel",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-46",
+    "slug": "oksegryde-med-rodfrugter",
+    "title": "Oksegryde med rodfrugter",
+    "description": "Varmende og dyb dansk oksegryde med sæsonens rodfrugter, kogt langsomt til perfektion.",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 120,
+    "total_time_minutes": 140,
+    "servings": 6,
+    "difficulty": "nem",
+    "tags": [
+      "dansk",
+      "oksekød",
+      "gryde",
+      "vinter",
+      "klassiker"
+    ],
+    "ingredients": [
+      {
+        "name": "oksebov (tern)",
+        "quantity": "1 kg",
+        "unit": ""
+      },
+      {
+        "name": "kartofler",
+        "quantity": "400g",
+        "unit": ""
+      },
+      {
+        "name": "gulerødder",
+        "quantity": "3 stk",
+        "unit": ""
+      },
+      {
+        "name": "pastinakker",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "selleri",
+        "quantity": "½ stk",
+        "unit": ""
+      },
+      {
+        "name": "løg",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "oksebouillon",
+        "quantity": "8 dl",
+        "unit": ""
+      },
+      {
+        "name": "tomatpuré",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "laurbærblade",
+        "quantity": "3 stk",
+        "unit": ""
+      },
+      {
+        "name": "frisk timian",
+        "quantity": "4 kviste",
+        "unit": ""
+      },
+      {
+        "name": "mel",
+        "quantity": "2 spsk",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Brun oksebov i tern i lidt olie. Tag op.",
+      "Svits løg i samme gryde. Rør tomatpuré og mel i.",
+      "Tilsæt bouillon, laurbær og timian. Retur kød.",
+      "Simre under låg 1 time.",
+      "Tilsæt skårne rodfrugter og simre videre 45 min til mørt og lækkert.",
+      "Smag til med salt og peber."
+    ],
+    "cuisine": "dansk",
+    "image_url": "https://placehold.co/800x600?text=Oksegryde",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-47",
+    "slug": "graeskarsuppe-med-ingefaer",
+    "title": "Græskarsuppe med ingefær",
+    "description": "Glat, cremet og aromatisk græskarsuppe med ingefær og kokosmælk — perfekt efterårssuppe.",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 45,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "vegetar",
+      "vegansk",
+      "suppe",
+      "efterår",
+      "cremet"
+    ],
+    "ingredients": [
+      {
+        "name": "butternut squash (eller græskar)",
+        "quantity": "1 kg",
+        "unit": ""
+      },
+      {
+        "name": "ingefær (frisk)",
+        "quantity": "3 cm",
+        "unit": ""
+      },
+      {
+        "name": "kokosmælk",
+        "quantity": "400ml",
+        "unit": ""
+      },
+      {
+        "name": "grøntsagsbouillon",
+        "quantity": "6 dl",
+        "unit": ""
+      },
+      {
+        "name": "løg",
+        "quantity": "1 stk",
+        "unit": ""
+      },
+      {
+        "name": "hvidløg",
+        "quantity": "3 fed",
+        "unit": ""
+      },
+      {
+        "name": "gurkemeje",
+        "quantity": "1 tsk",
+        "unit": ""
+      },
+      {
+        "name": "olivenolie",
+        "quantity": "2 spsk",
+        "unit": ""
+      },
+      {
+        "name": "salt og peber",
+        "quantity": "efter smag",
+        "unit": ""
+      },
+      {
+        "name": "græskarkerner (ristede)",
+        "quantity": "50g",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Skræl og skær squash i tern. Svits løg, hvidløg og ingefær i olie.",
+      "Tilsæt gurkemeje, squash og bouillon. Kog 20-25 min til squash er mør.",
+      "Tilsæt kokosmælk og blend til silkeglat.",
+      "Smag til med salt og peber.",
+      "Top med ristede græskarkerner og evt. et skvæt kokosmælk."
+    ],
+    "cuisine": "international",
+    "image_url": "https://placehold.co/800x600?text=Graeskarsuppe",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-48",
+    "slug": "cremet-hvidvinssauce-til-pasta",
+    "title": "Cremet hvidvinssauce til pasta",
+    "description": "Hurtig og lækker flødesovs med hvidvin, rejer og frisk dild — elegant hverdagsret på 20 minutter.",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "difficulty": "nem",
+    "tags": [
+      "pasta",
+      "rejer",
+      "fløde",
+      "hurtig",
+      "festmad"
+    ],
+    "ingredients": [
+      {
+        "name": "linguine",
+        "quantity": "400g",
+        "unit": ""
+      },
+      {
+        "name": "pillede rejer",
+        "quantity": "300g",
+        "unit": ""
+      },
+      {
+        "name": "hvidvin (tør)",
+        "quantity": "1 dl",
+        "unit": ""
+      },
+      {
+        "name": "fløde",
+        "quantity": "2 dl",
+        "unit": ""
+      },
+      {
+        "name": "smør",
+        "quantity": "30g",
+        "unit": ""
+      },
+      {
+        "name": "hvidløg",
+        "quantity": "3 fed",
+        "unit": ""
+      },
+      {
+        "name": "skalotteløg",
+        "quantity": "2 stk",
+        "unit": ""
+      },
+      {
+        "name": "frisk dild",
+        "quantity": "½ bundt",
+        "unit": ""
+      },
+      {
+        "name": "citron",
+        "quantity": "½ stk",
+        "unit": ""
+      },
+      {
+        "name": "salt og peber",
+        "quantity": "efter smag",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Kog pasta al dente.",
+      "Svits skalotteløg og hvidløg i smør. Tilsæt hvidvin og kog 2 min.",
+      "Tilsæt fløde og kog til lidt tykkere, ca. 5 min.",
+      "Tilsæt rejer og varm igennem 2 min.",
+      "Bland pasta i sovsen. Smag til med citron, dild, salt og peber."
+    ],
+    "cuisine": "international",
+    "image_url": "https://placehold.co/800x600?text=Rejepasta",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-49",
+    "slug": "spinattaerte-med-feta",
+    "title": "Spinattærte med feta",
+    "description": "Fyldig tærte med frisk spinat, feta og æg i sprød tærtedej — perfekt til buffet, frokost eller madpakke.",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 60,
+    "servings": 6,
+    "difficulty": "mellem",
+    "tags": [
+      "vegetar",
+      "tærte",
+      "spinat",
+      "feta",
+      "frokost",
+      "buffet"
+    ],
+    "ingredients": [
+      {
+        "name": "færdig tærtedej (købt)",
+        "quantity": "1 pakke (ca. 250g)",
+        "unit": ""
+      },
+      {
+        "name": "spinat (frisk)",
+        "quantity": "300g",
+        "unit": ""
+      },
+      {
+        "name": "feta",
+        "quantity": "200g",
+        "unit": ""
+      },
+      {
+        "name": "æg",
+        "quantity": "3 stk",
+        "unit": ""
+      },
+      {
+        "name": "fløde",
+        "quantity": "2 dl",
+        "unit": ""
+      },
+      {
+        "name": "hvidløg",
+        "quantity": "2 fed",
+        "unit": ""
+      },
+      {
+        "name": "muskatnød",
+        "quantity": "½ tsk",
+        "unit": ""
+      },
+      {
+        "name": "salt og peber",
+        "quantity": "efter smag",
+        "unit": ""
+      },
+      {
+        "name": "revet ost",
+        "quantity": "80g",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Rul tærtedej ud i en tærteform og forbagtblind ved 180°C i 10 min.",
+      "Svits spinat med hvidløg til visnet. Pres væde ud og hak groft.",
+      "Bland æg, fløde, muskatnød, salt og peber.",
+      "Fordel spinat og feta i tærteformen. Hæld æggeblandingen over. Drys ost.",
+      "Bag ved 180°C i 30-35 min til gylden og sat."
+    ],
+    "cuisine": "international",
+    "image_url": "https://placehold.co/800x600?text=Spinattaerte",
+    "source_url": null
+  },
+  {
+    "id": "cpo50-50",
+    "slug": "risbudding-med-kirsebaersovs",
+    "title": "Risbudding med kirsebærsovs",
+    "description": "Klassisk dansk julerisengrød forvandlet til ris à l'amande — luftig risbudding med hvid chokolade og kirsebærsovs.",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 50,
+    "servings": 6,
+    "difficulty": "nem",
+    "tags": [
+      "dansk",
+      "dessert",
+      "jul",
+      "klassiker",
+      "risbudding",
+      "sødt"
+    ],
+    "ingredients": [
+      {
+        "name": "grødris",
+        "quantity": "200g",
+        "unit": ""
+      },
+      {
+        "name": "sødmælk",
+        "quantity": "1 liter",
+        "unit": ""
+      },
+      {
+        "name": "piskefløde",
+        "quantity": "4 dl",
+        "unit": ""
+      },
+      {
+        "name": "sukker",
+        "quantity": "4 spsk",
+        "unit": ""
+      },
+      {
+        "name": "vaniljesukker",
+        "quantity": "2 tsk",
+        "unit": ""
+      },
+      {
+        "name": "mandler (blancherede)",
+        "quantity": "100g",
+        "unit": ""
+      },
+      {
+        "name": "hvid chokolade",
+        "quantity": "50g",
+        "unit": ""
+      },
+      {
+        "name": "kirsebærcompote (dåse)",
+        "quantity": "1 dåse",
+        "unit": ""
+      },
+      {
+        "name": "amaretto (valgfrit)",
+        "quantity": "2 spsk",
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Kog risengrød af ris og mælk i 30 min under låg. Afkøl.",
+      "Pisk fløde til let flødeskum. Fold i den afkølede grød.",
+      "Hak mandler groft (gem en hel til 'den heldige'). Fold i budding med vaniljesukker.",
+      "Tilsæt revet hvid chokolade og sukker efter smag.",
+      "Varm kirsebærcompote op med evt. amaretto.",
+      "Servér buddingen i skåle med varm kirsebærsovs."
+    ],
+    "cuisine": "dansk",
+    "image_url": "https://placehold.co/800x600?text=Risbudding",
+    "source_url": null
   }
 ]
