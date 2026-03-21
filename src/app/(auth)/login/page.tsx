@@ -24,7 +24,7 @@ export default async function LoginPage({
           </p>
 
           {error && (
-            <div className="mb-4 rounded-md bg-red-50 border border-red-100 px-4 py-3 text-caption text-error">
+            <div className="mb-4 rounded-md bg-error-light border border-error-border px-4 py-3 text-caption text-error">
               {decodeURIComponent(error)}
             </div>
           )}

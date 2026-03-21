@@ -304,7 +304,7 @@ export default function OnboardingPage() {
             </div>
 
             {error && (
-              <p className="text-caption text-error bg-red-50 rounded-md px-3 py-2 mb-4">{error}</p>
+              <p className="text-caption text-error bg-error-light rounded-md px-3 py-2 mb-4">{error}</p>
             )}
 
             <button

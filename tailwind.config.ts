@@ -19,8 +19,8 @@ const config: Config = {
           light: "rgba(232,115,74,0.10)", // chip-baggrunde
         },
         accent: {
-          DEFAULT: "#2D6A4F",    // Forest Green — sekundære knapper, bekræftelse (CEO-godkendt)
-          dark: "#1B4332",       // hover accent
+          DEFAULT: "#3D6B4F",    // Forest Green — kanonisk (DESIGN_SYSTEM.md)
+          dark: "#2D6A4F",       // hover/pressed
           light: "#D8EFDF",      // success badges, planlagte
         },
         // Baggrunde
@@ -41,7 +41,11 @@ const config: Config = {
           muted: "#D5D4C4",
         },
         // Status
-        error: "#D64545",
+        error: {
+          DEFAULT: "#D64545",
+          light: "rgba(214,69,69,0.10)",
+          border: "rgba(214,69,69,0.25)",
+        },
         warning: "#D4A853",
       },
       fontFamily: {
