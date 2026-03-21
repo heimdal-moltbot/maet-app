@@ -17,7 +17,7 @@ export function Sidebar() {
   return (
     <aside className="flex w-64 flex-col border-r border-gray-200 bg-white">
       <div className="border-b border-gray-200 px-6 py-5">
-        <Link href="/dashboard" className="text-xl font-bold text-brand-accent">
+        <Link href="/dashboard" className="text-xl font-bold text-accent">
           Maet
         </Link>
       </div>
@@ -30,7 +30,7 @@ export function Sidebar() {
               href={item.href}
               className={`flex items-center gap-3 rounded-lg px-3 py-2 text-sm font-medium transition-colors ${
                 isActive
-                  ? 'bg-brand-accent-light text-brand-accent'
+                  ? 'bg-accent/10 text-accent'
                   : 'text-gray-700 hover:bg-gray-50 hover:text-gray-900'
               }`}
             >

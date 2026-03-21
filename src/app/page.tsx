@@ -8,7 +8,7 @@ export default function Home() {
         <h1 className="text-5xl font-bold tracking-tight text-gray-900 sm:text-6xl">
           Maet
         </h1>
-        <p className="mt-2 text-xl text-brand-accent">
+        <p className="mt-2 text-xl text-accent">
           Madplanlaegning for familier
         </p>
         <p className="mt-6 text-lg leading-8 text-gray-600">
