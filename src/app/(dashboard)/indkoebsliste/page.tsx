@@ -1,17 +1,6 @@
 'use client'
 
-import { useState, useEffect, useCallback } from 'react'
-
-// Default recipe-slugs fra den aktuelle ugeplan (mock — erstattes med Supabase)
-const DEFAULT_PLAN_RECIPES = [
-  'pasta-bolognese',
-  'frikadeller-med-kartofler-og-brun-sovs',
-  'stegt-laks-med-asparges',
-  'hjemmelavet-pizza',
-  'kylling-med-rodfrugter',
-]
-
-const CATEGORY_FILTERS = ['Alle', 'Kød & Fisk', 'Grøntsager', 'Mejeri', 'Tørvarer', 'Andet']
+import { useState, useCallback, useEffect } from 'react'
 
 interface ShoppingItem {
   id: string
@@ -30,12 +19,24 @@ interface ShoppingCategory {
   items: ShoppingItem[]
 }
 
+// Mock ugeplan-slugs — i uge 7-8 trækkes dette fra Supabase/madplan-state
+const CURRENT_WEEK_RECIPES = [
+  'pasta-bolognese',
+  'frikadeller-med-kartofler-og-brun-sovs',
+  'stegt-laks-med-asparges',
+  'hjemmelavet-pizza-margherita',
+  'kyllingewok-med-groentsager-og-ris',
+]
+
+const CATEGORY_FILTERS = ['Alle', 'Kød & Fisk', 'Grøntsager', 'Mejeri', 'Tørvarer', 'Andet']
+
 export default function IndkoebslistePage() {
   const [categories, setCategories] = useState<ShoppingCategory[]>([])
   const [checked, setChecked] = useState<Set<string>>(new Set())
-  const [activeCategory, setActiveCategory] = useState('Alle')
+  const [activeFilter, setActiveFilter] = useState('Alle')
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
+  const [weekRecipes] = useState(CURRENT_WEEK_RECIPES)
 
   const loadList = useCallback(async () => {
     setLoading(true)
@@ -44,26 +45,19 @@ export default function IndkoebslistePage() {
       const response = await fetch('/api/indkoebsliste/generer', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          recipes: DEFAULT_PLAN_RECIPES,
-          householdSize: 4,
-        }),
+        body: JSON.stringify({ recipes: weekRecipes, householdSize: 4 }),
       })
       if (!response.ok) throw new Error('API fejl')
       const data = await response.json()
       if (data.ok) {
-        setCategories(data.categories ?? [])
-        setChecked(new Set()) // nulstil check-status ved reload
+        setCategories(data.categories)
       }
-    } catch (e) {
+    } catch {
       setError('Kunne ikke hente indkøbsliste')
-      console.error(e)
-      // Fallback: vis mock-data
-      setCategories(MOCK_CATEGORIES)
     } finally {
       setLoading(false)
     }
-  }, [])
+  }, [weekRecipes])
 
   useEffect(() => { loadList() }, [loadList])
 
@@ -82,13 +76,12 @@ export default function IndkoebslistePage() {
   const progress = totalItems > 0 ? Math.round((checkedCount / totalItems) * 100) : 0
 
   const filteredCategories = categories.filter(cat => {
-    if (activeCategory === 'Alle') return true
-    if (activeCategory === 'Kød & Fisk') return cat.key === 'kød_fisk'
-    if (activeCategory === 'Grøntsager') return cat.key === 'grøntsager'
-    if (activeCategory === 'Mejeri') return cat.key === 'mejeri'
-    if (activeCategory === 'Tørvarer') return cat.key === 'tørvarer'
-    if (activeCategory === 'Andet') return ['dåser_glas', 'krydderier', 'brød', 'andet'].includes(cat.key)
-    return true
+    if (activeFilter === 'Alle') return true
+    if (activeFilter === 'Kød & Fisk') return cat.key === 'kød_fisk'
+    if (activeFilter === 'Grøntsager') return cat.key === 'grøntsager'
+    if (activeFilter === 'Mejeri') return cat.key === 'mejeri'
+    if (activeFilter === 'Tørvarer') return cat.key === 'tørvarer'
+    return !['kød_fisk', 'grøntsager', 'mejeri', 'tørvarer'].includes(cat.key)
   })
 
   return (
@@ -98,14 +91,15 @@ export default function IndkoebslistePage() {
         <div>
           <h1 className="text-h1 text-txt-primary">Indkøbsliste</h1>
           <p className="text-caption text-txt-muted">
-            {loading ? 'Henter...' : `${checkedCount}/${totalItems} varer`}
+            Uge 13 · {weekRecipes.length} opskrifter
           </p>
         </div>
         <div className="flex gap-2">
           <button
             onClick={loadList}
-            className="w-9 h-9 rounded-full bg-bg-surface border border-border flex items-center justify-center text-base hover:bg-bg-alt transition-colors"
-            title="Opdater"
+            disabled={loading}
+            className="w-9 h-9 rounded-full bg-bg-surface border border-border flex items-center justify-center text-base hover:bg-bg-alt transition-colors disabled:opacity-40"
+            title="Opdater liste"
           >
             🔄
           </button>
@@ -124,7 +118,7 @@ export default function IndkoebslistePage() {
           </div>
           <div className="h-2 bg-border rounded-full overflow-hidden">
             <div
-              className="h-full bg-accent rounded-full transition-all duration-300"
+              className="h-full bg-accent rounded-full transition-all duration-500"
               style={{ width: `${progress}%` }}
             />
           </div>
@@ -134,7 +128,7 @@ export default function IndkoebslistePage() {
       {/* Uge-label */}
       <div className="px-4 mb-3 flex items-center justify-between">
         <span className="text-body text-txt-secondary">Uge 13 · 23–29 mar</span>
-        <span className="text-caption text-txt-muted">{DEFAULT_PLAN_RECIPES.length} retter</span>
+        <button className="text-label text-primary font-medium">Skift ▼</button>
       </div>
 
       {/* Kategori-filter */}
@@ -142,9 +136,9 @@ export default function IndkoebslistePage() {
         {CATEGORY_FILTERS.map(f => (
           <button
             key={f}
-            onClick={() => setActiveCategory(f)}
-            className={`flex-shrink-0 px-4 py-2 rounded-full text-label border transition-colors ${
-              activeCategory === f
+            onClick={() => setActiveFilter(f)}
+            className={`flex-shrink-0 px-3 py-1.5 rounded-full text-label border transition-colors ${
+              activeFilter === f
                 ? 'bg-primary text-white border-primary'
                 : 'bg-bg-surface text-txt-secondary border-border hover:border-primary/30'
             }`}
@@ -154,29 +148,24 @@ export default function IndkoebslistePage() {
         ))}
       </div>
 
-      {/* Loading */}
+      {/* Loader */}
       {loading && (
-        <div className="px-4 space-y-4">
+        <div className="px-4 space-y-3">
           {[1, 2, 3].map(i => (
-            <div key={i} className="bg-bg-surface rounded-lg border border-border p-4 animate-pulse">
-              <div className="h-4 bg-bg-alt rounded w-1/3 mb-3" />
-              {[1, 2, 3].map(j => (
-                <div key={j} className="h-12 bg-bg-alt rounded mb-1" />
-              ))}
-            </div>
+            <div key={i} className="bg-bg-surface rounded-lg border border-border h-32 animate-pulse" />
           ))}
         </div>
       )}
 
       {/* Fejl */}
       {error && !loading && (
-        <div className="mx-4 mb-3 px-4 py-3 bg-red-50 border border-red-100 rounded-md text-caption text-error">
-          {error}
+        <div className="mx-4 px-4 py-3 bg-red-50 border border-red-100 rounded-md text-caption text-error">
+          {error} — <button onClick={loadList} className="underline">Prøv igen</button>
         </div>
       )}
 
       {/* Vareliste */}
-      {!loading && (
+      {!loading && !error && (
         <div className="px-4 space-y-4">
           {filteredCategories.map(category => {
             const unchecked = category.items.filter(i => !checked.has(i.id))
@@ -198,13 +187,16 @@ export default function IndkoebslistePage() {
                           onClick={() => toggleItem(item.id)}
                           className="w-full flex items-center gap-3 px-4 h-[52px] text-left hover:bg-bg-alt transition-colors"
                         >
-                          <div className={`w-6 h-6 rounded-sm border-2 flex items-center justify-center flex-shrink-0 transition-colors ${
+                          <div className={`w-6 h-6 rounded-sm border-2 flex items-center justify-center flex-shrink-0 transition-all ${
                             isDone ? 'bg-accent border-accent' : 'border-border'
                           }`}>
-                            {isDone && <span className="text-white text-xs">✓</span>}
+                            {isDone && <span className="text-white text-xs leading-none">✓</span>}
                           </div>
                           <span className={`flex-1 text-body ${isDone ? 'line-through text-txt-muted' : 'text-txt-primary'}`}>
                             {item.name}
+                            {item.recipeCount > 1 && (
+                              <span className="text-micro text-txt-muted ml-1">({item.recipeCount} retter)</span>
+                            )}
                           </span>
                           <span className={`text-body flex-shrink-0 ${isDone ? 'text-txt-muted' : 'text-txt-secondary'}`}>
                             {item.displayQuantity}
@@ -219,8 +211,8 @@ export default function IndkoebslistePage() {
           })}
 
           {filteredCategories.length === 0 && !loading && (
-            <div className="py-12 text-center">
-              <p className="text-3xl mb-3">🛒</p>
+            <div className="text-center py-8">
+              <p className="text-4xl mb-2">🛒</p>
               <p className="text-body text-txt-muted">Ingen varer i denne kategori</p>
             </div>
           )}
@@ -234,9 +226,9 @@ export default function IndkoebslistePage() {
           {checkedCount > 0 && (
             <button
               onClick={() => setChecked(new Set())}
-              className="w-full py-2 text-caption text-txt-muted hover:text-txt-secondary transition-colors"
+              className="w-full py-3 text-caption text-txt-muted hover:text-txt-secondary transition-colors"
             >
-              Nulstil liste ({checkedCount} afkrydset)
+              Nulstil afkrydsede ({checkedCount})
             </button>
           )}
         </div>
@@ -244,29 +236,3 @@ export default function IndkoebslistePage() {
     </div>
   )
 }
-
-// Fallback mock-data hvis API fejler
-const MOCK_CATEGORIES: ShoppingCategory[] = [
-  {
-    key: 'kød_fisk', label: 'Kød & Fisk', emoji: '🥩',
-    items: [
-      { id: 'm1', name: 'Hakket oksekød', displayQuantity: '500 g', unit: 'g', category: 'kød_fisk', checked: false, recipeCount: 1 },
-      { id: 'm2', name: 'Kyllingebrester', displayQuantity: '600 g', unit: 'g', category: 'kød_fisk', checked: false, recipeCount: 1 },
-    ],
-  },
-  {
-    key: 'grøntsager', label: 'Grøntsager & Frugt', emoji: '🥦',
-    items: [
-      { id: 'm3', name: 'Løg', displayQuantity: '3 stk', unit: 'stk', category: 'grøntsager', checked: false, recipeCount: 2 },
-      { id: 'm4', name: 'Hvidløg', displayQuantity: '1 hoved', unit: 'hoved', category: 'grøntsager', checked: false, recipeCount: 2 },
-      { id: 'm5', name: 'Gulerødder', displayQuantity: '400 g', unit: 'g', category: 'grøntsager', checked: false, recipeCount: 1 },
-    ],
-  },
-  {
-    key: 'tørvarer', label: 'Tørvarer & Pasta', emoji: '🌾',
-    items: [
-      { id: 'm6', name: 'Pasta', displayQuantity: '400 g', unit: 'g', category: 'tørvarer', checked: false, recipeCount: 1 },
-      { id: 'm7', name: 'Dåsetomater', displayQuantity: '2 stk', unit: 'stk', category: 'tørvarer', checked: false, recipeCount: 1 },
-    ],
-  },
-]
