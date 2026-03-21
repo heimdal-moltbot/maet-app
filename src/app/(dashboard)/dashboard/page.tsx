@@ -138,20 +138,23 @@ export default async function DashboardPage() {
         </div>
       </div>
 
-      {/* Indkøbsliste genvej */}
-      <div className="px-4">
+      {/* Quick actions */}
+      <div className="px-4 grid grid-cols-2 gap-3">
         <Link
           href="/indkoebsliste"
-          className="flex items-center justify-between bg-accent text-white rounded-lg p-4 shadow-sm"
+          className="flex flex-col gap-2 bg-accent text-white rounded-xl p-4 shadow-sm"
         >
-          <div className="flex items-center gap-3">
-            <span className="text-2xl">🛒</span>
-            <div>
-              <p className="text-label-lg font-semibold">Indkøbsliste</p>
-              <p className="text-caption opacity-80">3 varer mangler</p>
-            </div>
-          </div>
-          <span className="text-xl opacity-80">→</span>
+          <span className="text-2xl">🛒</span>
+          <p className="text-label-lg font-semibold">Indkøbsliste</p>
+          <p className="text-caption opacity-80">Genér fra ugeplanen</p>
+        </Link>
+        <Link
+          href="/madplan"
+          className="flex flex-col gap-2 bg-primary text-white rounded-xl p-4 shadow-sm"
+        >
+          <span className="text-2xl">✨</span>
+          <p className="text-label-lg font-semibold">Generer ugeplan</p>
+          <p className="text-caption opacity-80">Ny uge starter mandag</p>
         </Link>
       </div>
     </div>

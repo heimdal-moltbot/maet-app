@@ -183,7 +183,7 @@ export default function MadplanPage() {
       </div>
 
       {/* Sticky bund */}
-      <div className="fixed bottom-14 left-0 right-0 px-4 pb-3 pt-2 bg-bg border-t border-border">
+      <div className="fixed bottom-16 left-0 right-0 px-4 pb-3 pt-2 bg-bg border-t border-border">
         <Link
           href="/indkoebsliste"
           className="flex items-center justify-center gap-2 w-full bg-accent text-white rounded-lg py-4 text-label-lg font-semibold shadow-md hover:bg-accent-dark transition-colors"
