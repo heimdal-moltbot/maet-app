@@ -3,13 +3,12 @@
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 
-// UX spec: 5 tabs — 🏠 📅 🔍 🛒 👤
+// UX spec v1.4: 4 tabs (CEO-bekræftet 21/3) — 🏠 📅 🍽️ 🛒
 const NAV_ITEMS = [
   { href: '/dashboard', label: 'Hjem', icon: '🏠' },
   { href: '/madplan', label: 'Madplan', icon: '📅' },
-  { href: '/opskrifter', label: 'Opskrifter', icon: '🔍' },
+  { href: '/opskrifter', label: 'Opskrifter', icon: '🍽️' },
   { href: '/indkoebsliste', label: 'Indkøb', icon: '🛒' },
-  { href: '/profil', label: 'Profil', icon: '👤' },
 ]
 
 export function BottomNav() {
