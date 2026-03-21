@@ -2,7 +2,7 @@
 
 import { useState, useMemo } from 'react'
 import Link from 'next/link'
-import recipesData from '@/lib/data/all-recipes.json'
+import recipesData from '@/lib/data/recipes-index.json'
 
 interface Recipe {
   id: string
