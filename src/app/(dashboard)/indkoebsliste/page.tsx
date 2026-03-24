@@ -103,9 +103,7 @@ export default function IndkoebslistePage() {
           >
             🔄
           </button>
-          <button className="w-9 h-9 rounded-full bg-bg-surface border border-border flex items-center justify-center text-base">
-            📤
-          </button>
+
         </div>
       </div>
 

@@ -170,7 +170,7 @@ export default function OnboardingPage() {
 
         {/* STEP 2: Kostpræferencer */}
         {step === 2 && (
-          <div className="bg-bg-surface rounded-xl border border-border shadow-sm p-6">
+          <div className="bg-bg-surface rounded-xl border border-border shadow-sm p-6 animate-fade-in">
             <h2 className="text-h2 text-txt-primary mb-1">Kostrestriktioner & præferencer</h2>
             <p className="text-body text-txt-secondary mb-4">
               Vi tilpasser forslagene — kan ændres under Profil
@@ -187,7 +187,7 @@ export default function OnboardingPage() {
                     onClick={() => toggleTag(tag)}
                     className={`flex items-center gap-2 px-3 py-2.5 rounded-md border transition-all text-left ${
                       selected
-                        ? 'border-primary bg-primary/8 text-primary'
+                        ? 'border-primary bg-primary/10 text-primary'
                         : 'border-border bg-bg-surface text-txt-primary hover:border-primary/30'
                     }`}
                   >
@@ -260,7 +260,7 @@ export default function OnboardingPage() {
 
         {/* STEP 3: Bekræftelse */}
         {step === 3 && (
-          <div className="bg-bg-surface rounded-xl border border-border shadow-sm p-6">
+          <div className="bg-bg-surface rounded-xl border border-border shadow-sm p-6 animate-fade-in">
             <h2 className="text-h2 text-txt-primary mb-1">Hvad hedder I?</h2>
             <p className="text-body text-txt-secondary mb-5">Giv jeres profil et navn — det er valgfrit</p>
 

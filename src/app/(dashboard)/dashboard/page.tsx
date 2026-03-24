@@ -36,13 +36,15 @@ export default async function DashboardPage() {
   const firstName = user?.user_metadata?.full_name?.split(' ')[0] || 'der'
   const today = new Date().getDay() // 0=søn, 1=man...
   const todayIdx = today === 0 ? 6 : today - 1
+  const rawDate = new Date().toLocaleDateString('da-DK', { weekday: 'long', day: 'numeric', month: 'long' })
+  const todayLabel = rawDate.charAt(0).toUpperCase() + rawDate.slice(1)
 
   return (
     <div className="min-h-screen bg-bg pb-20">
       {/* Header */}
       <div className="px-4 pt-12 pb-4 flex items-center justify-between">
         <div>
-          <p className="text-caption text-txt-muted">Fredag 20. marts</p>
+          <p className="text-caption text-txt-muted">{todayLabel}</p>
           <h1 className="text-h1 text-txt-primary">Hej, {firstName}! 👋</h1>
         </div>
         <div className="flex gap-2">
@@ -126,7 +128,7 @@ export default async function DashboardPage() {
               href="/opskrifter"
               className="flex-shrink-0 w-[120px] rounded-md border border-border bg-bg-surface shadow-sm overflow-hidden"
             >
-              <div className="h-20 bg-gradient-to-br from-primary/8 to-accent/8 flex items-center justify-center">
+              <div className="h-20 bg-gradient-to-br from-primary/10 to-accent/10 flex items-center justify-center">
                 <span className="text-3xl">{emoji}</span>
               </div>
               <div className="p-2">

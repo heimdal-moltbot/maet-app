@@ -75,7 +75,7 @@ export default function RecipeDetailClient({ recipe }: { recipe: Recipe }) {
       {/* Hero */}
       <div className="relative">
         <div
-          className="w-full flex items-center justify-center bg-gradient-to-br from-[#F5F0E8] to-[#EDE8DC]"
+          className="w-full flex items-center justify-center bg-gradient-to-br from-bg-alt to-bg-alt"
           style={{ height: '220px' }}
         >
           <span className="text-7xl">{emoji}</span>

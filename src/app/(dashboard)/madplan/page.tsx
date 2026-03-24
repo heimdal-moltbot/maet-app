@@ -47,6 +47,9 @@ export default function MadplanPage() {
   const [aftensmad, setAftensmad] = useState<(PlanRecipe | null)[]>(INITIAL_AFTENSMAD)
   const [generating, setGenerating] = useState(false)
   const [error, setError] = useState<string | null>(null)
+  const [weekOffset, setWeekOffset] = useState(0)
+
+  const weekLabel = weekOffset === 0 ? 'Denne uge' : weekOffset === -1 ? 'Forrige uge' : weekOffset === 1 ? 'Næste uge' : `Uge +${weekOffset}`
 
   function removeAftensmad(dayIndex: number) {
     setAftensmad(prev => prev.map((r, i) => i === dayIndex ? null : r))
@@ -101,9 +104,9 @@ export default function MadplanPage() {
       {/* Uge-navigator */}
       <div className="px-4 mb-4">
         <div className="flex items-center justify-between bg-bg-surface rounded-md border border-border px-4 py-2.5">
-          <button className="text-txt-muted text-lg px-1">‹</button>
-          <span className="text-body-md text-txt-primary font-semibold">Uge 13 · 23–29 mar 2026</span>
-          <button className="text-txt-muted text-lg px-1">›</button>
+          <button onClick={() => setWeekOffset(w => w - 1)} className="text-txt-muted text-lg px-1 hover:text-txt-secondary transition-colors">‹</button>
+          <span className="text-body-md text-txt-primary font-semibold">{weekLabel}</span>
+          <button onClick={() => setWeekOffset(w => w + 1)} className="text-txt-muted text-lg px-1 hover:text-txt-secondary transition-colors">›</button>
         </div>
       </div>
 

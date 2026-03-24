@@ -84,7 +84,7 @@ export default function OpskrifterPage() {
 
       {/* Søgefelt — 44px, r=12, bg #F0ECD8 */}
       <div className="px-4 mb-3">
-        <div className="flex items-center gap-2 rounded-xl px-4 h-11" style={{ background: '#F0ECD8' }}>
+        <div className="flex items-center gap-2 rounded-xl px-4 h-11 bg-bg-alt">
           <span className="text-txt-muted text-sm">🔍</span>
           <input
             type="search"
@@ -108,9 +108,8 @@ export default function OpskrifterPage() {
             className={`flex-shrink-0 h-10 px-4 rounded-full text-label font-medium transition-colors ${
               activeFilter === f.key
                 ? 'bg-accent text-white'
-                : 'text-txt-secondary'
+                : 'bg-bg-alt text-txt-secondary'
             }`}
-            style={activeFilter !== f.key ? { background: '#F0ECD8' } : {}}
           >
             {f.label}
           </button>
@@ -133,8 +132,7 @@ export default function OpskrifterPage() {
               {/* Billede 4:3 aspect ratio */}
               <div className="relative" style={{ paddingBottom: '75%' }}>
                 <div
-                  className="absolute inset-0 flex items-center justify-center"
-                  style={{ background: 'linear-gradient(135deg, #F5F0E8, #EDE8DC)' }}
+                  className="absolute inset-0 flex items-center justify-center bg-gradient-to-br from-bg-alt to-bg-alt"
                 >
                   <span className="text-4xl">{emoji}</span>
                 </div>
