@@ -83,6 +83,7 @@ export default function RecipeDetailClient({ recipe }: { recipe: Recipe }) {
         {/* Tilbage-knap */}
         <Link
           href="/opskrifter"
+          aria-label="Tilbage til opskrifter"
           className="absolute top-4 left-4 w-10 h-10 bg-white/90 backdrop-blur-sm rounded-full flex items-center justify-center shadow-sm text-txt-primary"
         >
           ←

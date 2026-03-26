@@ -105,10 +105,11 @@ export default function OnboardingPage() {
         </div>
 
         {/* Progress (3 dots) */}
-        <div className="flex justify-center gap-2 mb-8">
+        <div role="progressbar" aria-valuenow={step} aria-valuemin={1} aria-valuemax={3} aria-label={`Trin ${step} af 3`} className="flex justify-center gap-2 mb-8">
           {[1, 2, 3].map(s => (
             <div
               key={s}
+              aria-hidden="true"
               className={`transition-all duration-300 rounded-full ${
                 s === step
                   ? 'w-6 h-2.5 bg-primary'
@@ -133,10 +134,13 @@ export default function OnboardingPage() {
               </p>
             </div>
 
-            <div className="grid grid-cols-5 gap-2 mb-3">
+            <div role="radiogroup" aria-label="Antal personer i husstand" className="grid grid-cols-5 gap-2 mb-3">
               {[1, 2, 3, 4, 5].map(n => (
                 <button
                   key={n}
+                  role="radio"
+                  aria-checked={householdSize === n}
+                  aria-label={`${n} ${n === 1 ? 'person' : 'personer'}`}
                   onClick={() => setHouseholdSize(n)}
                   className={`aspect-square rounded-md text-h3 font-bold transition-all ${
                     householdSize === n

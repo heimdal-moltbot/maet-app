@@ -38,7 +38,7 @@ export default async function ProfilPage() {
         <div className="bg-bg-surface rounded-xl border border-border shadow-sm p-4">
           <div className="flex items-center justify-between mb-3">
             <h2 className="text-body-md text-txt-primary font-semibold">Husstand</h2>
-            <a href="/onboarding" className="text-caption text-primary font-medium">Rediger</a>
+            <a href="/onboarding" aria-label="Rediger husstand" className="text-caption text-primary font-medium">Rediger</a>
           </div>
           <div className="flex items-center gap-3">
             <span className="text-2xl">👨‍👩‍👧‍👦</span>
@@ -52,7 +52,7 @@ export default async function ProfilPage() {
         <div className="bg-bg-surface rounded-xl border border-border shadow-sm p-4">
           <div className="flex items-center justify-between mb-3">
             <h2 className="text-body-md text-txt-primary font-semibold">Kostpræferencer</h2>
-            <a href="/onboarding" className="text-caption text-primary font-medium">Rediger</a>
+            <a href="/onboarding" aria-label="Rediger kostpræferencer" className="text-caption text-primary font-medium">Rediger</a>
           </div>
           {dietaryTags.length > 0 ? (
             <div className="flex flex-wrap gap-2">
