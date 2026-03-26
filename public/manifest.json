@@ -1,13 +1,16 @@
 {
-  "name": "Maet - Madplanlaegning",
-  "short_name": "Maet",
-  "description": "Madplanlaegning for familier",
-  "start_url": "/",
+  "name": "Mæt — Din families madplan",
+  "short_name": "Mæt",
+  "description": "Mæt gør det nemt at planlægge ugens måltider, finde opskrifter og lave indkøbslister for hele familien.",
+  "start_url": "/dashboard",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#16a34a",
+  "background_color": "#FEFAE0",
+  "theme_color": "#E8734A",
+  "lang": "da",
+  "orientation": "portrait-primary",
+  "categories": ["food", "lifestyle"],
   "icons": [
-    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
   ]
 }
