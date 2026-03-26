@@ -48,7 +48,7 @@ export default async function DashboardPage() {
           <h1 className="text-h1 text-txt-primary">Hej, {firstName}! 👋</h1>
         </div>
         <div className="flex gap-2">
-          <button className="w-10 h-10 rounded-full bg-bg-surface shadow-sm flex items-center justify-center text-lg border border-border">
+          <button aria-label="Notifikationer" className="w-10 h-10 rounded-full bg-bg-surface shadow-sm flex items-center justify-center text-lg border border-border">
             🔔
           </button>
           <Link href="/profil" className="w-10 h-10 rounded-full bg-bg-surface shadow-sm flex items-center justify-center text-lg border border-border">

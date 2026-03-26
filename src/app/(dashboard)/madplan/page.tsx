@@ -93,6 +93,8 @@ export default function MadplanPage() {
           <p className="text-caption text-txt-muted">Uge 13 · 23–29 mar 2026</p>
         </div>
         <button
+          aria-label={generating ? 'Genererer ugeplan...' : 'Generer ny ugeplan'}
+          aria-busy={generating}
           onClick={generatePlan}
           disabled={generating}
           className="px-4 py-2 bg-primary text-white rounded-md text-label font-semibold hover:bg-primary-dark transition-colors disabled:opacity-60 shadow-sm"
@@ -104,9 +106,9 @@ export default function MadplanPage() {
       {/* Uge-navigator */}
       <div className="px-4 mb-4">
         <div className="flex items-center justify-between bg-bg-surface rounded-md border border-border px-4 py-2.5">
-          <button onClick={() => setWeekOffset(w => w - 1)} className="text-txt-muted text-lg px-1 hover:text-txt-secondary transition-colors">‹</button>
+          <button aria-label="Forrige uge" onClick={() => setWeekOffset(w => w - 1)} className="text-txt-muted text-lg px-1 hover:text-txt-secondary transition-colors">‹</button>
           <span className="text-body-md text-txt-primary font-semibold">{weekLabel}</span>
-          <button onClick={() => setWeekOffset(w => w + 1)} className="text-txt-muted text-lg px-1 hover:text-txt-secondary transition-colors">›</button>
+          <button aria-label="Næste uge" onClick={() => setWeekOffset(w => w + 1)} className="text-txt-muted text-lg px-1 hover:text-txt-secondary transition-colors">›</button>
         </div>
       </div>
 
@@ -159,9 +161,9 @@ export default function MadplanPage() {
                             </div>
                             {isAftensmad && (
                               <button
+                                aria-label={`Fjern ${aftensmadRecipe?.title ?? 'ret'} fra ${dayName}`}
                                 onClick={() => removeAftensmad(dayIndex)}
                                 className="text-txt-muted hover:text-error text-lg px-1 flex-shrink-0 transition-colors"
-                                title="Fjern"
                               >
                                 ×
                               </button>

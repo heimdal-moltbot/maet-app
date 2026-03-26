@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useCallback, useEffect } from 'react'
+import { ShoppingCategorySkeleton } from '@/components/ui/Skeleton'
 
 interface ShoppingItem {
   id: string
@@ -148,10 +149,10 @@ export default function IndkoebslistePage() {
 
       {/* Loader */}
       {loading && (
-        <div className="px-4 space-y-3">
-          {[1, 2, 3].map(i => (
-            <div key={i} className="bg-bg-surface rounded-lg border border-border h-32 animate-pulse" />
-          ))}
+        <div role="status" aria-label="Indlæser indkøbsliste" className="px-4 space-y-4">
+          <ShoppingCategorySkeleton />
+          <ShoppingCategorySkeleton />
+          <ShoppingCategorySkeleton />
         </div>
       )}
 
