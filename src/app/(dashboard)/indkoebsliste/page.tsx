@@ -96,10 +96,10 @@ export default function IndkoebslistePage() {
         </div>
         <div className="flex gap-2">
           <button
+            aria-label="Opdater indkøbsliste"
             onClick={loadList}
             disabled={loading}
             className="w-9 h-9 rounded-full bg-bg-surface border border-border flex items-center justify-center text-base hover:bg-bg-alt transition-colors disabled:opacity-40"
-            title="Opdater liste"
           >
             🔄
           </button>
@@ -126,7 +126,7 @@ export default function IndkoebslistePage() {
       {/* Uge-label */}
       <div className="px-4 mb-3 flex items-center justify-between">
         <span className="text-body text-txt-secondary">Uge 13 · 23–29 mar</span>
-        <button className="text-label text-primary font-medium">Skift ▼</button>
+        <button aria-label="Skift uge" className="text-label text-primary font-medium">Skift ▼</button>
       </div>
 
       {/* Kategori-filter */}
@@ -182,6 +182,8 @@ export default function IndkoebslistePage() {
                       <div key={item.id}>
                         {idx > 0 && <div className="h-px bg-border mx-4" />}
                         <button
+                          aria-label={`${isDone ? 'Fjern afkrydsning af' : 'Afkryds'} ${item.name}`}
+                          aria-pressed={isDone}
                           onClick={() => toggleItem(item.id)}
                           className="w-full flex items-center gap-3 px-4 h-[52px] text-left hover:bg-bg-alt transition-colors"
                         >

@@ -88,7 +88,7 @@ export default function RecipeDetailClient({ recipe }: { recipe: Recipe }) {
           ←
         </Link>
         {/* Gem-knap */}
-        <button className="absolute top-4 right-4 w-10 h-10 bg-white/90 backdrop-blur-sm rounded-full flex items-center justify-center shadow-sm text-primary text-lg">
+        <button aria-label="Gem opskrift" className="absolute top-4 right-4 w-10 h-10 bg-white/90 backdrop-blur-sm rounded-full flex items-center justify-center shadow-sm text-primary text-lg">
           ❤
         </button>
       </div>
@@ -154,13 +154,15 @@ export default function RecipeDetailClient({ recipe }: { recipe: Recipe }) {
               <span className="text-body text-txt-secondary">Portioner</span>
               <div className="flex items-center gap-3">
                 <button
+                  aria-label="Mindsk antal portioner"
                   onClick={() => setServings(Math.max(1, servings - 1))}
                   className="w-8 h-8 rounded-full border border-border flex items-center justify-center text-primary font-bold hover:bg-primary/5 transition-colors"
                 >
                   −
                 </button>
-                <span className="text-body-md font-semibold text-txt-primary w-6 text-center">{servings}</span>
+                <span aria-live="polite" aria-label={`${servings} portioner`} className="text-body-md font-semibold text-txt-primary w-6 text-center">{servings}</span>
                 <button
+                  aria-label="Øg antal portioner"
                   onClick={() => setServings(Math.min(12, servings + 1))}
                   className="w-8 h-8 rounded-full border border-border flex items-center justify-center text-primary font-bold hover:bg-primary/5 transition-colors"
                 >
@@ -206,6 +208,8 @@ export default function RecipeDetailClient({ recipe }: { recipe: Recipe }) {
                 {steps.map((_, i) => (
                   <button
                     key={i}
+                    aria-label={`Gå til trin ${i + 1}`}
+                    aria-current={i === currentStep ? 'step' : undefined}
                     onClick={() => setCurrentStep(i)}
                     className={`w-2 h-2 rounded-full transition-all ${
                       i === currentStep ? 'bg-primary w-4' : 'bg-border'

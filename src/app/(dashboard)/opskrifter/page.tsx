@@ -94,7 +94,7 @@ export default function OpskrifterPage() {
             className="flex-1 bg-transparent outline-none text-body text-txt-primary placeholder:text-txt-muted"
           />
           {search && (
-            <button onClick={() => setSearch('')} className="text-txt-muted">×</button>
+            <button aria-label="Ryd søgning" onClick={() => setSearch('')} className="text-txt-muted">×</button>
           )}
         </div>
       </div>
@@ -138,6 +138,7 @@ export default function OpskrifterPage() {
                 </div>
                 {/* Favorit-knap */}
                 <button
+                  aria-label={`Gem ${recipe.title} som favorit`}
                   onClick={e => { e.preventDefault(); e.stopPropagation() }}
                   className="absolute top-2 right-2 w-8 h-8 rounded-full bg-white/80 backdrop-blur-sm flex items-center justify-center text-base shadow-sm"
                 >
