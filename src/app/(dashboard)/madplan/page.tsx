@@ -87,7 +87,7 @@ export default function MadplanPage() {
   return (
     <div className="min-h-screen bg-bg pb-24">
       {/* Header */}
-      <div className="px-4 pt-12 pb-3 flex items-center justify-between">
+      <div className="px-4 pt-12 md:pt-20 pb-3 flex items-center justify-between">
         <div>
           <h1 className="text-h1 text-txt-primary">Ugeplan</h1>
           <p className="text-caption text-txt-muted">Uge 13 · 23–29 mar 2026</p>

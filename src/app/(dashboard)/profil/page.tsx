@@ -21,7 +21,7 @@ export default async function ProfilPage() {
   return (
     <div className="min-h-screen bg-bg pb-20">
       {/* Header */}
-      <div className="px-4 pt-12 pb-6">
+      <div className="px-4 pt-12 md:pt-20 pb-6">
         <div className="flex items-center gap-4">
           <div className="w-16 h-16 rounded-full bg-primary/15 flex items-center justify-center text-2xl">
             👤

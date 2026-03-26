@@ -15,7 +15,7 @@ export function BottomNav() {
   const pathname = usePathname()
 
   return (
-    <nav aria-label="Primær navigation" className="fixed bottom-0 left-0 right-0 z-50 bg-bg-surface border-t border-border pb-safe">
+    <nav aria-label="Primær navigation" className="md:hidden fixed bottom-0 left-0 right-0 z-50 bg-bg-surface border-t border-border pb-safe">
       <div className="flex max-w-md mx-auto h-16">
         {NAV_ITEMS.map(({ href, label, icon }) => {
           const active = pathname === href || pathname.startsWith(href + '/')

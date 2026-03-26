@@ -88,7 +88,7 @@ export default function IndkoebslistePage() {
   return (
     <div className="min-h-screen bg-bg pb-20">
       {/* Header */}
-      <div className="px-4 pt-12 pb-3 flex items-center justify-between">
+      <div className="px-4 pt-12 md:pt-20 pb-3 flex items-center justify-between">
         <div>
           <h1 className="text-h1 text-txt-primary">Indkøbsliste</h1>
           <p className="text-caption text-txt-muted">

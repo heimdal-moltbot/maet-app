@@ -78,7 +78,7 @@ export default function OpskrifterPage() {
   return (
     <div className="min-h-screen bg-bg pb-20">
       {/* Header — 56px, bg-bg, Inter 20px Bold */}
-      <div className="px-4 pt-12 pb-3">
+      <div className="px-4 pt-12 md:pt-20 pb-3">
         <h1 className="text-h2 text-txt-primary font-bold">Opskrifter</h1>
       </div>
 

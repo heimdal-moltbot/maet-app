@@ -42,7 +42,7 @@ export default async function DashboardPage() {
   return (
     <div className="min-h-screen bg-bg pb-20">
       {/* Header */}
-      <div className="px-4 pt-12 pb-4 flex items-center justify-between">
+      <div className="px-4 pt-12 md:pt-20 pb-4 flex items-center justify-between">
         <div>
           <p className="text-caption text-txt-muted">{todayLabel}</p>
           <h1 className="text-h1 text-txt-primary">Hej, {firstName}! 👋</h1>

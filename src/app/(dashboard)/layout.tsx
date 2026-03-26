@@ -7,7 +7,7 @@ export default function DashboardLayout({
 }) {
   return (
     <div className="min-h-screen bg-bg">
-      <main className="max-w-md mx-auto pb-16">{children}</main>
+      <main className="max-w-md mx-auto pb-16 md:pb-0">{children}</main>
       <BottomNav />
     </div>
   )
